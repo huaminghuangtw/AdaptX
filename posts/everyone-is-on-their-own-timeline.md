@@ -2,7 +2,7 @@
 title: 每個人都有自己的時區
 description:
 created: 2025-08-22T07:34:40
-modified: 2025-08-22T15:28:23
+modified: 2025-08-23T05:52:13
 draft: true
 featured: false
 tags:
@@ -34,11 +34,11 @@ You can't predict when you find your _thing_ in life. You may find it at 20, or 
 
 Just keep exploring until you find your thing, then go deep and direct all of your energy, attention, and focus towards it.
 
-No matter where you are in life _today_, you're always one good decision away from being in a better place _tomorrow_—[just focus on the next decision](just-focus-on-the-next-decision.md).
+No matter where you are in life _today_, you're always one good decision away from being in a better place _tomorrow_—[just focus on the next decision](../../Evergreen-Notes/Permanent-Notes/just-focus-on-the-next-decision.md).
 
-It's okay to be lost sometimes, but [never compare your timeline to other people's, because it's a pointless comparison](comparison-is-the-thief-of-joy.md). Don't let anyone rush you with their timelines. Don't get stuck in a life that isn't yours. Don't live a life that isn't yours. [^1]
+It's okay to be lost sometimes, but [never compare your timeline to other people's, because it's a pointless comparison](../../Evergreen-Notes/Permanent-Notes/comparison-is-the-thief-of-joy.md). Don't let anyone rush you with their timelines. Don't get stuck in a life that isn't yours. Don't live a life that isn't yours. [^1]
 
-[Life is neither a race, nor a competition.](Escape%20competition%20through%20authenticity.md) There are no rules to life. Not everything in life has to come together at the exact same time. There is no such thing as “too late” or “falling behind” when it comes to life. You might be [too scared](fear.md), but you are never too late.
+[Life is neither a race, nor a competition.](../../Evergreen-Notes/Permanent-Notes/Escape%20competition%20through%20authenticity.md) There are no rules to life. Not everything in life has to come together at the exact same time. There is no such thing as “too late” or “falling behind” when it comes to life. You might be [too scared](../../Evergreen-Notes/Permanent-Notes/fear.md), but you are never too late.
 
 只要開始就不嫌晚，沒有什麼叫太晚。
 
