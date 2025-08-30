@@ -2,7 +2,7 @@
 title: 你與你的時區
 description:
 created: 2025-08-22T07:34:40
-modified: 2025-08-30T13:30:20
+modified: 2025-08-30T13:37:30
 draft: false
 featured: true
 tags:
@@ -116,11 +116,6 @@ tags:
 專注於自己的步調、節奏，享受每一步，並感恩與你同行的夥伴。
 
 愛上追尋的感覺，因為旅程本身就是最棒的獎勵。
-
-<div align="center">
-![](Pasted%20image%2020250830085202.png)
-<sub>圖片來源：[《Do Quests, Not Goals》](https://www.raptitude.com/2024/08/do-quests-not-goals/)</sub>
-</div>
 
 ---
 
