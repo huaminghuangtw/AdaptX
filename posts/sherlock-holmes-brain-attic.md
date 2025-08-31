@@ -2,12 +2,14 @@
 title: 像福爾摩斯一樣思考：打造你的大腦閣樓
 description:
 created: 2025-08-14T07:29:22
-modified: 2025-08-25T19:46:15
+modified: 2025-08-31T17:09:50
 draft: false
 featured: false
 tags:
   - AdaptX/如何變聰明
 ---
+
+![](Pasted%20image%2020250831170945.png)
 
 在《[血字的研究（A Study in Scarlet）](https://www.goodreads.com/quotes/227359-i-consider-that-a-man-s-brain-originally-is-like-a)》中，福爾摩斯（Sherlock Holmes）將人類的大腦比喻作一個「大腦閣樓（Brain Attic）」：
 
