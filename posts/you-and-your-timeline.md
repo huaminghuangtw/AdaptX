@@ -2,14 +2,13 @@
 title: 你與你的時區
 description:
 created: 2025-08-30T07:34:40
-modified: 2025-08-31T17:02:25
+modified: 2025-09-01T08:45:29
 draft: false
 featured: true
+ogImage: ../_attachments/41f5d232b263a3b8ba3cae2a81b2e364.png
 tags:
   - AdaptX/如何做最好的自己
 ---
-
-![](../_attachments/41f5d232b263a3b8ba3cae2a81b2e364.png)
 
 在這個社群媒體盛行的時代，我們很容易將自己的人生進度與他人比較，心裡開始擔憂：我是不是落後了？是不是該更努力一點？
 
@@ -117,7 +116,7 @@ tags:
 
 愛上追尋的感覺，因為旅程本身就是最棒的獎勵。
 
-![](Pasted%20image%2020250831170223.png)
+![](../_attachments/b949794eaae9cc559197a7bb489a7dd5.png)
 
 ---
 
