@@ -1,11 +1,12 @@
 ---
 title: 你與你的時區
+canonicalURL: https://adaptx.tw/2025/8/30/you-and-your-timeline
 description:
+ogImage: ../_attachments/41f5d232b263a3b8ba3cae2a81b2e364.png
 created: 2025-08-30T07:34:40
-modified: 2025-09-01T08:45:29
+modified: 2025-09-01T17:27:40
 draft: false
 featured: true
-ogImage: ../_attachments/41f5d232b263a3b8ba3cae2a81b2e364.png
 tags:
   - AdaptX/如何做最好的自己
 ---
