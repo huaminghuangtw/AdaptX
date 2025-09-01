@@ -1,10 +1,11 @@
 ---
 title: 再也不要因為事情微小而不為
-description: 
+description:
 created: 2025-08-14T07:29:22
-modified: 2025-08-18T06:37:25
+modified: 2025-09-01T08:46:24
 draft: true
 featured: false
+ogImage: ../_attachments/
 tags:
   - AdaptX/
 ---
