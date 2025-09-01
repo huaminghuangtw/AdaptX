@@ -1,11 +1,12 @@
 ---
 title: 我從 Googlex 實驗室學到的創業哲學：猴子與基座
+canonicalURL: https://adaptx.tw/2025/8/31/sherlock-holmes-brain-attic
 description:
+ogImage: ../_attachments/
 created: 2025-08-31T06:58:41
-modified: 2025-09-01T08:46:29
+modified: 2025-09-01T17:27:36
 draft: true
 featured: false
-ogImage: ../_attachments/
 tags:
   - AdaptX/
 ---
