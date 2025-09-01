@@ -1,11 +1,12 @@
 ---
 title: 像福爾摩斯一樣思考：打造你的大腦閣樓
+canonicalURL: https://adaptx.tw/2025/8/14/sherlock-holmes-brain-attic
 description:
+ogImage: ../_attachments/f218731ceb2ba5987b83a816c27baefe.png
 created: 2025-08-14T07:29:22
-modified: 2025-09-01T08:45:15
+modified: 2025-09-01T17:27:01
 draft: false
 featured: false
-ogImage: ../_attachments/f218731ceb2ba5987b83a816c27baefe.png
 tags:
   - AdaptX/如何變聰明
 ---
