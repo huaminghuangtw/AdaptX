@@ -4,7 +4,7 @@ canonicalURL: https://adaptx.tw/2025/8/30/you-and-your-timeline
 description:
 ogImage: ../_attachments/41f5d232b263a3b8ba3cae2a81b2e364.png
 created: 2025-08-30T07:34:40
-modified: 2025-09-01T18:44:05
+modified: 2025-09-25T16:08:35
 draft: false
 featured: true
 tags:
@@ -93,7 +93,7 @@ tags:
 
 不要急，讓每一步都自然發生，時間會帶你到想去的地方。
 
-我們常常把外在成就、頭銜和榮耀當作人生目標，但人生的價值，不在於贏得多少光鮮亮麗的獎牌，而是收集了多少傷痕。
+我們常常把外在成就、頭銜和榮耀當作人生目標，但人生的價值，不在於贏得多少光鮮亮麗的獎牌，而是收集了多少傷痕和幫助過多少人。
 
 每一道傷痕，都是曾經努力過的證明與戰鬥過的痕跡。比起獎牌，傷痕更能代表你已經盡力、全力以赴。這樣就夠了。
 
