@@ -4,7 +4,7 @@ canonicalURL: https://adaptx.tw/2025/8/31/sherlock-holmes-brain-attic
 description:
 ogImage: ../_attachments/
 created: 2025-08-31T06:58:41
-modified: 2025-09-27T08:36:29
+modified: 2025-09-27T17:38:29
 draft: true
 featured: false
 tags:
