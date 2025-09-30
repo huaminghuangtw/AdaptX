@@ -4,7 +4,7 @@ canonicalURL: https://adaptx.tw/2025/9/29/who-do-we-spend-time-with-across-our-l
 description:
 ogImage: ../_attachments/
 created: 2025-09-29T06:49:03
-modified: 2025-09-29T07:05:50
+modified: 2025-09-29T15:54:57
 draft: true
 featured: false
 tags:
@@ -13,6 +13,6 @@ tags:
 
 [Time Use - Our World in Data](https://ourworldindata.org/time-use#who-do-we-spend-time-with-across-our-lifetime)
 
-https://www.sahilbloom.com/newsletter/how-we-spend-our-time
+<https://www.sahilbloom.com/newsletter/how-we-spend-our-time>
 
-Spend time with those you love. One of these days you will say either "I wish I had" or "I'm glad I did".
+Spend time with those you love. One of these days you will say either “I wish I had” or “I’m glad I did”.
