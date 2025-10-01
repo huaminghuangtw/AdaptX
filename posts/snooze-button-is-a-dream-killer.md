@@ -4,7 +4,7 @@ canonicalURL: https://adaptx.tw/2025/10/2/
 description:
 ogImage: ../_attachments/
 created: 2025-10-02T04:40:56
-modified: 2025-10-02T04:42:01
+modified: 2025-10-02T06:25:34
 draft: true
 featured: false
 tags:
@@ -55,7 +55,7 @@ tags:
 >
 > Is helping others less valuable to you? Not worth your effort?
 
-| ![](../../../_attachments/e13cf68748e5c19e3b3f7ed42db54e01.png) |
+|  |
 | :-: |
 | <sub>[Source](https://www.instagram.com/p/CBaaq9JH6vF/?img_index=10)</sub> |
 
