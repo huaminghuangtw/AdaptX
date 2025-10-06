@@ -4,7 +4,7 @@ canonicalURL: https://adaptx.tw/2025/9/29/who-do-we-spend-time-with-across-our-l
 description:
 ogImage: ../_attachments/
 created: 2025-09-29T06:49:03
-modified: 2025-10-02T06:15:26
+modified: 2025-10-06T11:37:00
 draft: true
 featured: false
 tags:
