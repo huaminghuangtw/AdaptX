@@ -4,7 +4,7 @@ canonicalURL: https://adaptx.tw/2025/9/30/the-monkey-and-pedestal-mindset
 description:
 ogImage: ../_attachments/68235a778eb9edab1be0e70e219a16c2.png
 created: 2025-09-30T06:58:41
-modified: 2025-10-03T08:49:53
+modified: 2025-10-07T11:38:50
 draft: false
 featured: false
 tags:
@@ -27,7 +27,7 @@ tags:
 
 放棄，是轉身去追求其他東西。
 
-# 放棄與堅持是同一枚硬幣的兩面
+# 放棄與堅持
 
 相信你一定聽過「堅持到底就會成功」、「堅持，是成功的必需品，是成功的關鍵，是通往成功的道路」之類的心靈雞湯。
 
