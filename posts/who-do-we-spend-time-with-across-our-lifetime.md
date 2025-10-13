@@ -4,14 +4,16 @@ canonicalURL: https://adaptx.tw/2025/9/29/who-do-we-spend-time-with-across-our-l
 description:
 ogImage: ../_attachments/
 created: 2025-09-29T06:49:03
-modified: 2025-10-06T11:37:00
+modified: 2025-10-13T18:02:18
 draft: true
 featured: false
 tags:
   - AdaptX/如何做最好的自己
 ---
+相處時間
 
 [Time Use - Our World in Data](https://ourworldindata.org/time-use#who-do-we-spend-time-with-across-our-lifetime)
+
 
 <https://www.sahilbloom.com/newsletter/how-we-spend-our-time>
 
@@ -21,48 +23,76 @@ tags:
 
 究竟，我們都花了多少時間和誰相處？
 
-根據 美國時間使用調查（American Time Use Survey, ATUS） 的長期數據整理，研究者分析了不同年齡層「平均每天與誰相處的時間」。這些結果由 Our World in Data 彙整並視覺化，讓我們能清楚看到人生不同階段的時間分配。
+哈佛大學 社交連結 健康
 
-這份資料能提供我們一個鏡子，幫助理解自己與周遭人的關係變化，也能提醒我們：時間有限，陪伴要及時。
+2020 年，美國時間使用調查（American Time Use Survey, ATUS）的研究人員[^2] 分析了人們在人生不同階段的時間分配「平均每天與誰相處的時間」。
+
+視覺化
+彙整
+
+這份資料能提供我們一個鏡子，幫助理解自己與周遭人的關係變化，也能提醒我們更有意識地決定要將時間有限，陪伴要及時。
+
+guard your time
 
 以下，我們就依照人生的重要關係類別，來看看時間的流動軌跡。
 
-⸻
+Python pandas matplotlib
 
-家人（Family）20 down
-
-在童年與青少年時期，家人幾乎是我們的全世界。每天的相處時間最為密集。然而，隨著我們長大、離家、建立自己的獨立生活，與原生家庭相處的時間便會急速下降。這是一個跨世代、跨文化都普遍存在的趨勢。
 
 ⸻
 
-朋友（Friends）18 down
+## 家人（Family）
 
-青春期與年輕成年時期，是友情的黃金年代。下課後的聚會、週末的冒險，朋友往往是生活的重心。但進入職場、組成家庭後，工作與責任逐漸擠壓了朋友的份額。友情不再是每天的日常，而變成需要刻意經營的選項。
+在童年與青少年時期，家人幾乎是我們的全世界，每天的相處時間最為密集。然而，隨著我們長大、離家、建立自己的獨立生活，與原生家庭（父母、手足）相處的時間便會從 20 歲開始急速下降。
 
-⸻
-
-伴侶（Partner）increase until death
-
-當我們踏入長期親密關係，伴侶逐漸成為時間分配中的主角。從青壯年到退休後，伴侶一直是最穩定的陪伴來源。特別是在退休後，當工作與同事的互動消失，伴侶往往成為生活中最重要的陪伴者。
+這個趨勢提醒我們，與家人緊密連結的時光是有限的。當我們追求獨立，那些與父母、手足不經意的日常相處，會逐漸被需要刻意安排的見面所取代。這也凸顯了與家人共度的成長歲月有多麽珍貴。
 
 ⸻
 
-孩子（Children）peaks at 30s
+## 朋友（Friends）
 
-對父母而言，與孩子相處的時間主要集中在育兒的高峰期——30 到 40 歲之間。這段時間裡，照顧與陪伴孩子往往成為社交時間的最大宗。隨著孩子長大、獨立，這份相處也逐漸減少，但回憶與影響卻深深留在心中。
+青春期與 20 歲出頭的年輕歲月，是友情的黃金年代。我們與朋友共度的時間在此時達到頂峰。但隨著我們進入職場、組織家庭，朋友相聚的時間便會開始穩定而陡峭地減少。
 
-⸻
-
-同事（Co-workers）peaks at 20s–60s
-
-職場階段，是成年人社交時間的重要部分。在 30 到 50 歲的黃金工作年齡，我們花在同事身上的時間甚至多於家人與朋友。直到退休，這份關係才會快速淡出日常。
+當事業、伴侶與孩子成為生活重心，友誼往往是第一個被擠壓的領域。成年後要維持深刻的友誼，需要更刻意地經營，因為它很難再像年輕時那樣自然而然地發生。
 
 ⸻
 
-自己（Self / Alone）
+## 伴侶（Partner）
 
-隨著年齡增長，特別是退休之後，「一個人」的時間會逐年增加。這可能是選擇，也可能是環境所致（例如獨居）。然而，值得記住的是：獨處並不等於孤單。高品質的獨處，能成為理解自我、沉澱人生的重要片刻。
+當我們踏入長期親密關係，伴侶會逐漸成為時間分配中的主角。從青壯年到退休後，伴侶都是最穩定、最主要的陪伴來源，甚至在退休後相處時間還會增加。
 
+對於有長期伴侶的人來說，這個人將成為生命中大部分時光的核心。這段關係是我們社交世界的基石，尤其在與朋友、同事的相處時間減少後，更顯重要。
+
+⸻
+
+## 孩子（Children）
+
+對父母而言，與孩子相處的時間主要集中在 30 到 40 歲之間的育兒高峰期。這段時間裡，照顧與陪伴孩子佔據了大部分的社交時間。隨著孩子長大、獨立，這份相處時光也將大幅減少。
+
+撫養幼兒的階段雖然緊湊，但在整個人生長河中相對短暫。它代表了我們生命中一個重大但暫時的時間分配轉移，將重心從其他關係中挪移過來。
+
+⸻
+
+## 同事（Co-workers）
+
+在 20 到 60 歲的職業生涯中，同事是我們社交生活的重要部分。許多人在這段期間，醒著的時間與同事相處甚至多於家人和朋友。然而，這份關係在 60 歲左右退休後便會戛然而止。
+
+我們的社交世界在很大程度上與職業綁定，這也解釋了為什麼退休會成為一個劇烈的社交轉變。
+
+⸻
+
+## 自己（Alone）
+
+
+獨處的時間隨著年齡增長而穩定增加，特別是在 60 歲退休 （40 歲後）之後，成為佔據最多時間的類別。
+
+這是孩子離家、從職場退下、甚至與朋友或伴侶告別後的自然結果。我們可能會直覺地認為，獨處時間增加等同於老年人變得更孤單，但研究指出這並非必然。
+
+研究人員明確區分了「獨處」（aloneness）和「孤獨」（loneliness）。獨處是一種客觀狀態，指自己一個人度過時間；而孤獨是一種主觀感受，源於對社交連結的渴望未被滿足。數據顯示，獨處本身並不是預測孤獨感的有效指標。
+
+因此，關鍵的洞見是：**獨處不等於孤獨**。學習如何享受獨處時光，將其轉化為高品質的自我對話與沉澱，是維持晚年幸福感的一項關鍵技能。
+
+aloneness is not the same as loneliness; many older adults report stable or even reduced loneliness until very advanced age
 ⸻
 
 結語：時間的流向，關係的演變
@@ -71,12 +101,16 @@ tags:
 
 或許，我們可以常常問自己：今天的 24 小時，我想和誰一起度過？
 
+guard your time
+
+We often look at the amount of time spent with others as a marker of social well-being — but the quality of time spent with others, and our expectations, matter even more for our feelings of connection and loneliness.
+
 ⸻
 
 童年依賴家人，青春與朋友最親近，中年被伴侶、孩子與同事填滿，而進入老年後，伴侶與自己成為主要的陪伴對象。
 
 Spend time with those you love. One of these days you will say either “I wish I had” or “I’m glad I did”.
 
-aloneness is not the same as loneliness; many older adults report stable or even reduced loneliness until very advanced age
 
 [^1]: _“How we spend our days is, of course, how we spend our lives.” ― Annie Dillard, [The Writing Life](https://www.goodreads.com/work/quotes/516929)_
+[^2]: Esteban Ortiz-Ospina, Bastian Herre, Tuna Acisu, Charlie Giattino, and Max Roser (2020) - “Time Use”
