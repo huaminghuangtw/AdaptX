@@ -16,7 +16,7 @@ tags:
 
 我們的時間流向，隨著年齡不斷改寫，也悄悄勾勒出一張「人生關係地圖」。
 
-美國時間使用調查（American Time Use Survey, ATUS）的研究人員 [^2] 分析了人們在人生不同階段的人際關係時間分配。
+[美國時間使用調查（American Time Use Survey, ATUS](https://ourworldindata.org/time-use)）的研究人員 [^2] 分析了人們在人生不同階段的人際關係時間分配。
 
 <iframe
   src="https://ourworldindata.org/grapher/time-spent-with-relationships-by-age-us?tab=chart"
