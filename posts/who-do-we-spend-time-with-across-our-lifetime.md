@@ -4,7 +4,7 @@ canonicalURL: https://adaptx.tw/2025/10/14/who-do-we-spend-time-with-across-our-
 description:
 ogImage: ../_attachments/9367cb3d910baa4e43f8a7e3cb3aef4c.png
 created: 2025-10-14T06:49:03
-modified: 2025-10-14T15:42:41
+modified: 2025-10-14T15:44:52
 draft: false
 featured: false
 tags:
@@ -168,8 +168,6 @@ tags:
 愛有等差，斷捨離大部分的人生過客，把寶貴時間留給那些很努力想要留在我們生命裡的人；把寶貴時間留給你想要在「生命最後一天」一起度過的人Ｎ；把寶貴時間留給你所愛的人。
 
 或許，我們都該時常問自己：**今天的 24 小時，我想和誰一起度過？**
-
----
 
 [^1]: _“How we spend our days is, of course, how we spend our lives.” ― Annie Dillard, [The Writing Life](https://www.goodreads.com/work/quotes/516929)_
 [^2]: Esteban Ortiz-Ospina, Bastian Herre, Tuna Acisu, Charlie Giattino, and Max Roser (2020) - “Time Use”
