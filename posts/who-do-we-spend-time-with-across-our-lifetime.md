@@ -4,7 +4,7 @@ canonicalURL: https://adaptx.tw/2025/10/14/who-do-we-spend-time-with-across-our-
 description:
 ogImage: ../_attachments/9367cb3d910baa4e43f8a7e3cb3aef4c.png
 created: 2025-10-14T06:49:03
-modified: 2025-10-14T15:58:41
+modified: 2025-10-14T16:37:37
 draft: false
 featured: false
 tags:
@@ -34,7 +34,7 @@ tags:
 
 ---
 
-# 家人
+# 1. 家人
 
 [![Time spent with family by age](https://raw.githubusercontent.com/huaminghuangtw/Time-Spent-with-Relationships-by-Age/main/plots/time-spent-with-family-by-age.png)](https://github.com/huaminghuangtw/Time-Spent-with-Relationships-by-Age/blob/main/plots/time-spent-with-family-by-age.png)
 
@@ -50,7 +50,7 @@ tags:
 
 ---
 
-# 朋友
+# 2. 朋友
 
 [![Time spent with friends by age](https://raw.githubusercontent.com/huaminghuangtw/Time-Spent-with-Relationships-by-Age/main/plots/time-spent-with-friends-by-age.png)](https://github.com/huaminghuangtw/Time-Spent-with-Relationships-by-Age/blob/main/plots/time-spent-with-friends-by-age.png)
 
@@ -74,7 +74,7 @@ tags:
 
 ---
 
-# 伴侶
+# 3. 伴侶
 
 [![Time spent with partner by age](https://raw.githubusercontent.com/huaminghuangtw/Time-Spent-with-Relationships-by-Age/main/plots/time-spent-with-partner-by-age.png)](https://github.com/huaminghuangtw/Time-Spent-with-Relationships-by-Age/blob/main/plots/time-spent-with-partner-by-age.png)
 
@@ -98,7 +98,7 @@ tags:
 
 ---
 
-# 孩子
+# 4. 孩子
 
 [![Time spent with children by age](https://raw.githubusercontent.com/huaminghuangtw/Time-Spent-with-Relationships-by-Age/main/plots/time-spent-with-children-by-age.png)](https://github.com/huaminghuangtw/Time-Spent-with-Relationships-by-Age/blob/main/plots/time-spent-with-children-by-age.png)
 
@@ -120,7 +120,7 @@ tags:
 
 ---
 
-# 同事
+# 5. 同事
 
 [![Time spent with coworkers by age](https://raw.githubusercontent.com/huaminghuangtw/Time-Spent-with-Relationships-by-Age/main/plots/time-spent-with-coworkers-by-age.png)](https://github.com/huaminghuangtw/Time-Spent-with-Relationships-by-Age/blob/main/plots/time-spent-with-coworkers-by-age.png)
 
@@ -136,7 +136,7 @@ tags:
 
 ---
 
-# 自己
+# 6. 自己
 
 [![Time spent alone by age](https://raw.githubusercontent.com/huaminghuangtw/Time-Spent-with-Relationships-by-Age/main/plots/time-spent-with-alone-by-age.png)](https://github.com/huaminghuangtw/Time-Spent-with-Relationships-by-Age/blob/main/plots/time-spent-with-alone-by-age.png)
 
