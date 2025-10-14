@@ -4,13 +4,12 @@ canonicalURL: https://adaptx.tw/2025/10/14/who-do-we-spend-time-with-across-our-
 description:
 ogImage: ../_attachments/9367cb3d910baa4e43f8a7e3cb3aef4c.png
 created: 2025-10-14T06:49:03
-modified: 2025-10-14T15:44:52
+modified: 2025-10-14T15:55:03
 draft: false
 featured: false
 tags:
   - AdaptX/如何有意識地生活
 ---
-
 
 一生中最公平的資源，就是每天 24 小時。作家 Annie Dillard 在著作《The Writing Life》中寫道：「我們如何過每一天，就是我們如何過一生」。[^1]
 
@@ -47,6 +46,8 @@ tags:
 
 珍惜與他們相處的每分每秒，因為總有一天，會是你最後一次見到他們。
 
+---
+
 # 朋友
 
 [![Time spent with friends by age](https://raw.githubusercontent.com/huaminghuangtw/Time-Spent-with-Relationships-by-Age/main/plots/time-spent-with-friends-by-age.png)](https://github.com/huaminghuangtw/Time-Spent-with-Relationships-by-Age/blob/main/plots/time-spent-with-friends-by-age.png)
@@ -68,6 +69,8 @@ tags:
 珍惜那些激勵你向上、為你注入能量，讓你成為更好版本自己的朋友。
 
 抱持開放心態認識新朋友，但不要忘了那些一直都在的舊朋友。
+
+---
 
 # 伴侶
 
@@ -91,6 +94,8 @@ tags:
 
 一段維持數十年的長久關係，都是由這些看似枯燥乏味、平淡無奇的日常所組成的。
 
+---
+
 # 孩子
 
 [![Time spent with children by age](https://raw.githubusercontent.com/huaminghuangtw/Time-Spent-with-Relationships-by-Age/main/plots/time-spent-with-children-by-age.png)](https://github.com/huaminghuangtw/Time-Spent-with-Relationships-by-Age/blob/main/plots/time-spent-with-children-by-age.png)
@@ -111,6 +116,8 @@ tags:
 
 每件事都有機會成本：奮力向前衝、拼命賺錢的同時，你了解自己正在向後 [放棄](the-monkey-and-pedestal-mindset.md) 什麼嗎？
 
+---
+
 # 同事
 
 [![Time spent with coworkers by age](https://raw.githubusercontent.com/huaminghuangtw/Time-Spent-with-Relationships-by-Age/main/plots/time-spent-with-coworkers-by-age.png)](https://github.com/huaminghuangtw/Time-Spent-with-Relationships-by-Age/blob/main/plots/time-spent-with-coworkers-by-age.png)
@@ -124,6 +131,8 @@ tags:
 1. 我身邊的同事是否刺激我有不同的思考？
 2. 我有不斷地從他們身上學習到新事物嗎？
 3. 我是否享受和他們合作、一起解決問題？
+
+---
 
 # 自己
 
@@ -159,13 +168,15 @@ tags:
 
 人生不同階段有不同的陪伴重心：童年是家人，青春是朋友，中年是伴侶、孩子與同事，老年則是伴侶與自己。
 
-近朱者赤，近墨者黑。作家 Jim Rohn 曾說：「我們都是最常相處的五個人的平均。」[^5] 環境，特別是最親近的社交圈，深刻影響著我們的習慣、思維和成就 — 無論是在財務、情感還是心智層面。因此，謹慎選擇同行的夥伴至關重要。
+近朱者赤，近墨者黑。作家 Jim Rohn 曾說：「我們都是最常相處的五個人的平均。」[^5]
+
+環境，特別是最親近的社交圈，深刻影響著我們的習慣、思維和成就 — 無論是在財務、情感還是心智層面。因此，謹慎選擇同行的夥伴至關重要。
 
 多數人擔心錢會用完，卻不害怕浪費生命。我們常慷慨地對待時間，卻吝嗇地對待金錢。花錢時很容易察覺，但時間的流逝卻常常在為時已晚時才被注意到。
 
 [人生很短](https://paulgraham.com/vb.html)，時間才是終極貨幣 — 請謹慎地交易它，聰明地投資它。
 
-愛有等差，斷捨離大部分的人生過客，把寶貴時間留給那些很努力想要留在我們生命裡的人；把寶貴時間留給你想要在「生命最後一天」一起度過的人Ｎ；把寶貴時間留給你所愛的人。
+愛有等差，斷捨離大部分的人生過客，把寶貴時間留給那些很努力想要留在我們生命裡的人；把寶貴時間留給你想要在「生命最後一天」一起度過的人；把寶貴時間留給你所愛的人。
 
 或許，我們都該時常問自己：**今天的 24 小時，我想和誰一起度過？**
 
