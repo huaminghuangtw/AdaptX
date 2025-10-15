@@ -4,7 +4,7 @@ canonicalURL: https://adaptx.tw/2025/10/14/who-do-we-spend-time-with-across-our-
 description:
 ogImage: ../_attachments/9367cb3d910baa4e43f8a7e3cb3aef4c.png
 created: 2025-10-14T06:49:03
-modified: 2025-10-14T16:37:37
+modified: 2025-10-15T12:38:55
 draft: false
 featured: false
 tags:
@@ -44,9 +44,9 @@ tags:
 
 那些與父母、手足習以為常的日常相處，逐漸被需要刻意安排的見面所取代。
 
-時間的算式有時很無情：若父母已經 65 歲，維持一年見一次面的頻率，那麼此生可能只剩下 15 個「下次見」。
+時間算式有時很無情：若父母已經 65 歲，維持一年見一次面的頻率，那麼此生可能只剩下 15 個「下次見」。
 
-珍惜與他們相處的每分每秒，因為總有一天，會是你最後一次見到他們。
+時光飛逝，珍惜與他們相處的每分每秒，因為總有一天，會是你最後一次見到他們。
 
 ---
 
@@ -54,7 +54,7 @@ tags:
 
 [![Time spent with friends by age](https://raw.githubusercontent.com/huaminghuangtw/Time-Spent-with-Relationships-by-Age/main/plots/time-spent-with-friends-by-age.png)](https://github.com/huaminghuangtw/Time-Spent-with-Relationships-by-Age/blob/main/plots/time-spent-with-friends-by-age.png)
 
-在學生時期時，我們花很多時間在建立、經營友誼，並在 18 歲左右達到頂峰。
+在學生時期，我們花很多時間在建立、經營友誼，並在 18 歲左右達到頂峰。
 
 隨著年紀越大，越會發現：多數的朋友並不是真正的朋友。
 
@@ -70,7 +70,7 @@ tags:
 
 珍惜那些激勵你向上、為你注入能量，讓你成為更好版本自己的朋友。
 
-抱持開放心態認識新朋友，但不要忘了那些一直都在的舊朋友。
+抱持開放心態認識新朋友，但別忘了那些一直都在的舊朋友。
 
 ---
 
@@ -80,7 +80,7 @@ tags:
 
 當我們踏入長期親密關係，與伴侶相處的時間會逐漸增加，直到終老。
 
-因此，選擇與誰共度一生，是人生中最重要的決定，沒有之一。
+因此，選擇與誰共度一生，是[人生中最重要的決定](https://mikekarnj.com/posts/life-decisions)，沒有之一。
 
 你需要明智地選擇，因為這個人將陪你度過人生中最美好與最糟糕的日子。
 
@@ -126,7 +126,7 @@ tags:
 
 在 20 到 60 歲的職業生涯中，同事佔據我們社交生活的一大部分。許多人在這段期間，醒著的時間與同事相處甚至多於家人和朋友。
 
-所以說，和誰一起工作，將深深影響我們的內心幸福感。
+和誰一起工作，將深深影響我們的內心幸福感。
 
 可以問問自己：
 
@@ -146,9 +146,9 @@ tags:
 
 [研究指出](https://ourworldindata.org/social-connections-and-loneliness)，與他人相處時間的長短並不是預測孤獨感的有效指標，而是相處的品質以及我們對這段關係的期望。
 
-[人一生中花最多時間相處的人，是自己。](https://ourworldindata.org/grapher/time-spent-with-relationships-by-age-us)
+[人一生中花最多時間相處的對象，是自己。](https://ourworldindata.org/grapher/time-spent-with-relationships-by-age-us)
 
-因此，學習如何愛自己，並將獨處時光轉化為高品質的自我對話與沉澱，是維持晚年幸福感的一項關鍵技能。
+因此，學習愛自己，並將獨處時光轉化為高品質的自我對話與沉澱，是維持晚年幸福感的一項關鍵技能。
 
 一個人去散步。
 
@@ -156,13 +156,13 @@ tags:
 
 一個人看電影。
 
-試著放慢生活步調，你會發現簡單的快樂其實無處不在，只要你願意停下來感受。
+當一個人能和自己愉快地和平相處，周遭的人事物都將變得和藹可親。
 
-當一個人能和自己愉快地和平相處，周遭的每一樣人、事、物都將變得和藹可親。
+當你找到心靈的平靜，便會體會到一種靜謐的喜悅，對於活著本身都能感到感恩。
 
-當你找到心靈的平靜，便會品嚐到一種靜謐的喜悅，讓你為活著本身而感到感恩。
+試著放慢生活步調，你會發現，簡單的快樂其實無所不在，只要願意停下來細細品味。
 
-自己一個人時，你都怎麼看待自己呢？
+[自己一個人時，你都怎麼看待自己呢？](https://www.youtube.com/watch?v=k7X7sZzSXYs)
 
 ![](../_attachments/dfde931f7914b88f7d309950f572cebc.jpeg)
 
@@ -178,12 +178,12 @@ tags:
 
 [人生很短](https://paulgraham.com/vb.html)，時間才是終極貨幣 — 請謹慎地交易它，聰明地投資它。
 
-愛有等差，斷捨離大部分的人生過客，把寶貴時間留給那些很努力想要留在我們生命裡的人；把寶貴時間留給你想要在「生命最後一天」一起度過的人；把寶貴時間留給你所愛的人。
+愛有等差，斷捨離大部分的人生過客，把寶貴時間留給那些很努力想要進入我們生命裡的人；把寶貴時間留給想要在「生命最後一天」共同度過的人；把寶貴時間留給你摯愛的人。
 
 或許，我們都該時常問自己：**今天的 24 小時，我想和誰一起度過？**
 
 [^1]: _“How we spend our days is, of course, how we spend our lives.” ― Annie Dillard, [The Writing Life](https://www.goodreads.com/work/quotes/516929)_
 [^2]: Esteban Ortiz-Ospina, Bastian Herre, Tuna Acisu, Charlie Giattino, and Max Roser (2020) - “Time Use”
 [^3]: 原始碼分享於 [GitHub](https://github.com/huaminghuangtw/Time-Spent-with-Relationships-by-Age)
-[^4]: 前者是「成為某種角色」的思維，關乎身份認同與責任；後者是「擁有某些東西」的思維，關乎個人慾望與滿足。
+[^4]: 前者是「成為某種角色」的思維，關乎身份認同與責任；後者是「擁有某些東西」的思維，關乎個人慾望與需求。
 [^5]: _“You are the average of the five people you spend the most time with.” ― Jim Rohn_
