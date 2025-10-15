@@ -4,7 +4,7 @@ canonicalURL: https://adaptx.tw/2025/10/3/
 description:
 ogImage: ../_attachments/
 created: 2025-10-03T09:50:26
-modified: 2025-10-15T12:45:15
+modified: 2025-10-15T16:20:02
 draft: true
 featured: false
 tags:
@@ -30,8 +30,6 @@ This universal truth inspired me to build a **[Death Clock](https://shortcutomat
 2. What percentage of my life is (probably) behind me.
 
 Every morning, my Lock Screen greets me with these numbers, thanks to a [Personal Automation](https://support.apple.com/guide/shortcuts/intro-to-personal-automation-apd690170742/ios).
-
-![](../_attachments/4b4ce1d10ae09059857f00b70a8315ff.jpg)
 
 I used to put off small joys in _this moment, [this pixel](https://waitbutwhy.com/2013/11/life-is-picture-but-you-live-in-pixel.html), this now_—[calling a loved one](https://shortcutomation.com/gallery/lifeos-toolkits/call-people-i-love/), taking a walk, savoring a meal—thinking there would always be more time later. But _later_ often means _never_. [It's later than you think.](https://www.youtube.com/watch?v=nFxjnUPRwx4)
 
