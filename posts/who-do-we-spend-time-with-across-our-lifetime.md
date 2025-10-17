@@ -4,7 +4,7 @@ canonicalURL: https://adaptx.tw/2025/10/14/who-do-we-spend-time-with-across-our-
 description:
 ogImage: ../_attachments/9367cb3d910baa4e43f8a7e3cb3aef4c.png
 created: 2025-10-14T06:49:03
-modified: 2025-10-15T12:38:55
+modified: 2025-10-17T12:41:04
 draft: false
 featured: false
 tags:
@@ -178,7 +178,7 @@ tags:
 
 [人生很短](https://paulgraham.com/vb.html)，時間才是終極貨幣 — 請謹慎地交易它，聰明地投資它。
 
-愛有等差，斷捨離大部分的人生過客，把寶貴時間留給那些很努力想要進入我們生命裡的人；把寶貴時間留給想要在「生命最後一天」共同度過的人；把寶貴時間留給你摯愛的人。
+愛有等差，斷捨離大部分的人生過客，把寶貴時間留給那些很努力想要進入我們生命裡的那群人；把寶貴時間留給那些你想陪伴到生命盡頭的那群人；把寶貴時間留給會坐在你喪禮上最前排的那群人；把寶貴時間留給你摯愛的那群人。
 
 或許，我們都該時常問自己：**今天的 24 小時，我想和誰一起度過？**
 
