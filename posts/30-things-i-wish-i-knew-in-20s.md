@@ -4,7 +4,7 @@ canonicalURL: https://adaptx.tw/2025/10/15/30-things-i-wish-i-knew-in-20s
 description:
 ogImage: ../_attachments/000e30aa1958044e4daeb981190cdbe4.png
 created: 2025-10-15T15:40:33
-modified: 2025-10-17T12:48:00
+modified: 2025-10-18T07:31:02
 draft: false
 featured: false
 tags:
@@ -31,7 +31,7 @@ tags:
 18. 失去生活重心最簡易的方式，是拿自己和別人比較（或是打開社群媒體）。
 19. 最容易騙到你的人，是你自己。
 20. 最安全的成長空間，在舒適圈之外。
-21. 最容易被記住的方式，是讓別人先被看見。
+21. 最容易被記住的方式，是讓對方先被看見。
 22. 溝通中最有力量的元素，是沈默。
 23. 認識自己的最佳方式，是在服務他人時暫時忘記自己。
 24. 錯過當下最輕易的方式，是拿起手機。
