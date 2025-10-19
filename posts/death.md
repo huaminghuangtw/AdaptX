@@ -4,7 +4,7 @@ canonicalURL: https://adaptx.tw/2025/10/3/
 description:
 ogImage: ../_attachments/
 created: 2025-10-03T09:50:26
-modified: 2025-10-15T16:20:02
+modified: 2025-10-19T15:59:32
 draft: true
 featured: false
 tags:
@@ -147,6 +147,8 @@ Remarks: Through history, people have gone back into their own pasts, sometime t
 > 「事實是，一旦你學會如何死亡，你就學會了如何活著。」
 
 學會死亡，意味著為其到來做好準備，接受它並非生命的對立面，而是生命不可或缺的一部分。於是，你開始留意並感激日常的微小事物，坦然迎接生命中的一切。
+
+賈伯斯曾說：「如果你把每天都當成最後一天來過，總有一天你會證明自己是對的。」
 
 所以，將每一天當作最後一天來活，因為總有一天你會是對的。你做的每一件事，都可能是你此生能做這件事的倒數計時。好好珍惜每個當下，因為它很可能就是你的最後一刻。你今天所做的每一件平凡小事，都是 90 歲的你渴望能重溫的舊夢。所謂「過去的好時光」，就是現在。
 
