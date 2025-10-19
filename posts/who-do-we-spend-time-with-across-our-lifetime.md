@@ -4,7 +4,7 @@ canonicalURL: https://adaptx.tw/2025/10/14/who-do-we-spend-time-with-across-our-
 description:
 ogImage: ../_attachments/9367cb3d910baa4e43f8a7e3cb3aef4c.png
 created: 2025-10-14T06:49:03
-modified: 2025-10-17T12:41:04
+modified: 2025-10-19T11:50:42
 draft: false
 featured: false
 tags:
@@ -80,7 +80,7 @@ tags:
 
 當我們踏入長期親密關係，與伴侶相處的時間會逐漸增加，直到終老。
 
-因此，選擇與誰共度一生，是[人生中最重要的決定](https://mikekarnj.com/posts/life-decisions)，沒有之一。
+因此，選擇與誰共度一生，是 [人生中最重要的決定](https://mikekarnj.com/posts/life-decisions)，沒有之一。
 
 你需要明智地選擇，因為這個人將陪你度過人生中最美好與最糟糕的日子。
 
@@ -161,6 +161,8 @@ tags:
 當你找到心靈的平靜，便會體會到一種靜謐的喜悅，對於活著本身都能感到感恩。
 
 試著放慢生活步調，你會發現，簡單的快樂其實無所不在，只要願意停下來細細品味。
+
+你跟自己熟嗎？
 
 [自己一個人時，你都怎麼看待自己呢？](https://www.youtube.com/watch?v=k7X7sZzSXYs)
 
