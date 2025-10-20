@@ -4,15 +4,12 @@ canonicalURL: https://adaptx.tw/2025/10/3/
 description:
 ogImage: ../_attachments/
 created: 2025-10-03T09:50:26
-modified: 2025-10-19T15:59:32
+modified: 2025-10-19T17:23:33
 draft: true
 featured: false
 tags:
   - AdaptX/
 ---
-
-
-
 
 > _“Every man has two lives, and the second starts when he realizes he has just one.” — Confucius_
 
@@ -53,17 +50,13 @@ In the end, it’s not the years in your life that count. It’s the life in you
 
 [Make each day count.](https://youtu.be/JYdCltjvrxg)
 
-[^1]: Watch [Steve Jobs' legendary 2005 Stanford Commencement Address on death](https://youtu.be/UF8uR6Z6KLc?t=544) (and the full speech). Highly recommended.
-
 孔子曾說：「每個人都有兩次生命。第二次生命，始於他認知到生命只有一次那刻。」
 
 死亡令人恐懼，我們本能地逃避思考它。但若將死亡視為生命的「參考座標」，而非恐懼來源，它便成為了釐清人生優先順序的強大工具。
 
 拉丁語 _Memento Mori_（請記住，你終將一死），歷經時間考驗，正是因為它們揭示了這項真理。
 
-
 死亡是終極的平衡器，無論我們的外貌、文化、信仰有多大差異，死亡是我們共同的終點，無人能倖免。
-
 
 # 我的最後一天會是什麼樣子？
 
@@ -108,6 +101,7 @@ Takeaway: [The biggest regrets aren't about _failing_; they're about _not trying
 Remarks: Through history, people have gone back into their own pasts, sometime to a precious, unstructured time in their life, and often, the mind gravitates in the past to a moment of shame, some sin of anger/self-pity committed, some act of selfishness, an act of omission/shallowness, a lack of courage.
 
 # 以終為始：反向工程
+
 * Stop chasing things that can be bought and start prioritizing things that must be earned.
 * A calm and peaceful mind (Emotional/Spiritual/Mental Freedom)
 	* 坦然地接受/納自己的一切，尤其是不完美的部分（Accepting myself, flaw and all.）
@@ -134,9 +128,8 @@ Remarks: Through history, people have gone back into their own pasts, sometime t
 「每天早上，我的手機鎖定畫面都會提醒我兩件事：我今年幾歲，以及我的人生（大概）過去了百分之多少。這不是悲觀的倒數計時，而是我用來校準人生方向的羅盤。」
 
 如果每天睜開眼，你都能清楚看見自己的人生進度條，你會如何度過這一天？
+
 我把它做成了手機桌布，天天提醒自己。
-
-
 
 我曾習慣推遲當下的微小喜悅——打電話給心愛的人、散步、品嚐一頓飯——總以為未來還有大把時間。但「以後」常常意謂著「永不」。如同賈伯斯所言：「在死亡面前，幾乎所有的事情…都會消逝，只留下真正重要的。提醒自己你將死去，是我所知避免陷入『害怕失去』思維陷阱的最好方法。你本就赤裸，沒有理由不順從你的內心。」[^1]
 
