@@ -4,7 +4,7 @@ canonicalURL: https://adaptx.tw/2025/9/30/the-monkey-and-pedestal-mindset
 description:
 ogImage: ../_attachments/a9cc51f8952c0244c30a9477749a5140.png
 created: 2025-09-30T06:58:41
-modified: 2025-10-14T15:43:51
+modified: 2025-10-20T07:33:02
 draft: false
 featured: false
 tags:
@@ -89,6 +89,7 @@ tags:
 
 Annie Duke 在書中也提到，**我們應該在還沒陷入困境前，就先想好退場機制。因為最糟糕的決策，往往是在身歷其境時做出的 [^3]。也因此，當人們在「正確的時機」放棄時，感覺上往往會覺得「太早了」[^4]。**
 
+
 ## 2. 小心「假進度」的陷阱 (Beware of false progress)
 
 基座當然也重要，但前提是先確認「猴子」能被訓練成功。一旦搞錯順序，很容易被「假進度」哄騙過去。
@@ -129,7 +130,7 @@ Annie Duke 在書中也提到，**我們應該在還沒陷入困境前，就先�
 
 > _策略性撤退、做出犧牲，並決定該放棄什麼，是成功最關鍵的核心。_ [^7]
 
-[^1]: 或「 [船錨（Boat Anchor）](https://sketchplanations.com/anchors-and-tugboats)」。
+[^1]: 或「 [船錨（Boat Anchor）](https://sketchplanations.com/anchors-and-tugboats)」。以色列學者 Eliyahu M. Goldratt 也在《[目標](https://www.books.com.tw/products/0010346055)》一書中提出「約束理論（Theory of Constraints）」，主張任何系統中，至少存在一個限制其達成目標的瓶頸。這個理論的核心精神，在於找出並專注於改善那個「最弱的一環」，因為整個系統的強度，取決於其最弱的部分。
 [^2]: 例如 [太空電梯、漂浮滑板、噴射背包、瞬間移動](https://zh.wikipedia.org/zh-tw/X_(2010%E5%B9%B4%E5%85%AC%E5%8F%B8)) 等。
 [^3]: _“Making a plan for when to quit should be done long before you are facing the quitting decision. It recognizes, as Daniel Kahneman has pointed out, that the worst time to make a decision is when you’re ‘in it.’” ― Annie Duke, [Quit: The Power of Knowing When to Walk Away](https://www.goodreads.com/work/quotes/94759454)_
 [^4]: _“When people quit on time, it will usually feel like they are quitting too early, because it will be long before they experience the choice as a close call.” ― Annie Duke, [Quit: The Power of Knowing When to Walk Away](https://www.goodreads.com/work/quotes/94759454)_
