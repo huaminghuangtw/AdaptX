@@ -4,7 +4,7 @@ canonicalURL: https://adaptx.tw/2025/9/30/the-monkey-and-pedestal-mindset
 description:
 ogImage: ../_attachments/a9cc51f8952c0244c30a9477749a5140.png
 created: 2025-09-30T06:58:41
-modified: 2025-10-20T07:33:02
+modified: 2025-10-20T17:21:13
 draft: false
 featured: false
 tags:
@@ -88,7 +88,6 @@ tags:
 **如果在企劃前期就發現這隻「猴子」無法被馴服，就應該選擇果斷放棄、及時踩煞車，而不是等到砸下大量資源後才後悔莫及。**
 
 Annie Duke 在書中也提到，**我們應該在還沒陷入困境前，就先想好退場機制。因為最糟糕的決策，往往是在身歷其境時做出的 [^3]。也因此，當人們在「正確的時機」放棄時，感覺上往往會覺得「太早了」[^4]。**
-
 
 ## 2. 小心「假進度」的陷阱 (Beware of false progress)
 
