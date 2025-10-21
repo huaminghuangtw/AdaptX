@@ -4,7 +4,7 @@ canonicalURL: https://adaptx.tw/2025/8/14/sherlock-holmes-brain-attic
 description:
 ogImage: ../_attachments/f218731ceb2ba5987b83a816c27baefe.png
 created: 2025-08-14T07:29:22
-modified: 2025-10-02T06:48:42
+modified: 2025-10-21T17:57:35
 draft: false
 featured: false
 tags:
@@ -75,7 +75,7 @@ tags:
 
 如果不定期整理，即便存放傢俱的速度緩慢，終究還是會被塞滿。而這會阻礙我們在未來吸收有用的新資訊。
 
-[走路](https://huami.ng/notes/walk)、[寫日記](https://huami.ng/notes/journaling)、[打造第二大腦](https://huami.ng/garden) 都是很棒的方法。走路能讓我們的思路更清晰，寫日記幫助我們釐清內心的想法，打造第二大腦則是將資訊外部化，減少大腦的負擔。
+[走路](https://huami.ng/walk)、[寫日記](https://huami.ng/journaling)、[打造第二大腦](https://huami.ng/garden) 都是很棒的方法。走路能讓我們的思路更清晰，寫日記幫助我們釐清內心的想法，打造第二大腦則是將資訊外部化，減少大腦的負擔。
 
 定期進行這些活動，就像定期倒垃圾一樣，讓我們能更有效率地運用有限且寶貴的腦力資源。
 
