@@ -4,7 +4,7 @@ canonicalURL: https://adaptx.tw/2025/8/30/you-and-your-timeline
 description:
 ogImage: ../_attachments/41f5d232b263a3b8ba3cae2a81b2e364.png
 created: 2025-08-30T07:34:40
-modified: 2025-10-13T11:54:22
+modified: 2025-10-24T09:36:55
 draft: false
 featured: true
 tags:
@@ -146,6 +146,8 @@ tags:
 每顆星球都有自己的軌道，每個人也都在自己的時鐘下，照著自己的配速前進，遇到屬於自己的機會。
 
 **每個人都活在自己的時區。**
+
+**在這個屬於你的時區裡，一切都會準時。**
 
 ---
 
