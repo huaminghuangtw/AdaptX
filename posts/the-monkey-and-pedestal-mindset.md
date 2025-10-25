@@ -4,7 +4,7 @@ canonicalURL: https://adaptx.tw/2025/9/30/the-monkey-and-pedestal-mindset
 description:
 ogImage: ../_attachments/a9cc51f8952c0244c30a9477749a5140.png
 created: 2025-09-30T06:58:41
-modified: 2025-10-20T17:21:13
+modified: 2025-10-25T15:43:02
 draft: false
 featured: false
 tags:
@@ -53,7 +53,7 @@ tags:
 
 # 猴子與基座
 
-在《[停損的勝算](https://www.books.com.tw/products/0010992791)》書中，德州撲克世界冠軍 Annie Duke 提出一個犀利的心智模型：「猴子與基座」。
+在《[停損的勝算](https://www.books.com.tw/products/0010992791)》書中，德州撲克世界冠軍 [Annie Duke](https://www.google.com/search?q=Annie+Duke) 提出一個犀利的心智模型：「猴子與基座」。
 
 想像有人提案要訓練一隻猴子，讓牠學會站上基座、拋接燃燒的火把。這個表演要成功，需要兩個元素：
 
@@ -78,7 +78,7 @@ tags:
 
 這就像想開一家餐廳，最關鍵的「猴子」是料理是否好吃到讓人願意付錢，而不是店面裝潢或招牌設計。
 
-要揪出那隻最關鍵的猴子，可以試試心理學家 Gary Klein 提出的「事前驗屍（Pre-mortem）」：
+要揪出那隻最關鍵的猴子，可以試試心理學家 [Gary Klein](https://www.google.com/search?q=Gary+Klein) 提出的「事前驗屍（Pre-mortem）」：
 
 1. **想像失敗**：想像你的專案在六個月後徹底失敗了，然後和團隊（或自己）逐一寫下所有可能導致失敗的原因。
 2. **找出猴子**：從中找出那個最致命、最根本的核心原因 — 通常這就是你要找的猴子。
