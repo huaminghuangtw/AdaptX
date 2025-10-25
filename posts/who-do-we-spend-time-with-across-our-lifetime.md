@@ -4,7 +4,7 @@ canonicalURL: https://adaptx.tw/2025/10/14/who-do-we-spend-time-with-across-our-
 description:
 ogImage: ../_attachments/9367cb3d910baa4e43f8a7e3cb3aef4c.png
 created: 2025-10-14T06:49:03
-modified: 2025-10-19T11:50:42
+modified: 2025-10-25T15:46:20
 draft: false
 featured: false
 tags:
@@ -13,7 +13,7 @@ tags:
 
 一生中最公平的資源，就是每天 24 小時。
 
-作家 Annie Dillard 在著作《The Writing Life》中寫道：「我們如何過每一天，就是我們如何過一生」。[^1]
+作家 [Annie Dillard](https://www.google.com/search?q=Annie+Dillard) 在著作《[The Writing Life](https://www.amazon.com/Writing-Life-Annie-Dillard/dp/0060919884)》中寫道：「我們如何過每一天，就是我們如何過一生」。[^1]
 
 我們的時間流向，隨著年齡不斷改寫，也悄悄勾勒出一張「人生關係地圖」。
 
@@ -172,7 +172,7 @@ tags:
 
 人生不同階段有不同的陪伴重心：童年是家人，青春是朋友，中年是伴侶、孩子與同事，老年則是伴侶與自己。
 
-作家 Jim Rohn 曾說：「我們都是最常相處的五個人的平均。」[^5]
+作家 [Jim Rohn](https://www.google.com/search?q=Jim+Rohn) 曾說：「我們都是最常相處的五個人的平均。」[^5]
 
 近朱者赤，近墨者黑。環境，特別是最親近的社交圈，深刻影響著我們的習慣、思維和成就 — 無論是在財務、情感還是心智層面。因此，謹慎選擇同行的夥伴至關重要。
 
