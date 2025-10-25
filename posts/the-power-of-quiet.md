@@ -4,7 +4,7 @@ canonicalURL: https://adaptx.tw/2025/10/10/the-power-of-quiet
 description:
 ogImage: ../_attachments/657b3960557c19ebb0a001c932a1e6ee.png
 created: 2025-10-10T14:35:33
-modified: 2025-10-20T19:15:46
+modified: 2025-10-25T17:00:36
 draft: false
 featured: false
 tags:
@@ -27,7 +27,7 @@ _**人們真正渴望的是被理解、被聆聽、被「接住」。**_
 
 _**有時，身邊的人需要的，僅僅是你的靜心陪伴與專注傾聽。**_
 
-日本作家赤羽雄二在《[聽比說更重要](https://www.books.com.tw/products/0010908907)》書中寫到：
+日本作家 [赤羽雄二](https://www.google.com/search?q=赤羽雄二) 在《[聽比說更重要](https://www.books.com.tw/products/0010908907)》書中寫到：
 
 > _在親密關係中，當對方找你談話時，請不要在第一時間就跟對方說：「這樣做比較好」、「應該這樣做」，而要先讓對方把話完整地說完。在對方還未說完以前，輕率地給出任何回應、提出任何意見或質疑，只會讓對方有不好的觀感，而被視為一種攻擊、批評或責難。有時候對方只是想感性地抒發、傾訴，並希望另一方好好傾聽、安慰自己罷了，最主要其實還是希望獲得「共鳴」。_
 
@@ -50,7 +50,7 @@ _**有時，身邊的人需要的，僅僅是你的靜心陪伴與專注傾聽�
 
 這就是所謂的「共享掙扎（Shared Struggle）」。
 
-[科學也證實了這一點](https://www.youtube.com/watch?v=UQiXXw42AdE&t=410s)：當我們與他人共同面對困境時，大腦會釋放「催產素（Oxytocin）」，一種創造人跟人之間愛與連結感的賀爾蒙，幫助加深彼此關係。
+[科學也證實了這一點](https://www.youtube.com/watch?v=UQiXXw42AdE&t=410s)：當我們與他人共同面對困境時，大腦會釋放「[催產素](https://www.google.com/search?q=催產素)（Oxytocin）」，一種創造人跟人之間愛與連結感的賀爾蒙，幫助加深彼此關係。
 
 **我們的目標，不是清除路上的所有石頭，而是願意陪對方一起感受路上的顛簸、途中的刺激。**
 
@@ -66,9 +66,31 @@ _**有時，身邊的人需要的，僅僅是你的靜心陪伴與專注傾聽�
 
 我的經驗是，十次有九次，對方需要的都只是「被傾聽（Heard）」。
 
+暢銷書《[超級溝通者](https://www.books.com.tw/products/0011017131)》作者 [Charles Duhigg](https://www.google.com/search?q=Charles+Duhigg) 在 [TED Talk 演講](https://www.youtube.com/watch?v=lg48Bi9DA54) 中，進一步延伸了 HHH 提問法。
+
+他認為，當我們與他人交流時，可以從三個層面來思考：
+
+首先是 **「實際層面」** — 試著了解事情的本質究竟是什麼。這時，你可以主動提供具體的協助。
+
+其次是 **「情感層面」** — 關心彼此的感受，理解對方此刻的情緒。這時，你需要的不是建議，而是一雙願意傾聽的耳朵。
+
+最後是 **「社會層面」** — 思考我們是誰，以及彼此之間的關係。這時，你可以透過適度示弱或表達信任，讓對話更真誠。
+
+這三個層面，讓我們在溝通中能更有意識地切換角色，並給予對方真正需要的回應與支持。
+
+成功的溝通，始於釐清「我們正在進行哪一種類型的對話」。唯有雙方對焦於同一頻道，連結與共鳴才有可能發生。若缺乏這份覺察，再多言語也難以觸及彼此。
+
+<p align="center">
+
+![](../_attachments/93bae1325ed7953f4e2ec6ef1318c910.png)
+
+<sub><em><a href="https://www.youtube.com/watch?v=lg48Bi9DA54&t=3m40s">圖片來源</a></em></sub>
+
+</p>
+
 # 2. 區分「同理心」與「解決方案」
 
-你也可以使用另一個問題，這是 [神經科學家 Lisa Feldman Barrett 在《The Knowledge Project Podcast》訪談中](https://www.youtube.com/watch?v=jORaNMIGiok&t=48m1s) 提到的：
+你也可以使用另一個問題，這是神經科學家 [Lisa Feldman Barrett](https://www.google.com/search?q=Lisa+Feldman+Barrett) 在《The Knowledge Project Podcast》[訪談](https://www.youtube.com/watch?v=jORaNMIGiok&t=48m1s) 中提到的：
 
 > **你需要的是同理心，還是一個解決方案？**
 
