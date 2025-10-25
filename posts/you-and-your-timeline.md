@@ -4,7 +4,7 @@ canonicalURL: https://adaptx.tw/2025/8/30/you-and-your-timeline
 description:
 ogImage: ../_attachments/41f5d232b263a3b8ba3cae2a81b2e364.png
 created: 2025-08-30T07:34:40
-modified: 2025-10-24T09:36:55
+modified: 2025-10-25T15:48:24
 draft: false
 featured: true
 tags:
@@ -67,7 +67,7 @@ tags:
 
 這時候請記得：**再做一個好的決定就好。**全神貫注地想下一步、做下一個行動。這樣就夠了。
 
-電影 [《絕地救援》（The Martian）](https://www.imdb.com/title/tt3659388/) 的 [結尾片段](https://www.youtube.com/watch?v=mDYCLFE86Po) 中，主角馬克·華特尼（Mark Watney）在一間教室裡，對著一群學生描述自己在火星上孤獨求生、面臨絕境時的心境：
+電影 [《絕地救援》（The Martian）](https://www.imdb.com/title/tt3659388/) 的 [結尾片段](https://www.youtube.com/watch?v=mDYCLFE86Po) 中，主角 [Mark Watney](https://www.google.com/search?q=Mark+Watney) 在一間教室裡，對著一群學生描述自己在火星上孤獨求生、面臨絕境時的心境：
 
 > 在某個時刻，一切都會走下坡，你開始告訴自己：「到此為止了，這就是我的結局。」
 >
@@ -75,7 +75,7 @@ tags:
 >
 > 當你解決了足夠多的問題，就能回家。
 
-我很喜歡奧斯卡影帝威爾·史密斯（Will Smith）的「堆磚塊」心態：「你不說：『我要蓋出一道完美的牆。』，你說：『我要完美地擺放每一塊磚頭，有一天，我就會蓋出一道完美的牆。』」
+我很喜歡奧斯卡影帝 [Will Smith](https://www.google.com/search?q=Will+Smith) 的「堆磚塊」心態：「你不說：『我要蓋出一道完美的牆。』，你說：『我要完美地擺放每一塊磚頭，有一天，我就會蓋出一道完美的牆。』」
 
 專注於一磚一瓦的堆砌，築起屬於你的城牆和羅馬帝國，只是時間早晚的問題。
 
