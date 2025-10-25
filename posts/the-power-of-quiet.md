@@ -4,7 +4,7 @@ canonicalURL: https://adaptx.tw/2025/10/10/the-power-of-quiet
 description:
 ogImage: ../_attachments/657b3960557c19ebb0a001c932a1e6ee.png
 created: 2025-10-10T14:35:33
-modified: 2025-10-25T17:08:17
+modified: 2025-10-25T19:41:38
 draft: false
 featured: false
 tags:
@@ -84,7 +84,7 @@ _**有時，身邊的人需要的，僅僅是你的靜心陪伴與專注傾聽�
 
 ![](../_attachments/93bae1325ed7953f4e2ec6ef1318c910.png)
 
-<sub><em><a href="https://www.youtube.com/watch?v=lg48Bi9DA54&t=3m40s">圖片來源</a></em></sub>
+<sub><em>圖片來源：<a href="https://youtu.be/lg48Bi9DA54?t=3m40s">The science behind dramatically better conversations | TEDxManchester</a></em></sub>
 
 </div>
 
@@ -94,7 +94,7 @@ _**有時，身邊的人需要的，僅僅是你的靜心陪伴與專注傾聽�
 
 > **你需要的是同理心，還是一個解決方案？**
 
-這不單是一個問題，更是告訴我們：溝通有很多種方式，而不僅是我們常預設的「解決問題」模式。懂得辨識，並切換到「同理心」模式，是近一步拉近親密關係的關鍵。
+溝通有很多種方式，而不僅是我們常預設的「解決問題」模式。懂得辨識，並切換到「同理心」模式，是近一步拉近親密關係的關鍵。
 
 ---
 
