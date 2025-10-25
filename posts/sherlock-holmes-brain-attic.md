@@ -4,7 +4,7 @@ canonicalURL: https://adaptx.tw/2025/8/14/sherlock-holmes-brain-attic
 description:
 ogImage: ../_attachments/f218731ceb2ba5987b83a816c27baefe.png
 created: 2025-08-14T07:29:22
-modified: 2025-10-21T17:57:35
+modified: 2025-10-25T15:41:47
 draft: false
 featured: false
 tags:
@@ -29,7 +29,7 @@ tags:
 
 > 這和我有什麼關係？你說我們繞著太陽轉，就算地球繞著月亮轉，對我或我的工作都沒有一絲一毫的影響。
 
-從中可以看出，福爾摩斯優於常人的推理能力，並非來自天賦，而是對於「有意識地吸收資訊」的堅持。這種獨特的「[思考習慣（Thinking Habits）](https://www.google.com/search?q=思考習慣)」讓他能夠在關鍵時刻迅速做出判斷，解開最複雜的謎團。
+從中可以看出，福爾摩斯優於常人的推理能力，並非來自天賦，而是對於「有意識地吸收資訊」的堅持。這種獨特的「思考習慣」，讓他能夠在關鍵時刻迅速做出判斷，解開最複雜的謎團。
 
 福爾摩斯在大腦閣樓裡只存放破案需要的資訊，其他的就直接忽略 — 像「地球繞太陽轉」這種無關緊要的資訊，他一概充耳不聞。
 
