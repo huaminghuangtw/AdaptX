@@ -4,7 +4,7 @@ canonicalURL: https://adaptx.tw/2025/10/10/the-power-of-quiet
 description:
 ogImage: ../_attachments/657b3960557c19ebb0a001c932a1e6ee.png
 created: 2025-10-10T14:35:33
-modified: 2025-10-25T17:00:36
+modified: 2025-10-25T17:08:17
 draft: false
 featured: false
 tags:
@@ -80,13 +80,13 @@ _**有時，身邊的人需要的，僅僅是你的靜心陪伴與專注傾聽�
 
 成功的溝通，始於釐清「我們正在進行哪一種類型的對話」。唯有雙方對焦於同一頻道，連結與共鳴才有可能發生。若缺乏這份覺察，再多言語也難以觸及彼此。
 
-<p align="center">
+<div align="center">
 
 ![](../_attachments/93bae1325ed7953f4e2ec6ef1318c910.png)
 
 <sub><em><a href="https://www.youtube.com/watch?v=lg48Bi9DA54&t=3m40s">圖片來源</a></em></sub>
 
-</p>
+</div>
 
 # 2. 區分「同理心」與「解決方案」
 
