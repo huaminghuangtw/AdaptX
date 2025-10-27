@@ -4,7 +4,7 @@ canonicalURL: https://adaptx.tw/2025/9/30/the-monkey-and-pedestal-mindset
 description:
 ogImage: ../_attachments/a9cc51f8952c0244c30a9477749a5140.png
 created: 2025-09-30T06:58:41
-modified: 2025-10-25T15:43:02
+modified: 2025-10-25T19:50:17
 draft: false
 featured: false
 tags:
