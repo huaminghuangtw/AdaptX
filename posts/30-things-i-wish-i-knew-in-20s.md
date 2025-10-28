@@ -4,7 +4,7 @@ canonicalURL: https://adaptx.tw/2025/10/15/30-things-i-wish-i-knew-in-20s
 description:
 ogImage: ../_attachments/000e30aa1958044e4daeb981190cdbe4.png
 created: 2025-10-15T15:40:33
-modified: 2025-10-19T15:48:28
+modified: 2025-10-27T17:21:24
 draft: false
 featured: false
 tags:
@@ -44,7 +44,7 @@ tags:
 
 ---
 
-# Bonus: 世界上最豪華的房地產，是墓園。
+# 世界上最豪華的房地產，是墓園
 
 為什麼呢？因為那裡埋藏著所有未曾實現的希望與夢想：還沒寫完的書、從未發表的歌曲、無人知曉的發明。全都因為有人害怕踏出第一步，害怕被嘲笑，害怕失敗，或沒有堅持到底，最終帶著一身才華、潛力與點子，靜靜地躺在那裡。
 
