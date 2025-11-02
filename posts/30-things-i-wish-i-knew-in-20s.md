@@ -4,7 +4,7 @@ canonicalURL: https://adaptx.tw/2025/10/15/30-things-i-wish-i-knew-in-20s
 description:
 ogImage: ../_attachments/000e30aa1958044e4daeb981190cdbe4.png
 created: 2025-10-15T15:40:33
-modified: 2025-10-27T17:21:24
+modified: 2025-11-02T06:55:14
 draft: false
 featured: false
 tags:
@@ -15,7 +15,7 @@ tags:
 2. 最有效的保健食品，是陽光。
 3. 最有效的抗老聖品，是笑開懷。
 4. 最好的綜合維他命，是均衡餐盤。
-5. 最棒的能量飲料，是白開水。
+5. 最棒的能量飲料，是溫開水。
 6. 最該鍛鍊的肌肉，是心態。
 7. 最快速的減肥法，是放慢吃飯速度。
 8. 最健康的食物，是你阿嬤也認得的那種。
