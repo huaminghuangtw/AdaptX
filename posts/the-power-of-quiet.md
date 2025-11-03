@@ -4,7 +4,7 @@ canonicalURL: https://adaptx.tw/2025/10/10/the-power-of-quiet
 description:
 ogImage: ../_attachments/657b3960557c19ebb0a001c932a1e6ee.png
 created: 2025-10-10T14:35:33
-modified: 2025-10-25T19:41:38
+modified: 2025-11-03T14:49:48
 draft: false
 featured: false
 tags:
@@ -38,6 +38,14 @@ _**有時，身邊的人需要的，僅僅是你的靜心陪伴與專注傾聽�
 **我學到，最好的安慰，不是解決問題，而是停下來，和對方一起感受那個當下。**
 
 **我學到，最好的安慰，不是一句說出口的「你應該」，而是那句沒有說的「我在這裡」。**
+
+<div align="center">
+
+![](../_attachments/904ca555e4b4781eac14ba61fbe2f433.png)
+
+<sub><em>圖片來源：<a href="https://www.instagram.com/p/C4F6adWI1GB">PJ Milani</a></em></sub>
+
+</div>
 
 當我們放下那個由「理性腦」驅動、急於證明自己的「Mr. Fix」，選擇成為一名傾聽者時，才真正開始與對方的「感性腦」對話。
 
