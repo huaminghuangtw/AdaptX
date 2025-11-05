@@ -4,7 +4,7 @@ canonicalURL: https://adaptx.tw/2025/8/30/you-and-your-timeline
 description:
 ogImage: ../_attachments/41f5d232b263a3b8ba3cae2a81b2e364.png
 created: 2025-08-30T07:34:40
-modified: 2025-10-25T15:48:24
+modified: 2025-11-05T10:44:08
 draft: false
 featured: true
 tags:
@@ -54,6 +54,8 @@ tags:
 但，**永遠不要拿自己和別人比較。**
 
 就像日文所說的「桜梅桃李（おうばいとうり）」— 櫻、梅、桃、李，各自綻放，各自承載天地的安排。
+
+人比人，氣死人；蛋餅比蛋餅，起士蛋餅…
 
 若真的想要攀比，請和昨天的自己比，而不是和今天的某人比。
 
