@@ -4,7 +4,7 @@ canonicalURL: https://adaptx.tw/2025/10/14/who-do-we-spend-time-with-across-our-
 description:
 ogImage: ../_attachments/9367cb3d910baa4e43f8a7e3cb3aef4c.png
 created: 2025-10-14T06:49:03
-modified: 2025-10-31T08:30:21
+modified: 2025-11-08T16:53:50
 draft: false
 featured: false
 tags:
@@ -20,12 +20,12 @@ tags:
 [美國時間使用調查（American Time Use Survey, ATUS](https://ourworldindata.org/time-use)）的研究人員 [^2] 分析了人們在人生不同階段的人際關係時間分配。
 
 <iframe
-  src="https://ourworldindata.org/grapher/time-spent-with-relationships-by-age-us?tab=chart"
-  loading="lazy"
-  width="100%"
-  height="600px"
-  allow="web-share; clipboard-write"
-  allowfullscreen="true"
+	src="https://ourworldindata.org/grapher/time-spent-with-relationships-by-age-us?tab=chart"
+	loading="lazy"
+	width="100%"
+	height="600px"
+	allow="web-share; clipboard-write"
+	allowfullscreen="true"
 </iframe>
 
 這份資料提供一面鏡子，幫助我們理解自己與周遭人群的關係變化，也提醒我們更有意識地決定要將時間投注在哪裡。
