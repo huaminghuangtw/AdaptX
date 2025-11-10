@@ -4,7 +4,7 @@ canonicalURL: https://adaptx.tw/2025/8/30/you-and-your-timeline
 description:
 ogImage: ../_attachments/41f5d232b263a3b8ba3cae2a81b2e364.png
 created: 2025-08-30T07:34:40
-modified: 2025-11-05T10:44:08
+modified: 2025-11-10T12:40:44
 draft: false
 featured: true
 tags:
@@ -28,6 +28,8 @@ tags:
 所有事情的發生，都有它的時機與理由，都是最好的安排。
 
 每一次的際遇，都不是偶然，而是上天精心鋪設的道路，為了鍛鍊靈魂去承擔此生的使命，並引領我們遇見需要自己服務的那群人。
+
+我們要做的，只是順應天性。
 
 愛因斯坦說過：
 
