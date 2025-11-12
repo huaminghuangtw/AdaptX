@@ -2,9 +2,9 @@
 title: 什麼是更好的活著？TED×Taipei 2025 年會帶給我的五個答案
 canonicalURL: https://adaptx.tw/2025/11/12/ted-taipei-2025
 description:
-ogImage: ../_attachments/d9d42120d196a7d36a632f49c0558d9e.png
+ogImage: ../_attachments/d9d42120d196a7d36a632f49c0558d9e.jpeg
 created: 2025-11-12T07:34:52
-modified: 2025-11-12T13:57:53
+modified: 2025-11-12T14:06:29
 draft: false
 featured: false
 tags:
