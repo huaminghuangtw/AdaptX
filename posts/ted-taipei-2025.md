@@ -1,10 +1,10 @@
 ---
-title: 什麼是更好的活著？TED×Taipei 2025 年會帶給我的五個答案
+title: 什麼是更好的活著？我在 TED×Taipei 2025 年會得到的五個答案
 canonicalURL: https://adaptx.tw/2025/11/12/ted-taipei-2025
 description:
 ogImage: ../_attachments/d9d42120d196a7d36a632f49c0558d9e.jpeg
 created: 2025-11-12T07:34:52
-modified: 2025-11-12T17:08:49
+modified: 2025-11-12T19:17:24
 draft: false
 featured: false
 tags:
@@ -23,7 +23,7 @@ tags:
 
 於是，在 11/1 這天，我抱著開放、好奇的心態，走進松山文創園區四號倉庫，向大師們學習：如何用 18 分鐘，把一個故事說好。
 
-![](6ed42148b09e112dfb5986397df77813.png)
+![](../_attachments/6ed42148b09e112dfb5986397df77813.png)
 
 ---
 
@@ -157,13 +157,13 @@ _原來，給未來最宏大的禮物，是選擇與萬物共榮，守護我們�
 
 踏入 TED 實體現場，是我今年做過最棒的決定之一。
 
-謝謝 TED×Taipei 2025，讓我對「什麼是更好的活著？」，有了更清晰的答案 ❤️
+謝謝 TED×Taipei 2025，讓我對「什麼是更好的活著？」這個人生大哉問，有了更清晰的答案 ❤️
 
-![](6669c751024d3169e87ec66aef578953.png)
+![](../_attachments/6669c751024d3169e87ec66aef578953.png)
 
 <div align="center">
 
-![](428241c73a210c06c5441e59cf860d55.jpeg)
+![](../_attachments/428241c73a210c06c5441e59cf860d55.jpeg)
 
 <sub>引導冥想工作坊 — 沈浸式的氛圍，身心靈的盛宴。</sub>
 
@@ -171,7 +171,7 @@ _原來，給未來最宏大的禮物，是選擇與萬物共榮，守護我們�
 
 <div align="center">
 
-![](31565468c17cf0d10f66dace566aee67.jpeg)
+![](../_attachments/31565468c17cf0d10f66dace566aee67.jpeg)
 
 <sub>午餐來自 [紅土森林小宇宙](https://www.google.com/search?q=%E7%B4%85%E5%9C%9F%E6%A3%AE%E6%9E%97%E5%B0%8F%E5%AE%87%E5%AE%99) 用心耕耘的自然農法餐盒。這些有機天然食材，在音樂與森林的陪伴下成長，沒有任何添加物，只保留食物最純粹的味道。</sub>
 
