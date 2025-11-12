@@ -4,11 +4,11 @@ canonicalURL: https://adaptx.tw/2025/11/12/ted-taipei-2025
 description:
 ogImage: ../_attachments/d9d42120d196a7d36a632f49c0558d9e.png
 created: 2025-11-12T07:34:52
-modified: 2025-11-12T13:50:35
+modified: 2025-11-12T13:57:53
 draft: false
 featured: false
 tags:
-  - AdaptX/
+  - AdaptX/如何有意識地生活
 ---
 
 兩週前，我到台北參加了 TED×Taipei 2025 年會《[THE Present 此刻 x 未來](https://tedxtaipei.oen.tw/)》。
