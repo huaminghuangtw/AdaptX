@@ -4,12 +4,14 @@ canonicalURL: https://adaptx.tw/2025/8/14/sherlock-holmes-brain-attic
 description:
 ogImage: ../_attachments/
 created: 2025-08-14T07:29:22
-modified: 2025-09-01T17:27:26
+modified: 2025-11-14T15:39:44
 draft: true
 featured: false
 tags:
   - AdaptX/
 ---
+
+> _“We ourselves feel that what we are doing is just a drop in the ocean. But the ocean would be less because of that missing drop.” — Mother Teresa_
 
 再也不要因為事情微小而不為。只有不斷重複做小事，才能成就偉大。不要忽略或輕視任何一件小事，要很認真地對待每一件小事。因為一個人做一件小事的態度，就是他/她做每一件事的態度！
 
