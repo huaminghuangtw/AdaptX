@@ -4,7 +4,7 @@ canonicalURL: https://adaptx.tw/2025/11/12/ted-taipei-2025
 description:
 ogImage: ../_attachments/db8ac301faf2da7c717ecc5cfc04a8b8.jpeg
 created: 2025-11-12T07:34:52
-modified: 2025-11-14T06:58:34
+modified: 2025-11-14T20:11:14
 draft: false
 featured: false
 tags:
@@ -41,13 +41,13 @@ NI 的理念在於「先觀察、支持身體的自清與修復，而非急於�
 
 曾遠赴美國 [巴斯帝爾醫學大學](https://bastyr.edu) 攻讀自然醫學博士學位（Doctor of Naturopathic Medicine, N.D.）、[全球唯一台美雙執照醫學專家](https://spectrummedicine.com/about) 的 [林子平](https://www.google.com/search?q=林子平) 醫師也引用古老智慧 Vis medicatrix naturae（拉丁文，意思是「自然治癒之力」），強調醫師的職責並非直接治癒病人，而是協助身體的自然修復過程。
 
-身體是造物者的完美傑作，蘊藏著自我調節、從不出錯的智慧。
-
-我們只需尊重與生俱來的復原力，並與體內的「內在醫師」合作。
-
 > _“It’s supposed to be a professional secret, but I’ll tell you anyway. We doctors do nothing. We only help and encourage the doctor within.” — Albert Schweitzer_
 >
 > 「這本該是個職業秘密，但我還是要告訴你：我們醫生其實什麼也沒做，只是協助並鼓勵你的內在醫生罷了。」— 史懷哲
+
+身體是造物者的完美傑作，蘊藏著自我調節、從不出錯的智慧。
+
+我們只需尊重與生俱來的復原力，並與體內的「內在醫師」合作。
 
 相較於目前以開藥或開刀為核心的主流醫學，[自然醫學](https://aanmc.org/6-principles/) 強調：
 
@@ -147,7 +147,7 @@ _原來，給未來最珍貴的禮物，是創造一個沒有數位科技干擾�
 
 舒夢蘭的分享提醒我：人類並非地球的主人，而是與萬物同屬一個生命共同體。
 
-也讓我思考：我們要為這片土地留下什麼樣的未來？我們要如何造福尚未到來的下一代？
+也讓我思考：**我們要為這片土地留下什麼樣的未來？我們要如何造福尚未到來的下一代？**
 
 _原來，給未來最永續的禮物，是選擇與萬物共榮，守護我們唯一的家園。_
 
@@ -161,9 +161,11 @@ _原來，給未來最永續的禮物，是選擇與萬物共榮，守護我們�
 
 我好像來到一間真人圖書館，聽完十位講者的故事，像是讀了十本厚重的書。
 
-TED 就像是一間人生學校（School of Life），在這裡，我們從別人的生命故事中學習。
+TED 就像是一間人生學校（School of Life），在這裡，我們從別人的生命故事學習。
 
-生命會感動生命，故事會召喚故事。離開時，我心中充滿感恩與力量，並問自己：
+生命會感動生命，故事會召喚故事。
+
+離開時，我心中充滿感恩與力量，並問自己：
 
 **我要如何將此刻活成給未來的禮物？我要如何將當下的行動，變成明日的禮物？**
 
