@@ -4,7 +4,7 @@ canonicalURL: https://adaptx.tw/2025/10/15/30-things-i-wish-i-knew-in-20s
 description:
 ogImage: ../_attachments/000e30aa1958044e4daeb981190cdbe4.png
 created: 2025-10-15T15:40:33
-modified: 2025-11-02T06:55:14
+modified: 2025-11-14T15:30:37
 draft: false
 featured: false
 tags:
@@ -38,8 +38,8 @@ tags:
 25. 最強大的生產力工具，是飛航模式。
 26. 最好的學習法，是教別人。
 27. 最聰明的決定，是說「不」。
-28. 最有創意的時刻，是不再刻意追求創意時。
-29. 最重的包袱，是怨恨。
+28. 最有創意的時刻，是在外面走路時。
+29. 最重的包袱，是無法學會原諒。
 30. 最好的報復，是化悲憤為力量。
 
 ---
