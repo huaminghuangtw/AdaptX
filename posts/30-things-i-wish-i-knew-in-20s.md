@@ -4,7 +4,7 @@ canonicalURL: https://adaptx.tw/2025/10/15/30-things-i-wish-i-knew-in-20s
 description:
 ogImage: ../_attachments/000e30aa1958044e4daeb981190cdbe4.png
 created: 2025-10-15T15:40:33
-modified: 2025-11-14T15:30:37
+modified: 2025-11-15T13:04:21
 draft: false
 featured: false
 tags:
