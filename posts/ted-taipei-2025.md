@@ -4,7 +4,7 @@ canonicalURL: https://adaptx.tw/2025/11/12/ted-taipei-2025
 description:
 ogImage: ../_attachments/db8ac301faf2da7c717ecc5cfc04a8b8.jpeg
 created: 2025-11-12T07:34:52
-modified: 2025-11-14T20:11:14
+modified: 2025-11-14T21:10:39
 draft: false
 featured: false
 tags:
@@ -59,7 +59,7 @@ NI 的理念在於「先觀察、支持身體的自清與修復，而非急於�
 
 **與其等到病入膏肓才急著補救，不如從現在開始，每天「吃好、睡好、心情好」— 均衡飲食、充足睡眠、保持心情愉快。**
 
-**只要我們為身體創造合適的條件，內在的自癒機制便會自動運作，守護我們的健康。**
+**只要為身體創造合適的條件，內在的自癒機制便會自動運作，守護我們的健康。**
 
 英文有一句諺語：
 
