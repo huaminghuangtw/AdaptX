@@ -4,7 +4,7 @@ canonicalURL: https://adaptx.tw/2025/11/12/ted-taipei-2025
 description:
 ogImage: ../_attachments/db8ac301faf2da7c717ecc5cfc04a8b8.jpeg
 created: 2025-11-12T07:34:52
-modified: 2025-11-14T21:10:39
+modified: 2025-11-19T07:10:53
 draft: false
 featured: false
 tags:
@@ -128,6 +128,8 @@ _原來，給未來最溫暖的禮物，是學會為自己的心騰出空間，�
 > _“Overprotection in the real world and underprotection in the virtual world are the major reasons why children born after 1995 became the anxious generation.”_
 >
 > 現實世界中過度保護，虛擬世界中疏於保護，是 1995 年後出生的孩子們，成為焦慮世代的主要原因。
+
+研究顯示，即使只是把手機放在身邊，也會降低我們的 [心智頻寬 (mental bandwidth)](https://doi.org/10.1086/691462)，使我們 [在對話中顯得不夠專注](https://doi.org/10.1016/j.jesp.2022.104344)。
 
 當我們將目光從螢幕移開，才能真正看見彼此。
 
