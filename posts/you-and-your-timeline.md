@@ -4,7 +4,7 @@ canonicalURL: https://adaptx.tw/2025/8/30/you-and-your-timeline
 description:
 ogImage: ../_attachments/41f5d232b263a3b8ba3cae2a81b2e364.png
 created: 2025-08-30T07:34:40
-modified: 2025-11-12T20:14:53
+modified: 2025-11-22T13:08:58
 draft: false
 featured: true
 tags:
@@ -70,6 +70,8 @@ tags:
 在只有自己的時區裡，難免感到孤單，也需要勇氣。有時候會自我懷疑，這很正常，我懂。
 
 這時候請記得：再做一個好的決定就好。全神貫注地想下一步、做下一個行動。這樣就夠了。
+
+不要問路途還有多遠，問自己：現在該跨出右腳，還是左腳？
 
 電影 [《絕地救援》（The Martian）](https://www.imdb.com/title/tt3659388/) 的 [結尾片段](https://www.youtube.com/watch?v=mDYCLFE86Po) 中，主角 [Mark Watney](https://www.google.com/search?q=Mark+Watney) 在一間教室裡，對著一群學生描述自己在火星上孤獨求生、面臨絕境時的心境：
 
