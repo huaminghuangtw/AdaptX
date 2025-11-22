@@ -4,7 +4,7 @@ canonicalURL: https://adaptx.tw/2025/9/30/the-monkey-and-pedestal-mindset
 description:
 ogImage: ../_attachments/a9cc51f8952c0244c30a9477749a5140.png
 created: 2025-09-30T06:58:41
-modified: 2025-10-25T19:50:17
+modified: 2025-11-20T18:10:27
 draft: false
 featured: false
 tags:
@@ -134,5 +134,5 @@ Annie Duke 在書中也提到，**我們應該在還沒陷入困境前，就先�
 [^3]: _“Making a plan for when to quit should be done long before you are facing the quitting decision. It recognizes, as Daniel Kahneman has pointed out, that the worst time to make a decision is when you’re ‘in it.’” ― Annie Duke, [Quit: The Power of Knowing When to Walk Away](https://www.goodreads.com/work/quotes/94759454)_
 [^4]: _“When people quit on time, it will usually feel like they are quitting too early, because it will be long before they experience the choice as a close call.” ― Annie Duke, [Quit: The Power of Knowing When to Walk Away](https://www.goodreads.com/work/quotes/94759454)_
 [^5]: _“Rule of thumb: The more important a call or action is to our soul’s evolution, the more Resistance we will feel.” — Steven Pressfield, [Do the Work](https://www.goodreads.com/work/quotes/15554094)_
-[^6]: _[“People think focus means saying yes to the thing you’ve got to focus on. But that’s not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully. I'm actually as proud of the things we haven't done as the things I have done. Innovation is saying no to 1,000 things.” — Steve Jobs](https://www.goodreads.com/quotes/629613-people-think-focus-means-saying-yes-to-the-thing-you-ve)_
+[^6]: _[“People think focus means saying yes to the thing you’ve got to focus on. But that’s not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully. I’m actually as proud of the things we haven’t done as the things I have done. Innovation is saying no to 1,000 things.” — Steve Jobs](https://www.goodreads.com/quotes/629613-people-think-focus-means-saying-yes-to-the-thing-you-ve)_
 [^7]: _[“Strategic retreat, sacrifice, deciding what to give up is at the core, the very core of success.” — Jensen Huang](https://www.youtube.com/watch?v=oi89u6q0_AY&t=19m57s)_
