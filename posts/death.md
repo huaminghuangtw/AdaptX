@@ -4,7 +4,7 @@ canonicalURL: https://adaptx.tw/2025/10/3/
 description:
 ogImage: ../_attachments/
 created: 2025-10-03T09:50:26
-modified: 2025-10-19T17:23:33
+modified: 2025-11-20T18:10:27
 draft: true
 featured: false
 tags:
@@ -28,7 +28,7 @@ This universal truth inspired me to build a **[Death Clock](https://shortcutomat
 
 Every morning, my Lock Screen greets me with these numbers, thanks to a [Personal Automation](https://support.apple.com/guide/shortcuts/intro-to-personal-automation-apd690170742/ios).
 
-I used to put off small joys in _this moment, [this pixel](https://waitbutwhy.com/2013/11/life-is-picture-but-you-live-in-pixel.html), this now_—[calling a loved one](https://shortcutomation.com/gallery/lifeos-toolkits/call-people-i-love/), taking a walk, savoring a meal—thinking there would always be more time later. But _later_ often means _never_. [It's later than you think.](https://www.youtube.com/watch?v=nFxjnUPRwx4)
+I used to put off small joys in _this moment, [this pixel](https://waitbutwhy.com/2013/11/life-is-picture-but-you-live-in-pixel.html), this now_—[calling a loved one](https://shortcutomation.com/gallery/lifeos-toolkits/call-people-i-love/), taking a walk, savoring a meal—thinking there would always be more time later. But _later_ often means _never_. [It’s later than you think.](https://www.youtube.com/watch?v=nFxjnUPRwx4)
 
 The [Death Clock](https://shortcutomation.com/gallery/shared/death-clock/) reminds me that every single second I’m dying. It internalizes the certainty of death, rewiring my brain to prioritize what I might [regret on my deathbed](https://bronnieware.com/regrets-of-the-dying/). **It’s not the number that is the most important, but seeing the number changing day after day that makes the difference.**
 
@@ -76,7 +76,7 @@ On the death bed at my 80s, I want to be able to utter these words: “yeah I wa
 
 # 死前五大後悔
 
-# [Bronnie Ware's “Top Five Regrets of the Dying”](https://bronnieware.com/regrets-of-the-dying/)
+# [Bronnie Ware’s “Top Five Regrets of the Dying”](https://bronnieware.com/regrets-of-the-dying/)
 
 **What people most often regret before they die (Deathbed Regret):** [^2]
 
@@ -96,7 +96,7 @@ To avoid these mistakes, [Paul Graham](https://paulgraham.com/todo.html) inverte
 
 Stop fearing the regret of action and start fearing the regret of inaction. The regret from inaction is always more painful than the regret from action. Nobody gets to their deathbed and says, “I’m sorry for trying so many things.”
 
-Takeaway: [The biggest regrets aren't about _failing_; they're about _not trying at all_.](https://youtu.be/RcYv5x6gZTA) No one ever said: “_I wish I hadn’t tried so many things._” or “_I wish I hadn’t been so adventurous with my life._” on their deathbed. More often than not, people regret the chances they didn’t take, the dreams they set aside, and the experiences they were too afraid to pursue.
+Takeaway: [The biggest regrets aren’t about _failing_; they’re about _not trying at all_.](https://youtu.be/RcYv5x6gZTA) No one ever said: “_I wish I hadn’t tried so many things._” or “_I wish I hadn’t been so adventurous with my life._” on their deathbed. More often than not, people regret the chances they didn’t take, the dreams they set aside, and the experiences they were too afraid to pursue.
 
 Remarks: Through history, people have gone back into their own pasts, sometime to a precious, unstructured time in their life, and often, the mind gravitates in the past to a moment of shame, some sin of anger/self-pity committed, some act of selfishness, an act of omission/shallowness, a lack of courage.
 
