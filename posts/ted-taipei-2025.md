@@ -4,7 +4,7 @@ canonicalURL: https://adaptx.tw/2025/11/12/ted-taipei-2025
 description:
 ogImage: ../_attachments/db8ac301faf2da7c717ecc5cfc04a8b8.jpeg
 created: 2025-11-12T07:34:52
-modified: 2025-11-19T07:10:53
+modified: 2025-11-22T07:13:01
 draft: false
 featured: false
 tags:
@@ -33,13 +33,13 @@ tags:
 
 這場年會和癌症紀錄片《[交換禮物](https://giloo.ist/zh-TW/episodes/2589)》團隊的林明謙、曾寶儀共同策劃，其中幾位講者是曾在片中出現過的醫療專家。
 
-《[人體使用手冊](https://www.meri-tech.com)》作者 [吳清忠](https://www.google.com/search?q=吳清忠)，用科學化中醫的視角指出，許多看似不適的症狀，例如疲倦、食慾下降、甚至是輕微發燒，都是「自癒（self-healing）機制」啟動的表徵，表示身體正在進行自我修復的過程。
+《[人體使用手冊](https://www.meri-tech.com)》作者 [吳清忠](https://www.google.com/search?q=吳清忠)，用科學化中醫的視角指出，許多看似不適的症狀，例如疲倦、食慾下降、甚至是輕微發燒，都是「[自癒（self-healing）機制](https://zh.wikipedia.org/zh-tw/%E8%87%AA%E7%99%92%E5%8A%9B)」啟動的表徵，表示身體正在進行自我修復的過程。
 
 這套「自然智能（Natural Intelligence, NI）」無時無刻都在運作：它會在睡眠不足時自動加深睡眠；在二氧化碳過多時加速呼吸；在運動後默默修復肌肉。
 
 NI 的理念在於「先觀察、支持身體的自清與修復，而非急於壓制、修理每個症狀」。
 
-曾遠赴美國 [巴斯帝爾醫學大學](https://bastyr.edu) 攻讀自然醫學博士學位（Doctor of Naturopathic Medicine, N.D.）、[全球唯一台美雙執照醫學專家](https://spectrummedicine.com/about) 的 [林子平](https://www.google.com/search?q=林子平) 醫師也引用古老智慧 Vis medicatrix naturae（拉丁文，意思是「自然治癒之力」），強調醫師的職責並非直接治癒病人，而是協助身體的自然修復過程。
+曾遠赴美國 [巴斯帝爾醫學大學](https://bastyr.edu) 攻讀自然醫學博士學位（Doctor of Naturopathic Medicine, N.D.）、[全球唯一台美雙執照醫學專家](https://spectrummedicine.com/about) 的 [林子平](https://www.google.com/search?q=林子平) 醫師，也引用西方醫學之父 [Hippocrates](https://zh.wikipedia.org/zh-tw/%E5%B8%8C%E6%B3%A2%E5%85%8B%E6%8B%89%E5%BA%95) 的智慧 [Vis medicatrix naturae](https://en.wikipedia.org/wiki/Vis_medicatrix_naturae)（拉丁文，意思是「自然治癒之力」），強調醫師的職責並非直接治癒病人，而是協助身體的自然修復過程。
 
 > _“It’s supposed to be a professional secret, but I’ll tell you anyway. We doctors do nothing. We only help and encourage the doctor within.” — Albert Schweitzer_
 >
