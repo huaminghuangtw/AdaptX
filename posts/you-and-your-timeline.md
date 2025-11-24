@@ -4,7 +4,7 @@ canonicalURL: https://adaptx.tw/2025/8/30/you-and-your-timeline
 description:
 ogImage: ../_attachments/41f5d232b263a3b8ba3cae2a81b2e364.png
 created: 2025-08-30T07:34:40
-modified: 2025-11-23T11:38:04
+modified: 2025-11-24T16:00:48
 draft: false
 featured: true
 tags:
@@ -137,6 +137,8 @@ tags:
 
 專注於自己的步調、節奏，享受每一步，並感恩同行的夥伴。
 
+一個人走得快，一群人走得遠。[^3]
+
 愛上追尋的感覺，因為旅程本身就是最棒的獎勵。
 
 ![](../_attachments/b949794eaae9cc559197a7bb489a7dd5.png)
@@ -144,7 +146,6 @@ tags:
 ---
 
 人生不是和別人競爭的短跑衝刺，而是和自己對話的長程馬拉松。
-
 
 如果只能選一個，我們會希望自己走得遠，而非走得快。
 
@@ -225,3 +226,4 @@ tags:
 
 [^1]: _“Not everything that can be counted counts. Not everything that counts can be counted.” — Albert Einstein_
 [^2]: _“You can’t connect the dots looking forward; you can only connect them looking backwards.” — Steve Jobs_
+[^3]: _If you want to go fast, go alone; if you want to go far, go together._
