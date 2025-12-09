@@ -4,7 +4,7 @@ canonicalURL: https://adaptx.tw/2025/8/30/you-and-your-timeline
 description:
 ogImage: ../_attachments/41f5d232b263a3b8ba3cae2a81b2e364.png
 created: 2025-08-30T07:34:40
-modified: 2025-11-24T16:00:48
+modified: 2025-12-09T16:17:19
 draft: false
 featured: true
 tags:
@@ -17,7 +17,7 @@ tags:
 
 每件事都在依循自己的時間表展開，就像世界各地的時鐘不會完全一致，每個人的人生軌跡也都有自己的時間軸。
 
-我們必須摒棄「我要在 X 歲前達成 X」的思考習慣。
+我們必須摒棄那些所謂的普世價值，以及「我要在 X 歲前達成 X」的思考習慣。
 
 花了 7 年才得到的 4 年學位還是個文憑。
 
