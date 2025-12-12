@@ -4,7 +4,7 @@ canonicalURL: https://adaptx.tw/2025/8/30/you-and-your-timeline
 description:
 ogImage: ../_attachments/41f5d232b263a3b8ba3cae2a81b2e364.png
 created: 2025-08-30T07:34:40
-modified: 2025-12-09T16:17:19
+modified: 2025-12-12T16:23:20
 draft: false
 featured: true
 tags:
@@ -91,7 +91,11 @@ tags:
 >
 > 當你解決了足夠多的問題，就能回家。
 
-我很喜歡奧斯卡影帝 [Will Smith](https://www.google.com/search?q=Will+Smith) 的「堆磚塊」心態：「你不說：『我要蓋出一道完美的牆。』，你說：『我要完美地擺放每一塊磚頭，有一天，我就會蓋出一道完美的牆。』」
+我很喜歡奧斯卡影帝 [Will Smith](https://www.google.com/search?q=Will+Smith) 的「[堆磚塊](https://www.youtube.com/watch?v=wIsgyIq_kFs&t=128s)」心態：
+
+> _“You don’t try to build a wall. You don’t start by saying, I’m going to build the biggest, baddest wall that’s ever been built. You say, I’m going to lay this brick as perfectly as a brick can be laid. You do that every single day, and soon you have a wall.”_
+>
+> 你不說：「我要蓋出一道完美的牆。」，你說：「我要完美地擺放每塊磚頭，有一天，我就會蓋出一道完美的牆。」
 
 專注於一磚一瓦的堆砌，築起屬於你的城牆和羅馬帝國，只是時間早晚的問題。
 
