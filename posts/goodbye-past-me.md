@@ -4,8 +4,8 @@ canonicalURL: https://adaptx.tw/2025/12/11/goodbye-past-me
 description:
 ogImage: ../_attachments/3e8b940b9c3dc98bf25e8ac533251449.png
 created: 2025-12-11T18:03:22
-modified: 2025-12-11T18:35:19
-draft: true
+modified: 2025-12-12T16:39:06
+draft: false
 featured: false
 tags:
   - AdaptX/如何做最好的自己
@@ -26,25 +26,15 @@ tags:
 
 ![](../_attachments/01202bc6186b04e6689f997e2894f347.png)
 
-這不只是個哲學悖論，更是個用來思考人生的好題材。
+這不只是個哲學悖論，更是拿來思考人生的好題材。
 
-生物學告訴我們，人體細胞每 7–10 年就會完全更新一次，換句話說，七年前的你與今天的你，早已不再共享任何一塊細胞。
+[人體細胞每 7–10 年就會完全更新一次](https://www.questdiagnostics.com/patients/blog/articles/do-my-cells-really-change-every-7-years)，換句話說，七年前的你與今天的你，早已不再共享任何一塊細胞。
 
-我們的身體就像那艘不斷更換木板的船，處於永恆的流動之中。
+我們的身體就像那艘不斷更換木板的船，處於永恆的變動之中。
 
-既然我們的生理硬體都在不斷更新，為什麼我們的心理軟體卻停滯不前？
+這讓我思考：**既然生理硬體都在不斷更新，為什麼心理軟體卻停滯不前？**
 
-戀棧一份讓自己精力耗盡的工作；
-
-持續維繫一段不再讓自己成長的親密關係；
-
-緊抓著過時的成就與身份認同，好像它們是安全感的來源。
-
-人們常誤以為現在的自己就是「最終完成品」，但事實上，我們永遠都是「正在進行中」的作品（Work in progress）。
-
-此時此刻的我們，就和過去的每一個版本一樣，都是短暫且稍縱即逝的。
-
-**[生命中唯一不變的，就是變。](https://youtu.be/XNbaR54Gpj4)**
+---
 
 美國知名領導力教練 [Marshall Goldsmith](https://www.google.com/search?q=Marshall+Goldsmith) 有句名言：
 
@@ -54,31 +44,41 @@ tags:
 
 個人成長的關鍵，其實是「反向學習（Unlearning）」。
 
-我們需要學會「臣服（Surrender）」— 放手讓舊的自我死去，才能騰出空間給新的自我。
+我們需要學會「臣服（Surrender）」：放手讓舊的自我死去，才能騰出空間給新的自我。
 
 然而，**生活中最難的，不是向認識的人道別，而是和過去的自己說再見。**
 
-因為這需要極大的勇氣去承認：「我以前堅信的，可能是錯的。」
+人都無法游向新的地平線，直到有勇氣告別海岸。
 
-突破自我最難的關卡，正是「誠實面對自己」。
+---
 
-諾貝爾物理學獎得主 [Richard Feynman](https://www.google.com/search?q=Richard+Feynman) 曾說：
+而突破自我最難的關卡，正是誠實面對自己。
+
+物理學家 [Richard Feynman](https://www.google.com/search?q=Richard+Feynman) 曾說：
 
 > _“The first principle is that you must not fool yourself — and you are the easiest person to fool.”_
 >
 > 首要原則是你不能欺騙自己 — 而你是最容易被騙的人。
 
-我們經常因為太過依賴於某個觀點，而選擇無視真相。
+法國啟蒙思想家盧梭（[Jean-Jacques Rousseau](https://www.google.com/search?q=Jean-Jacques+Rousseau)）也說：
 
-為了避免夜郎自大或陷入慣性思維的迴圈，我們必須培養美國小說家 [F. Scott Fitzgerald](https://www.google.com/search?q=F.+Scott+Fitzgerald) 所說的能力：
+> _“Nature never deceives us; it is we who deceive ourselves.”_
+>
+> 大自然不會欺騙我們，欺騙我們的是自己。
+
+我們經常過度依賴某個觀點，而在不知不覺間忽略了真相。
+
+為了避免夜郎自大或陷入慣性思考的迴圈，美國小說家 [F. Scott Fitzgerald](https://www.google.com/search?q=F.+Scott+Fitzgerald) 教我們：
 
 > _“The test of a first-rate intelligence is the ability to hold two opposed ideas in mind at the same time and still retain the ability to function.”_
 >
 > 一流智力的考驗，在於能否同時保有兩種對立觀點，並且還能正常行事。
 
+---
+
 身體每七年就默默完成一次重生，但心智的重生，需要我們親手啟動。
 
-拉丁文有句諺語是這麼說的：
+有句拉丁文諺語是這麼說的：
 
 > _“Mens sana in corpore sano”_
 >
@@ -86,20 +86,100 @@ tags:
 
 我們可以像鍛鍊身體一樣鍛鍊大腦，每天進入「頭腦健身房」做「思想舉重」。
 
-試著問自己：「我現在相信的這件事，有沒有可能是錯的？」
+試著問自己：「**我相信的這件事，有沒有可能是錯的？**」
 
-> _「知識是對自己所知的一切感到驕傲，智慧是在自己不知道的一切面前謙虛。」 — 《[我可能錯了：森林智者的最後一堂人生課](https://www.books.com.tw/products/0010947051)》_
+也許，你會承認：「**我以前堅信的，可能是錯的。**」
 
-先入為主的觀念往往會抹煞所有可能性。
+正如《[我可能錯了](https://www.books.com.tw/products/0010947051)》書中所言：
 
-每天給自己一個機會，去看見新東西、聽進新觀點、接收新刺激，藉此提升心智可塑性。
+> _「知識是對自己所知的一切感到驕傲，智慧是在自己不知道的一切面前謙虛。」_
 
-唯有透過不斷地編輯信念、修改想法，我們才能在快速變動的世界中，成為大腦的主人，而非僕人。
+質疑，是一種求知的態度。
 
-1784 年，德國哲學家康德（[Immanuel Kant](https://www.google.com/search?q=Immanuel+Kant)）在《[回答這個問題：什麼是啟蒙？](https://www.gutenberg.org/files/30821/30821-h/30821-h.htm)》中寫下的座右銘，至今仍振聾發聵：
+每天給自己一個機會，看見新東西、聽進新觀點、接受新刺激，藉此提升心智可塑性。
+
+唯有透過不斷地編輯信念、修改想法、升級思維，我們才能在快速變動的世界中，成為大腦的主人，而非僕人。
+
+讓我們一起響應 1784 年德國哲學家康德（[Immanuel Kant](https://www.google.com/search?q=Immanuel+Kant)）在《[回答這個問題：什麼是啟蒙？](https://www.gutenberg.org/files/30821/30821-h/30821-h.htm)》中寫下的座右銘：
 
 > _“Sapere aude! Habe Mut, dich deines eigenen Verstandes zu bedienen!”_
 >
-> 勇於求知吧！鼓起勇氣用自己的腦袋思考！
+> 勇於求知吧！鼓起勇氣用自己的腦袋獨立思考！
 
-拒絕守舊，試著用更宏觀的角度看世界，也許七年後，你會蛻變成連現在的自己都意想不到的全新版本。
+---
+
+我們現在的生活，都是過去主要思想的結果。
+
+戀棧一份讓自己精力耗盡的工作；
+
+持續維繫一段不再讓自己成長的親密關係；
+
+緊抓著過時的成就與身份認同，把它們當作安全感的來源。
+
+如果腦中充滿舊有的思維模式，人生註定只能重複過去的軌跡。
+
+唯一的限制，是自己設下的限制。
+
+唯一糟糕的觀點，是困在其中、走不出去的那一個。
+
+預設立場、先入為主的觀念會抹煞所有可能性。
+
+假設（Assumptions），是看向世界的窗戶，如果沒有定期擦亮它們，光線就照不進來。
+
+撕掉標籤，拒絕守舊，抱著好奇心，用更宏觀的角度看世界。
+
+---
+
+以前，我花很多時間、絞盡腦汁在想：「我到底是誰？」。
+
+後來，我理解到：太刻意地想要回答這個問題，不僅多餘，甚至危險。
+
+越長大，越發現：**我只是存在。**
+
+此時此刻的我，是短暫且稍縱即逝的。
+
+我從未「完成」，也不會有「完成」的一天。
+
+我永遠都是「正在進行中」的作品。
+
+我永遠都處於「正在成為」的狀態。
+
+我，沒有起點、中點或終點，也沒有所謂的 V1 或 V2 版本。
+
+沒有過去的我需要緊抓不放，也沒有未來的我需要過度擔憂；
+
+只有那艘船，只有我 — 那個不斷改變、更新、進步的我。
+
+![](67cb0dae01bfddcf6882795599773d01.png)
+
+---
+
+喜憂參半是生活，起起落落是人生。
+
+**[生命中唯一不變的，就是變。](https://youtu.be/XNbaR54Gpj4)**
+
+我需要做的，只是「擁抱改變」。
+
+我需要在乎的，只是當下、現在的我有沒有「採取行動」。
+
+關於這點，我想達爾文（[Charles Darwin](https://www.google.com/search?q=Charles+Darwin)）在《[物種起源](https://www.google.com/search?q=物種起源)》裡有最好的詮釋：
+
+> _“It is not the strongest of the species that survives, nor the most intelligent that survives. It is the one that is the most adaptable to change.”_
+>
+> 最終能生存下來的物種，不是最強的、也不是最聰明的，而是最能適應改變的。
+
+是時候跟過去的自己說再見了，或許七年後，你會蛻變成連現在的自己都意想不到的樣子。
+
+最後，我想引用 [小野](https://www.google.com/search?q=小野) 在《[有些事，這些年我才懂](https://www.books.com.tw/products/0010548551)》中的文字：
+
+> 人生不是「是非題」，沒有絕對的對錯、是非和黑白。人生的許多問題往往是相對的，常常是一體的兩面。
+>
+> 人生也不會是「選擇題」，不因爲你每次都作了正確完美的選擇，而有了正確完美的人生。
+>
+> 每個人的人生都不盡相同，所以正確的人生其實是不存在的。
+>
+> 人生是環環相扣的「問答題」，只有透過一次又一次的回答，才能撥雲見日，越來越明朗。
+>
+> 你越早去面對和思考這些問題，越不會讓自己像一球被弄亂的毛線球，理不出頭緒來，也不會繞了許多冤枉的路，最後被亂了的毛線球綑綁住自己，無法繼續前進。
+
+![](8b85b57c1e4c993fca169958832f8038.png)
