@@ -4,7 +4,7 @@ canonicalURL: https://adaptx.tw/2025/8/30/you-and-your-timeline
 description:
 ogImage: ../_attachments/41f5d232b263a3b8ba3cae2a81b2e364.png
 created: 2025-08-30T07:34:40
-modified: 2025-12-12T16:23:20
+modified: 2025-12-13T09:32:04
 draft: false
 featured: true
 tags:
@@ -31,9 +31,11 @@ tags:
 
 我們要做的，只是順應天性。
 
-愛因斯坦說過：
+愛因斯坦（[Albert Einstein](https://www.google.com/search?q=Albert+Einstein)）說過：
 
-> 並非所有能計算的東西都重要，並非所有重要的東西都能被計算。[^1]
+> _“Not everything that can be counted counts. Not everything that counts can be counted.”_
+>
+> 並非所有能計算的東西都重要，並非所有重要的東西都能被計算。
 
 很多事情，往往不如想像的那麼糟糕，也不如想像的那麼美好。
 
@@ -41,9 +43,11 @@ tags:
 
 我知道有人和另一半同居生活，心卻在別人那裡；我也知道有人真心深愛對方，彼此卻無法待在一起。
 
-賈伯斯在 [2005 年的史丹佛大學畢業典禮](https://youtu.be/UF8uR6Z6KLc) 分享過這段話：
+賈伯斯（[Steve Jobs](https://www.google.com/search?q=Steve+Jobs)）在 [2005 年的史丹佛大學畢業典禮](https://youtu.be/UF8uR6Z6KLc?t=308) 分享過這段話：
 
-> 你不能預先把生命中的點連接起來，只有在回頭時，才能看出它們是如何相互串連的。[^2]
+> _“You can’t connect the dots looking forward; you can only connect them looking backwards.”_
+>
+> 你不能預先把生命中的點連接起來，只有在回頭時，才能看出它們是如何相互串連的。
 
 沒錯，人生只有在多年後回顧時才能被理解，但在現在這個當下，必須不斷向前、不斷嘗試、不斷探索、不斷試錯、不斷迭代，最後就會找到屬於自己的信仰 — 那件只有你才能做得好的事情。
 
@@ -85,17 +89,15 @@ tags:
 
 電影 [《絕地救援》（The Martian）](https://www.imdb.com/title/tt3659388/) 的 [結尾片段](https://www.youtube.com/watch?v=mDYCLFE86Po) 中，主角 [Mark Watney](https://www.google.com/search?q=Mark+Watney) 在一間教室裡，對著一群學生描述自己在火星上孤獨求生、面臨絕境時的心境：
 
-> 在某個時刻，一切都會走下坡，你開始告訴自己：「到此為止了，這就是我的結局。」
+> _“At some point, everything’s gonna go south on you and you’re going to say, this is it. This is how I end. Now you can either accept that, or you can get to work. That’s all it is. You just begin. You do the math. You solve one problem and you solve the next one, and then the next. And If you solve enough problems, you get to come home.”_
 >
-> 這時，我們可以選擇接受它，或者立刻動手去做。就是這麼簡單。你只需要開始，解決第一個問題，再解決第二個，然後第三個。
->
-> 當你解決了足夠多的問題，就能回家。
+> 在某個時刻，一切都會走下坡，你開始告訴自己：「到此為止了，這就是我的結局。」這時，我們可以選擇接受它，或者立刻動手去做。就是這麼簡單。你只需要開始，解決第一個問題，再解決第二個，然後第三個。當你解決了足夠多的問題，就能回家。
 
 我很喜歡奧斯卡影帝 [Will Smith](https://www.google.com/search?q=Will+Smith) 的「[堆磚塊](https://www.youtube.com/watch?v=wIsgyIq_kFs&t=128s)」心態：
 
 > _“You don’t try to build a wall. You don’t start by saying, I’m going to build the biggest, baddest wall that’s ever been built. You say, I’m going to lay this brick as perfectly as a brick can be laid. You do that every single day, and soon you have a wall.”_
 >
-> 你不說：「我要蓋出一道完美的牆。」，你說：「我要完美地擺放每塊磚頭，有一天，我就會蓋出一道完美的牆。」
+> 你不說：「我要蓋出一道完美的牆。」你說：「我要完美地擺放每塊磚頭，有一天，我就會蓋出一道完美的牆。」
 
 專注於一磚一瓦的堆砌，築起屬於你的城牆和羅馬帝國，只是時間早晚的問題。
 
@@ -141,7 +143,7 @@ tags:
 
 專注於自己的步調、節奏，享受每一步，並感恩同行的夥伴。
 
-一個人走得快，一群人走得遠。[^3]
+一個人走得快，一群人走得遠。
 
 愛上追尋的感覺，因為旅程本身就是最棒的獎勵。
 
@@ -227,7 +229,3 @@ tags:
 | [Ronald Reagan](https://www.google.com/search?q=Ronald+Reagan)（雷根）                         | 69  | 成為美國總統                                                               |
 | [Jack LaLanne](https://www.google.com/search?q=Jack+LaLanne)（傑克·拉倫）                        | 70  | [戴上手銬、鎖鏈拖曳 70 艘划艇](https://www.youtube.com/watch?v=skRb-oND3qA)      |
 | [Nelson Mandela](https://www.google.com/search?q=Nelson+Mandela)（曼德拉）                      | 76  | 就任南非總統                                                               |
-
-[^1]: _“Not everything that can be counted counts. Not everything that counts can be counted.” — Albert Einstein_
-[^2]: _“You can’t connect the dots looking forward; you can only connect them looking backwards.” — Steve Jobs_
-[^3]: _If you want to go fast, go alone; if you want to go far, go together._
