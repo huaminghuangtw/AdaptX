@@ -4,7 +4,7 @@ canonicalURL: https://adaptx.tw/2025/10/10/the-power-of-quiet
 description:
 ogImage: ../_attachments/657b3960557c19ebb0a001c932a1e6ee.png
 created: 2025-10-10T14:35:33
-modified: 2025-12-13T09:22:15
+modified: 2025-12-13T13:53:34
 draft: false
 featured: false
 tags:
@@ -55,7 +55,7 @@ _**有時，身邊的人需要的，僅僅是你的靜心陪伴與專注傾聽�
 
 英文裡有一句話是說：
 
-> _“Trouble shared is trouble halved.”_
+> _Trouble shared is trouble halved._
 > _(分享煩惱，煩惱減半。)_
 
 這就是所謂的「共享掙扎（Shared Struggle）」。

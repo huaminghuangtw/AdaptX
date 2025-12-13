@@ -4,7 +4,7 @@ canonicalURL: https://adaptx.tw/2025/9/30/the-monkey-and-pedestal-mindset
 description:
 ogImage: ../_attachments/a9cc51f8952c0244c30a9477749a5140.png
 created: 2025-09-30T06:58:41
-modified: 2025-12-13T09:40:31
+modified: 2025-12-13T10:41:47
 draft: false
 featured: false
 tags:
@@ -115,9 +115,21 @@ Annie Duke 在書中也提到，**我們應該在還沒陷入困境前，就先�
 
 就如賈伯斯（[Steve Jobs](https://www.google.com/search?q=Steve+Jobs)）所說：
 
-> _“People think focus means saying yes to the thing you’ve got to focus on. But that’s not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully. I’m actually as proud of the things we haven’t done as the things I have done.”_
+> _People think focus means saying yes to the thing you’ve got to focus on. But that’s not what it means at all._
 >
-> 多數人誤以為專注是不斷對某件事點頭，但事實完全不是如此。專注的真諦，是對其他一百個也很棒的點子說「不」。你必須精挑細選。老實說，我對那些我們選擇不做的事，和已經做成的事感到同樣驕傲。
+> 多數人誤以為專注是不斷對某件事點頭，但事實完全不是如此。
+>
+> _It means saying no to the hundred other good ideas that there are._
+>
+> 專注的真諦，是對其他一百個也很棒的點子說「不」。
+>
+> _You have to pick carefully._
+>
+> 你必須精挑細選。
+>
+> _I’m actually as proud of the things we haven’t done as the things I have done._
+>
+> 老實說，我對那些我們選擇不做的事，和已經做成的事感到同樣驕傲。
 
 決定不做某件事，有時甚至比決定做某件事更有價值。
 
@@ -131,7 +143,7 @@ Annie Duke 在書中也提到，**我們應該在還沒陷入困境前，就先�
 
 最後，我想引用 NVIDIA 執行長黃仁勳（[Jensen Huang](https://www.google.com/search?q=Jensen+Huang)）在 [2023 年臺灣大學畢業典禮](https://www.youtube.com/watch?v=oi89u6q0_AY&t=19m57s) 上説過的一句話：
 
-> _“Strategic retreat, sacrifice, deciding what to give up is at the core, the very core of success.”_
+> _Strategic retreat, sacrifice, deciding what to give up is at the core, the very core of success._
 >
 > 策略性撤退、做出犧牲，並決定該放棄什麼，是成功最關鍵的核心。
 

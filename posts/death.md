@@ -4,7 +4,7 @@ canonicalURL: https://adaptx.tw/2025/10/3/
 description:
 ogImage: ../_attachments/
 created: 2025-10-03T09:50:26
-modified: 2025-11-30T08:40:22
+modified: 2025-12-13T13:53:34
 draft: true
 featured: false
 tags:
@@ -38,7 +38,7 @@ Paradoxically, it’s only when death waits at the end of the road that the uniq
 
 Mitch Albom once said in _Tuesdays With Morrie_:
 
-> _“The truth is, once you learn how to die, you learn how to live.”_
+> _The truth is, once you learn how to die, you learn how to live._
 
 I believe that _learning how to die_ means being prepared for it—knowing that it’s inevitably coming. Once you accept that death is not the opposite of life, but rather an essential part of it, you begin to notice and appreciate the little small things in your day, welcoming whatever comes your way.
 

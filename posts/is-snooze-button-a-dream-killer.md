@@ -4,7 +4,7 @@ canonicalURL: https://adaptx.tw/2025/10/21/
 description:
 ogImage: ../_attachments/
 created: 2025-10-21T04:40:56
-modified: 2025-10-21T09:38:03
+modified: 2025-12-13T13:53:34
 draft: true
 featured: false
 tags:
@@ -15,7 +15,7 @@ tags:
 
 當我第一次聽到我的「自律」導師之一，也是美國前海軍海豹部隊（Navy SEAL）指揮官 [Jocko Willink](https://www.google.com/search?q=Jocko+Willink) 在 [某次訪談](https://www.youtube.com/shorts/dMxPmuXriEs) 中說：[^1]
 
-> _“Snooze button is a dream killer. When you press the snooze button, you’re killing your dreams.”_
+> _Snooze button is a dream killer. When you press the snooze button, you’re killing your dreams._
 
 我心想：「怎麼辦，我很常按下貪睡鍵耶！難道我是個不配擁有夢想的人嗎？ＱＱ」
 

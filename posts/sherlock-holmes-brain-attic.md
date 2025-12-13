@@ -4,7 +4,7 @@ canonicalURL: https://adaptx.tw/2025/8/14/sherlock-holmes-brain-attic
 description:
 ogImage: ../_attachments/f218731ceb2ba5987b83a816c27baefe.png
 created: 2025-08-14T07:29:22
-modified: 2025-12-13T09:53:52
+modified: 2025-12-13T13:53:34
 draft: false
 featured: false
 tags:
@@ -13,15 +13,31 @@ tags:
 
 在《[血字的研究](https://www.goodreads.com/quotes/227359-i-consider-that-a-man-s-brain-originally-is-like-a)》（A Study in Scarlet）中，福爾摩斯（[Sherlock Holmes](https://www.google.com/search?q=Sherlock+Holmes)）將人類的大腦比喻作一個「大腦閣樓（Brain Attic）」：
 
-> _“I consider that a man’s brain originally is like a little empty attic, and you have to stock it with such furniture as you choose. ”_
+> _I consider that a man’s brain originally is like a little empty attic, and you have to stock it with such furniture as you choose._
 >
 > 我認為一個人的腦袋最初就像一個空空的小閣樓，你必須用所選的傢俱來填滿它。
 
 他進一步解釋：
 
-> _“A fool takes in all the lumber of every sort that he comes across, so that the knowledge which might be useful to him gets crowded out, or at best is jumbled up with a lot of other things so that he has a difficulty in laying his hands upon it. Now the skillful workman is very careful indeed as to what he takes into his brain-attic. He will have nothing but the tools which may help him in doing his work, but of these he has a large assortment, and all in the most perfect order. It is a mistake to think that that little room has elastic walls and can distend to any extent. Depend upon it there comes a time when for every addition of knowledge you forget something that you knew before. It is of the highest importance, therefore, not to have useless facts elbowing out the useful ones.”_
+> _A fool takes in all the lumber of every sort that he comes across, so that the knowledge which might be useful to him gets crowded out, or at best is jumbled up with a lot of other things so that he has a difficulty in laying his hands upon it._
 >
-> 傻瓜會將各種雜亂無章的東西裝進腦袋，導致真正對他有用的知識，不是被擠出來，就是和一堆廢料摻在一起，讓他很難在需要時找到。熟練的工匠則會謹慎地挑選要放進閣樓的東西，只保留能幫助他完成任務的工具，並且種類齊全、井然有序。不要以為這個房間的牆壁是可以無限擴張的，這是錯誤的想法。你要相信，每當放進一個新的知識點，就會有一個舊的記憶點被擠掉。因此，千萬不要讓無用的知識把有用的知識擠出去。
+> 傻瓜會將各種雜亂無章的東西裝進腦袋，導致真正對他有用的知識，不是被擠出來，就是和一堆廢料摻在一起，讓他很難在需要時找到。
+>
+> _Now the skillful workman is very careful indeed as to what he takes into his brain-attic. He will have nothing but the tools which may help him in doing his work, but of these he has a large assortment, and all in the most perfect order._
+>
+> 熟練的工匠則會謹慎地挑選要放進閣樓的東西，只保留能幫助他完成任務的工具，並且種類齊全、井然有序。
+>
+> _It is a mistake to think that that little room has elastic walls and can distend to any extent._
+>
+> 不要以為這個房間的牆壁是可以無限擴張的，這是錯誤的想法。
+>
+> _Depend upon it there comes a time when for every addition of knowledge you forget something that you knew before._
+>
+> 你要相信，每當放進一個新的知識點，就會有一個舊的記憶點被擠掉。
+>
+> _It is of the highest importance, therefore, not to have useless facts elbowing out the useful ones._
+>
+> 因此，千萬不要讓無用的知識把有用的知識擠出去。
 
 這段話教我們一個實用的思維管理方法：重點在「精」，不在「多」；「質」遠比「量」重要。
 
@@ -29,7 +45,7 @@ tags:
 
 這讓我想到，福爾摩斯在一次與華生醫生的對話中，提到他對於哥白尼（[Nicolaus Copernicu](https://www.google.com/search?q=Nicolaus+Copernicu)）提出的「日心說（[Heliocentrism](https://www.google.com/search?q=Heliocentrism)）」理論毫無興趣：
 
-> _“What the deuce is it to me?” he interrupted impatiently: “you say that we go round the sun. If we went round the moon it would not make a pennyworth of difference to me or to my work.”_
+> _What the deuce is it to me?” he interrupted impatiently: “you say that we go round the sun. If we went round the moon it would not make a pennyworth of difference to me or to my work._
 >
 > 「那跟我有什麼關係？」他不耐煩地打斷我說，「你說我們繞著太陽轉，就算地球繞著月亮轉，對我或我的工作都沒有一絲一毫的差別。」
 

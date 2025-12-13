@@ -4,7 +4,7 @@ canonicalURL: https://adaptx.tw/2025/12/11/goodbye-past-me
 description:
 ogImage: ../_attachments/3e8b940b9c3dc98bf25e8ac533251449.png
 created: 2025-12-11T18:03:22
-modified: 2025-12-13T09:12:21
+modified: 2025-12-13T13:53:34
 draft: false
 featured: true
 tags:
@@ -38,7 +38,7 @@ tags:
 
 美國知名領導力教練 [Marshall Goldsmith](https://www.google.com/search?q=Marshall+Goldsmith) 有句名言：
 
-> _“What got you here won’t get you there.”_
+> _What got you here won’t get you there._
 >
 > 帶你來這裡的，未必能帶你到想去的地方。
 
@@ -56,19 +56,19 @@ tags:
 
 物理學家 [Richard Feynman](https://www.google.com/search?q=Richard+Feynman) 說個一句名言：
 
-> _“The first principle is that you must not fool yourself — and you are the easiest person to fool.”_
+> _The first principle is that you must not fool yourself — and you are the easiest person to fool._
 >
 > 首要原則是你不能欺騙自己 — 而你是最容易被騙的人。
 
 法國啟蒙思想家盧梭（[Jean-Jacques Rousseau](https://www.google.com/search?q=Jean-Jacques+Rousseau)）也說：
 
-> _“Nature never deceives us; it is we who deceive ourselves.”_
+> _Nature never deceives us; it is we who deceive ourselves._
 >
 > 大自然不會欺騙我們，欺騙我們的是自己。
 
 美國哲學家 [Eric Hoffer](https://www.google.com/search?q=Eric+Hoffer) 更是直言：
 
-> _“We lie the loudest when we lie to ourselves.”_
+> _We lie the loudest when we lie to ourselves._
 >
 > 我們用來欺騙自己的謊言是最大聲的。
 
@@ -84,7 +84,7 @@ tags:
 
 有句拉丁文諺語是這麼說的：
 
-> _“Mens sana in corpore sano”_
+> _Mens sana in corpore sano_
 >
 > 健全的心靈，寓於健康的身體。
 
@@ -98,7 +98,7 @@ tags:
 
 美國小說家 [F. Scott Fitzgerald](https://www.google.com/search?q=F.+Scott+Fitzgerald) 曾說：
 
-> _“The test of a first-rate intelligence is the ability to hold two opposed ideas in mind at the same time and still retain the ability to function.”_
+> _The test of a first-rate intelligence is the ability to hold two opposed ideas in mind at the same time and still retain the ability to function._
 >
 > 一流智力的考驗，在於能否同時保有兩種對立觀點，並且還能正常行事。
 
@@ -112,7 +112,7 @@ tags:
 
 讓我們一起響應 1784 年德國哲學家康德（[Immanuel Kant](https://www.google.com/search?q=Immanuel+Kant)）在《[回答這個問題：什麼是啟蒙？](https://www.gutenberg.org/files/30821/30821-h/30821-h.htm)》中寫下的座右銘：
 
-> _“Sapere aude! Habe Mut, dich deines eigenen Verstandes zu bedienen!”_
+> _Sapere aude! Habe Mut, dich deines eigenen Verstandes zu bedienen!_
 >
 > 勇於求知吧！鼓起勇氣用自己的腦袋獨立思考！
 
@@ -178,7 +178,7 @@ tags:
 
 關於這點，我想達爾文（[Charles Darwin](https://www.google.com/search?q=Charles+Darwin)）在《[物種起源](https://www.google.com/search?q=物種起源)》裡有最好的詮釋：
 
-> _“It is not the strongest of the species that survives, nor the most intelligent that survives. It is the one that is the most adaptable to change.”_
+> _It is not the strongest of the species that survives, nor the most intelligent that survives. It is the one that is the most adaptable to change._
 >
 > 最終能生存下來的物種，不是最強的、也不是最聰明的，而是最能適應改變的。
 
