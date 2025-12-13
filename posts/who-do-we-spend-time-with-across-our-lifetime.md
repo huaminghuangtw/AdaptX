@@ -4,7 +4,7 @@ canonicalURL: https://adaptx.tw/2025/10/14/who-do-we-spend-time-with-across-our-
 description:
 ogImage: ../_attachments/9367cb3d910baa4e43f8a7e3cb3aef4c.png
 created: 2025-10-14T06:49:03
-modified: 2025-11-14T19:56:39
+modified: 2025-12-13T09:22:01
 draft: false
 featured: false
 tags:
@@ -13,11 +13,15 @@ tags:
 
 一生中最公平的資源，就是每天 24 小時。
 
-作家 [Annie Dillard](https://www.google.com/search?q=Annie+Dillard) 在著作《[The Writing Life](https://www.amazon.com/Writing-Life-Annie-Dillard/dp/0060919884)》中寫道：「我們如何過每一天，就是我們如何過一生」。[^1]
+美國作家 [Annie Dillard](https://www.google.com/search?q=Annie+Dillard) 在著作《[The Writing Life](https://www.amazon.com/Writing-Life-Annie-Dillard/dp/0060919884)》中寫道：
+
+> _“How we spend our days is, of course, how we spend our lives.” _
+>
+> 如何過一天，就是如何過一生。
 
 我們的時間流向，隨著年齡不斷改寫，也悄悄勾勒出一張「人生關係地圖」。
 
-[美國時間使用調查（American Time Use Survey, ATUS](https://ourworldindata.org/time-use)）的研究人員 [^2] 分析了人們在人生不同階段的人際關係時間分配。
+[美國時間使用調查（American Time Use Survey, ATUS](https://ourworldindata.org/time-use)）的研究人員 [^1] 分析了人們在人生不同階段的人際關係時間分配。
 
 <iframe
 	src="https://ourworldindata.org/grapher/time-spent-with-relationships-by-age-us?tab=chart"
@@ -30,7 +34,7 @@ tags:
 
 這份資料提供一面鏡子，幫助我們理解自己與周遭人群的關係變化，也提醒我們更有意識地決定要將時間投注在哪裡。
 
-為了更清楚呈現這些趨勢，我將資料依關係類別拆分成六張圖表 [^3]，接下來讓我們逐一探討。
+為了更清楚呈現這些趨勢，我將資料依關係類別拆分成六張圖表 [^2]，接下來讓我們逐一探討。
 
 ---
 
@@ -84,7 +88,7 @@ tags:
 
 你需要明智地選擇，因為這個人將陪你度過人生中最美好與最糟糕的日子。
 
-如果你渴望組成一個家庭，尋找那位真心想成為「丈夫/妻子」和「父親/母親」的人，而不是只想擁有「老婆/老公」和「孩子」的人。[^4]
+如果你渴望組成一個家庭，尋找那位真心想成為「丈夫/妻子」和「父親/母親」的人，而不是只想擁有「老婆/老公」和「孩子」的人。[^3]
 
 愛的最佳方程式是 1 + 1 = ∞；是兩個自由、獨立、完整的靈魂，組成無限大的「我們」。
 
@@ -172,7 +176,11 @@ tags:
 
 人生不同階段有不同的陪伴重心：童年是家人，青春是朋友，中年是伴侶、孩子與同事，老年則是伴侶與自己。
 
-作家 [Jim Rohn](https://www.google.com/search?q=Jim+Rohn) 曾說：「我們都是最常相處的五個人的平均。」[^5]
+美國勵志演說家 [Jim Rohn](https://www.google.com/search?q=Jim+Rohn) 曾說：
+
+> _“You are the average of the five people you spend the most time with.” _
+>
+> 我們都是最常相處的五個人的平均。
 
 近朱者赤，近墨者黑。環境，特別是最親近的社交圈，深刻影響著我們的習慣、思維和成就 — 無論是在財務、情感還是心智層面。因此，謹慎選擇同行的夥伴至關重要。
 
@@ -184,8 +192,6 @@ tags:
 
 或許，我們都該時常問自己：**今天的 24 小時，我想和誰一起度過？**
 
-[^1]: _“How we spend our days is, of course, how we spend our lives.” ― Annie Dillard, [The Writing Life](https://www.goodreads.com/work/quotes/516929)_
-[^2]: Esteban Ortiz-Ospina, Bastian Herre, Tuna Acisu, Charlie Giattino, and Max Roser (2020) - “Time Use”
-[^3]: 原始碼分享於 [GitHub](https://github.com/huaminghuangtw/Time-Spent-with-Relationships-by-Age)
-[^4]: 前者是「成為某種角色」的思維，關乎身份認同與責任；後者是「擁有某些東西」的思維，關乎個人慾望與需求。
-[^5]: _“You are the average of the five people you spend the most time with.” ― Jim Rohn_
+[^1]: Esteban Ortiz-Ospina, Bastian Herre, Tuna Acisu, Charlie Giattino, and Max Roser (2020) - “Time Use”
+[^2]: 原始碼分享於 [GitHub](https://github.com/huaminghuangtw/Time-Spent-with-Relationships-by-Age)
+[^3]: 前者是「成為某種角色」的思維，關乎身份認同與責任；後者是「擁有某些東西」的思維，關乎個人慾望與需求。
