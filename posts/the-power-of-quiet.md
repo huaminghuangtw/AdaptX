@@ -4,7 +4,7 @@ canonicalURL: https://adaptx.tw/2025/10/10/the-power-of-quiet
 description:
 ogImage: ../_attachments/657b3960557c19ebb0a001c932a1e6ee.png
 created: 2025-10-10T14:35:33
-modified: 2025-11-05T07:56:50
+modified: 2025-12-13T09:22:15
 draft: false
 featured: false
 tags:
@@ -27,7 +27,7 @@ _**人們真正渴望的是被理解、被聆聽、被「接住」。**_
 
 _**有時，身邊的人需要的，僅僅是你的靜心陪伴與專注傾聽。**_
 
-日本作家 [赤羽雄二](https://www.google.com/search?q=赤羽雄二) 在《[聽比說更重要](https://www.books.com.tw/products/0010908907)》書中寫到：
+日本作家 [赤羽雄二](https://www.google.com/search?q=赤羽雄二) 在《[聽比說更重要](https://www.books.com.tw/products/0010908907)》書中寫道：
 
 > _在親密關係中，當對方找你談話時，請不要在第一時間就跟對方說：「這樣做比較好」、「應該這樣做」，而要先讓對方把話完整地說完。在對方還未說完以前，輕率地給出任何回應、提出任何意見或質疑，只會讓對方有不好的觀感，而被視為一種攻擊、批評或責難。有時候對方只是想感性地抒發、傾訴，並希望另一方好好傾聽、安慰自己罷了，最主要其實還是希望獲得「共鳴」。_
 
