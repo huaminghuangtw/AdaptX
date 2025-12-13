@@ -4,7 +4,7 @@ canonicalURL: https://adaptx.tw/2025/11/12/ted-taipei-2025
 description:
 ogImage: ../_attachments/db8ac301faf2da7c717ecc5cfc04a8b8.jpeg
 created: 2025-11-12T07:34:52
-modified: 2025-11-29T16:08:44
+modified: 2025-12-13T09:23:55
 draft: false
 featured: false
 tags:
@@ -123,7 +123,7 @@ _原來，給未來最溫暖的禮物，是學會為自己的心騰出空間，�
 
 手機成癮，或許是正以倍速蔓延，卻沉默無聲的流行病（silent pandemic）。
 
-美國社會心理學家 [Jonathan Haidt](https://www.google.com/search?q=Jonathan+Haidt) 在 2024 年春天發表的著作《[失控的焦慮世代](https://www.goodreads.com/work/quotes/180330965-the-anxious-generation-how-the-great-rewiring-of-childhood-caused-an-ep)》（The Anxious Generation）寫到：
+美國社會心理學家 [Jonathan Haidt](https://www.google.com/search?q=Jonathan+Haidt) 在 2024 年春天發表的著作《[失控的焦慮世代](https://www.goodreads.com/work/quotes/180330965-the-anxious-generation-how-the-great-rewiring-of-childhood-caused-an-ep)》（The Anxious Generation）寫道：
 
 > _“Overprotection in the real world and underprotection in the virtual world are the major reasons why children born after 1995 became the anxious generation.”_
 >
