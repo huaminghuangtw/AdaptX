@@ -4,7 +4,7 @@ canonicalURL: https://adaptx.tw/2025/9/30/the-monkey-and-pedestal-mindset
 description:
 ogImage: ../_attachments/a9cc51f8952c0244c30a9477749a5140.png
 created: 2025-09-30T06:58:41
-modified: 2025-11-20T18:10:27
+modified: 2025-12-13T09:40:31
 draft: false
 featured: false
 tags:
@@ -35,7 +35,7 @@ tags:
 
 堅持（Grit）就像「油門」，是驅動我們前進的力量，更是基本功！**只是它需要一個前提：「這條路還值得繼續走下去」。**
 
-而放棄（Quit）就像「方向盤」，使我們能夠靈活轉向，而不是卡在已經失去意義的迴圈裡。
+而放棄（Quit）就像「方向盤」，幫助我們靈活轉向，而不是卡在已經失去意義的迴圈裡。
 
 堅持，是在選定道路後，勇敢地踩下油門；而放棄，則是在發現走錯路時，善用方向盤即時轉向。
 
@@ -109,11 +109,15 @@ Annie Duke 在書中也提到，**我們應該在還沒陷入困境前，就先�
 
 # 成功的關鍵，並非努力不懈，而是懂得在對的時機放棄錯的事情
 
-單車電影《破風》裡有一句台詞：「取是能力，捨是境界。」如何精準判斷何時該堅持、何時該放棄，是一門藝術，也是一項值得我們用心磨練的人生技能。
+單車電影《[破風](https://www.imdb.com/title/tt4788638/)》裡有一句台詞：「取是能力，捨是境界。」
 
-就如賈伯斯所說：
+如何精準判斷何時該堅持、何時該放棄，是一門藝術，也是一項值得我們用心磨練的人生技能。
 
-> _專注的真諦，並不是對著你要做的那件事說「好」，而是對其他一百個也很棒的點子說「不」。_ [^6]
+就如賈伯斯（[Steve Jobs](https://www.google.com/search?q=Steve+Jobs)）所說：
+
+> _“People think focus means saying yes to the thing you’ve got to focus on. But that’s not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully. I’m actually as proud of the things we haven’t done as the things I have done.”_
+>
+> 多數人誤以為專注是不斷對某件事點頭，但事實完全不是如此。專注的真諦，是對其他一百個也很棒的點子說「不」。你必須精挑細選。老實說，我對那些我們選擇不做的事，和已經做成的事感到同樣驕傲。
 
 決定不做某件事，有時甚至比決定做某件事更有價值。
 
@@ -125,14 +129,14 @@ Annie Duke 在書中也提到，**我們應該在還沒陷入困境前，就先�
 
 厲害的人，其實比我們想像中更常放棄，而且他們可以在很短的時間內就決定放棄，毫不猶豫。這就是成功人士之所以卓越的精髓。
 
-最後，我想引用 NVIDIA 執行長黃仁勳在 2023 年臺灣大學畢業典禮上説過的一句話：
+最後，我想引用 NVIDIA 執行長黃仁勳（[Jensen Huang](https://www.google.com/search?q=Jensen+Huang)）在 [2023 年臺灣大學畢業典禮](https://www.youtube.com/watch?v=oi89u6q0_AY&t=19m57s) 上説過的一句話：
 
-> _策略性撤退、做出犧牲，並決定該放棄什麼，是成功最關鍵的核心。_ [^7]
+> _“Strategic retreat, sacrifice, deciding what to give up is at the core, the very core of success.”_
+>
+> 策略性撤退、做出犧牲，並決定該放棄什麼，是成功最關鍵的核心。
 
 [^1]: 或「 [船錨（Boat Anchor）](https://sketchplanations.com/anchors-and-tugboats)」。以色列學者 Eliyahu M. Goldratt 也在《[目標](https://www.books.com.tw/products/0010346055)》一書中提出「約束理論（Theory of Constraints）」，主張任何系統中，至少存在一個限制其達成目標的瓶頸。這個理論的核心精神，在於找出並專注於改善那個「最弱的一環」，因為整個系統的強度，取決於其最弱的部分。
 [^2]: 例如 [太空電梯、漂浮滑板、噴射背包、瞬間移動](https://zh.wikipedia.org/zh-tw/X_(2010%E5%B9%B4%E5%85%AC%E5%8F%B8)) 等。
 [^3]: _“Making a plan for when to quit should be done long before you are facing the quitting decision. It recognizes, as Daniel Kahneman has pointed out, that the worst time to make a decision is when you’re ‘in it.’” ― Annie Duke, [Quit: The Power of Knowing When to Walk Away](https://www.goodreads.com/work/quotes/94759454)_
 [^4]: _“When people quit on time, it will usually feel like they are quitting too early, because it will be long before they experience the choice as a close call.” ― Annie Duke, [Quit: The Power of Knowing When to Walk Away](https://www.goodreads.com/work/quotes/94759454)_
 [^5]: _“Rule of thumb: The more important a call or action is to our soul’s evolution, the more Resistance we will feel.” — Steven Pressfield, [Do the Work](https://www.goodreads.com/work/quotes/15554094)_
-[^6]: _[“People think focus means saying yes to the thing you’ve got to focus on. But that’s not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully. I’m actually as proud of the things we haven’t done as the things I have done. Innovation is saying no to 1,000 things.” — Steve Jobs](https://www.goodreads.com/quotes/629613-people-think-focus-means-saying-yes-to-the-thing-you-ve)_
-[^7]: _[“Strategic retreat, sacrifice, deciding what to give up is at the core, the very core of success.” — Jensen Huang](https://www.youtube.com/watch?v=oi89u6q0_AY&t=19m57s)_
