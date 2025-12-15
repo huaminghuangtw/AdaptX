@@ -4,7 +4,7 @@ canonicalURL: https://adaptx.tw/2025/12/11/goodbye-past-me
 description:
 ogImage: ../_attachments/3e8b940b9c3dc98bf25e8ac533251449.png
 created: 2025-12-11T18:03:22
-modified: 2025-12-14T18:52:14
+modified: 2025-12-15T08:27:49
 draft: false
 featured: true
 tags:
@@ -54,7 +54,7 @@ tags:
 
 而突破自我最難的關卡，是誠實面對自己。
 
-物理學家 [Richard Feynman](https://www.google.com/search?q=Richard+Feynman) 說個一句名言：
+物理學家 [Richard Feynman](https://www.google.com/search?q=Richard+Feynman) 說過：
 
 > _The first principle is that you must not fool yourself — and you are the easiest person to fool._
 >
