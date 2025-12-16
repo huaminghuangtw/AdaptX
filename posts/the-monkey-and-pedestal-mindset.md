@@ -4,7 +4,7 @@ canonicalURL: https://adaptx.tw/2025/9/30/the-monkey-and-pedestal-mindset
 description:
 ogImage: ../_attachments/a9cc51f8952c0244c30a9477749a5140.png
 created: 2025-09-30T06:58:41
-modified: 2025-12-13T10:41:47
+modified: 2025-12-16T14:39:47
 draft: false
 featured: false
 tags:
@@ -17,7 +17,7 @@ tags:
 
 即使心裡那股「好像不太對勁」的聲音越來越清晰，卻經常對它按下靜音，用「再撐一下就好」、「再觀望一陣子」來說服（欺騙）自己。
 
-結果就是最珍貴的 [注意力](sherlock-holmes-brain-attic.md) 被消耗在沒有太多未來性的地方。
+結果就是最珍貴的 [注意力](https://huami.ng/2025/8/14/sherlock-holmes-brain-attic) 被消耗在沒有太多未來性的地方。
 
 **會不會，我們其實誤解了放棄？**
 
