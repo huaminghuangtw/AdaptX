@@ -4,7 +4,7 @@ canonicalURL: https://adaptx.tw/2025/12/11/goodbye-past-me
 description:
 ogImage: ../_attachments/3e8b940b9c3dc98bf25e8ac533251449.png
 created: 2025-12-11T18:03:22
-modified: 2025-12-15T08:27:49
+modified: 2025-12-16T08:54:27
 draft: false
 featured: true
 tags:
@@ -52,7 +52,7 @@ tags:
 
 ---
 
-而突破自我最難的關卡，是誠實面對自己。
+突破自我最難的關卡，是誠實面對自己。
 
 物理學家 [Richard Feynman](https://www.google.com/search?q=Richard+Feynman) 說過：
 
@@ -120,7 +120,7 @@ tags:
 
 我們現在的生活，都是過去想法塑造出的結果。
 
-如果腦中充滿僵化的舊思維，人生註定只能重複過去的軌跡。
+如果腦中充滿僵化、狹隘的思維模式，人生註定只能重複過去的軌跡。
 
 唯一的限制，是自己設下的限制。
 
@@ -179,6 +179,8 @@ tags:
 > _It is not the strongest of the species that survives, nor the most intelligent that survives. It is the one that is the most adaptable to change._
 >
 > 最終能生存下來的物種，不是最強的、也不是最聰明的，而是最能適應改變的。
+
+---
 
 是時候跟過去的自己說再見了。
 
