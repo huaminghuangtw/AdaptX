@@ -4,7 +4,7 @@ canonicalURL: https://adaptx.tw/2025/10/14/who-do-we-spend-time-with-across-our-
 description:
 ogImage: ../_attachments/9367cb3d910baa4e43f8a7e3cb3aef4c.png
 created: 2025-10-14T06:49:03
-modified: 2025-12-13T09:22:01
+modified: 2025-12-16T14:41:00
 draft: false
 featured: false
 tags:
@@ -120,7 +120,7 @@ tags:
 
 二十年後，還會記得你曾經為了養家糊口、替公司賣肝、熬夜加班的人，不是你的老闆，不是你的上司，不是你的同事，是你的孩子。
 
-每件事都有機會成本：奮力向前衝、如倉鼠般拼命賺錢的同時，你了解自己正在向後 [放棄](the-monkey-and-pedestal-mindset.md) 什麼嗎？
+每件事都有機會成本：奮力向前衝、如倉鼠般拼命賺錢的同時，你了解自己正在向後 [放棄](https://huami.ng/2025/9/30/the-monkey-and-pedestal-mindset) 什麼嗎？
 
 ---
 
