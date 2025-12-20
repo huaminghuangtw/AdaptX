@@ -1,10 +1,11 @@
 ---
 title: 學會死亡，就學會活著
-canonicalUrl: https://adaptx.tw/2025/10/3/
 description:
 ogImage: ../_attachments/
 created: 2025-10-03T09:50:26
-modified: 2025-12-21T07:23:17
+modified: 2025-12-21T07:40:22
+canonicalUrl: https://adaptx.tw/2025/10/3/
+canonicalPath: 2025/10/3/death
 draft: true
 featured: false
 tags:

@@ -1,10 +1,11 @@
 ---
 title: 子非魚焉知魚樂
-canonicalUrl: https://adaptx.tw/2025/11/2/you-are-not-a-fish-how-can-you-know-fishs-joy
 description:
 ogImage: ../_attachments/
 created: 2025-11-02T16:55:43
-modified: 2025-12-21T07:23:17
+modified: 2025-12-21T07:40:22
+canonicalUrl: https://adaptx.tw/2025/11/2/you-are-not-a-fish-how-can-you-know-fishs-joy
+canonicalPath: 2025/11/2/you-are-not-a-fish-how-can-you-know-fishs-joy
 draft: true
 featured: false
 tags:

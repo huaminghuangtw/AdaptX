@@ -1,10 +1,11 @@
 ---
 title: 30 件我希望 20 歲時就懂的事
-canonicalUrl: https://adaptx.tw/2025/10/15/30-things-i-wish-i-knew-in-20s
 description:
 ogImage: ../_attachments/000e30aa1958044e4daeb981190cdbe4.png
 created: 2025-10-15T15:40:33
-modified: 2025-12-21T07:23:17
+modified: 2025-12-21T07:40:22
+canonicalUrl: https://adaptx.tw/2025/10/15/30-things-i-wish-i-knew-in-20s
+canonicalPath: 2025/10/15/30-things-i-wish-i-knew-in-20s
 draft: false
 featured: false
 tags:
