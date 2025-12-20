@@ -1,10 +1,10 @@
 ---
 title: 再也不要因為事情微小而不為
-canonicalURL: https://adaptx.tw/2025/8/14/sherlock-holmes-brain-attic
+canonicalUrl: https://adaptx.tw/2025/8/14/sherlock-holmes-brain-attic
 description:
 ogImage: ../_attachments/
 created: 2025-08-14T07:29:22
-modified: 2025-11-14T15:39:44
+modified: 2025-12-21T07:23:17
 draft: true
 featured: false
 tags:

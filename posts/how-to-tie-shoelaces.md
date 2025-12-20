@@ -1,10 +1,10 @@
 ---
 title: 鞋帶一直掉？專業跑者都在用的打結術
-canonicalURL: https://adaptx.tw/2025/12/17/how-to-tie-shoelaces
+canonicalUrl: https://adaptx.tw/2025/12/17/how-to-tie-shoelaces
 description:
 ogImage: ../_attachments/030905b2eba08473ea1034f327737172.png
 created: 2025-12-17T12:32:03
-modified: 2025-12-19T16:27:08
+modified: 2025-12-21T07:23:17
 draft: false
 featured: false
 tags:

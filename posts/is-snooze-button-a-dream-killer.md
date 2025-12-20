@@ -1,10 +1,10 @@
 ---
 title: 貪睡鍵真的是夢想殺手嗎？也許你誤解「自律」了
-canonicalURL: https://adaptx.tw/2025/10/21/
+canonicalUrl: https://adaptx.tw/2025/10/21/
 description:
 ogImage: ../_attachments/
 created: 2025-10-21T04:40:56
-modified: 2025-12-13T13:53:34
+modified: 2025-12-21T07:23:17
 draft: true
 featured: false
 tags:
