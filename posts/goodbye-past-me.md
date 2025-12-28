@@ -3,7 +3,7 @@ title: 和過去的自己說再見
 description:
 ogImage: ../_attachments/3e8b940b9c3dc98bf25e8ac533251449.png
 created: 2025-12-11T18:03:22
-modified: 2025-12-21T07:40:22
+modified: 2025-12-28T07:34:28
 canonicalUrl: https://adaptx.tw/2025/12/11/goodbye-past-me
 canonicalPath: 2025/12/11/goodbye-past-me
 draft: false
@@ -161,7 +161,7 @@ tags:
 
 沒有過去的我需要緊抓不放，也沒有未來的我需要過度擔憂；
 
-只有我 — 那個不完美，卻仍持續改變、更新、進步的我。
+只有我 — 那個不完美，卻仍持續迭代、改變、更新、進步、變強的我。
 
 ![](../_attachments/67cb0dae01bfddcf6882795599773d01.png)
 
