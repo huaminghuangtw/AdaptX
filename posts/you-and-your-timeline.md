@@ -3,7 +3,7 @@ title: 你與你的時區
 description:
 ogImage: ../_attachments/41f5d232b263a3b8ba3cae2a81b2e364.png
 created: 2025-08-30T07:34:40
-modified: 2025-12-21T07:40:22
+modified: 2025-12-28T17:54:05
 canonicalUrl: https://adaptx.tw/2025/8/30/you-and-your-timeline
 canonicalPath: 2025/8/30/you-and-your-timeline
 draft: false
@@ -30,7 +30,7 @@ tags:
 
 每一次的際遇，都不是偶然，而是上天精心鋪設的道路，為了鍛鍊靈魂去承擔此生的使命，並引領我們遇見需要自己服務的那群人。
 
-我們要做的，只是順應天性。
+我們要做的，只是順應天性，[讓天賦自由](https://www.books.com.tw/products/0010929577)。
 
 愛因斯坦（[Albert Einstein](https://www.google.com/search?q=Albert+Einstein)）說過：
 
@@ -63,6 +63,10 @@ tags:
 人比人，氣死人；蛋餅比蛋餅，起士蛋餅…
 
 若真的想要攀比，請和昨天的自己比，而不是和今天的某人比。
+
+最有意思的人設，就是展現最真誠、最真實的自己。
+
+你越自然，越能展現獨特的迷人之處。
 
 別被不屬於你的生活囚禁，也別在不屬於你的人生裡逗留。
 
