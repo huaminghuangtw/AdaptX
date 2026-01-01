@@ -3,7 +3,7 @@ title: 什麼是更好的活著？我在 TED×Taipei 2025 年會得到的五個�
 description:
 ogImage: ../_attachments/db8ac301faf2da7c717ecc5cfc04a8b8.jpeg
 created: 2025-11-12T07:34:52
-modified: 2025-12-21T07:40:22
+modified: 2026-01-01T08:56:49
 canonicalUrl: https://adaptx.tw/2025/11/12/ted-taipei-2025
 canonicalPath: 2025/11/12/ted-taipei-2025
 draft: false
@@ -120,7 +120,7 @@ _原來，給未來最溫暖的禮物，是學會為自己的心騰出空間，�
 
 幾年前，受到 Netflix 紀錄片 《[智能社會：進退兩難](https://www.imdb.com/title/tt11464826/)》（The Social Dilemma）的醍醐灌頂，我開始意識到手機和社群媒體所帶來的心理健康危機，並 [下定決心投入並改善青少年手機成癮議題](https://shortcutomation.com)。
 
-智慧型手機的出現，顛覆了人類的閱讀習慣、獲取資訊以及社交方式。
+智慧型手機的出現，徹底改寫了人類的閱讀習慣、資訊獲取與社交互動。
 
 手機成癮，或許是正以倍速蔓延，卻沉默無聲的流行病（silent pandemic）。
 
@@ -130,7 +130,7 @@ _原來，給未來最溫暖的禮物，是學會為自己的心騰出空間，�
 >
 > 現實世界中過度保護，虛擬世界中疏於保護，是 1995 年後出生的孩子們，成為焦慮世代的主要原因。
 
-[研究顯示](https://doi.org/10.1086/691462)，即使只是把手機放在身邊，也會降低我們的 [心智頻寬 (mental bandwidth)](https://doi.org/10.1086/691462)，使我們 [在對話中顯得不夠專注](https://doi.org/10.1016/j.jesp.2022.104344)。
+[研究顯示](https://doi.org/10.1086/691462)，即使只是把手機放在桌上，也會降低我們的 [心智頻寬 (mental bandwidth)](https://doi.org/10.1086/691462)，使我們 [在對話中顯得不夠專注](https://doi.org/10.1016/j.jesp.2022.104344)。
 
 當我們將目光從螢幕移開，才能真正看見彼此。
 
