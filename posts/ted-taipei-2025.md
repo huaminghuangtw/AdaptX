@@ -3,7 +3,7 @@ title: 什麼是更好的活著？我在 TED×Taipei 2025 年會得到的五個�
 description:
 ogImage: ../_attachments/db8ac301faf2da7c717ecc5cfc04a8b8.jpeg
 created: 2025-11-12T07:34:52
-modified: 2026-01-01T08:56:49
+modified: 2026-01-02T09:19:37
 canonicalUrl: https://adaptx.tw/2025/11/12/ted-taipei-2025
 canonicalPath: 2025/11/12/ted-taipei-2025
 draft: false
@@ -118,11 +118,11 @@ _原來，給未來最溫暖的禮物，是學會為自己的心騰出空間，�
 
 接著說：「利用這段時間，問問孩子今天發生了什麼事，或者分享自己的生活。」
 
-幾年前，受到 Netflix 紀錄片 《[智能社會：進退兩難](https://www.imdb.com/title/tt11464826/)》（The Social Dilemma）的醍醐灌頂，我開始意識到手機和社群媒體所帶來的心理健康危機，並 [下定決心投入並改善青少年手機成癮議題](https://shortcutomation.com)。
+幾年前，受到 Netflix 紀錄片 《[智能社會：進退兩難](https://www.imdb.com/title/tt11464826/)》（The Social Dilemma）的醍醐灌頂，我開始意識到手機和社群媒體潛藏的心理健康危機，並 [下定決心投入並改善現代人手機成癮議題](https://shortcutomation.com)。
 
-智慧型手機的出現，徹底改寫了人類的閱讀習慣、資訊獲取與社交互動。
+智慧型手機的出現，徹底改寫了人類閱讀、獲取資訊以及社交互動的方式。
 
-手機成癮，或許是正以倍速蔓延，卻沉默無聲的流行病（silent pandemic）。
+手機成癮，或許正是這個時代正以倍速蔓延，卻沉默無聲的流行病（silent pandemic）。
 
 美國社會心理學家 [Jonathan Haidt](https://www.google.com/search?q=Jonathan+Haidt) 在 2024 年春天發表的著作《[失控的焦慮世代](https://www.goodreads.com/work/quotes/180330965-the-anxious-generation-how-the-great-rewiring-of-childhood-caused-an-ep)》（The Anxious Generation）寫道：
 
