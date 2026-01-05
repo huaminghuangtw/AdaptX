@@ -3,7 +3,7 @@ title: 什麼是更好的活著？我在 TED×Taipei 2025 年會得到的五個�
 description:
 ogImage: ../_attachments/db8ac301faf2da7c717ecc5cfc04a8b8.jpeg
 created: 2025-11-12T07:34:52
-modified: 2026-01-03T05:04:40
+modified: 2026-01-05T14:03:31
 canonicalUrl: https://adaptx.tw/2025/11/12/ted-taipei-2025
 canonicalPath: 2025/11/12/ted-taipei-2025
 draft: false
@@ -146,7 +146,7 @@ _原來，給未來最珍貴的禮物，是創造一個沒有數位科技干擾�
 
 歷時 15 年拍攝、台灣首部跨越南北極的生態電影《[守護我們的星球](https://www.facebook.com/guardiansofourplanet)》導演 [舒夢蘭](https://www.google.com/search?q=舒夢蘭)，用鏡頭帶我們跨越千里，看見地球上必須被關注的角落與生命 — 不論是東非草原上動物大遷徙的壯闊，或是豎琴海豹在極地融冰上的無助。
 
-她的作品揭示在「[人類世](https://www.google.com/search?q=人類世)」（Anthropocene）下，我們如何影響萬物的命運。
+她的作品傳達在「[人類世](https://www.google.com/search?q=人類世)」（Anthropocene）下，我們如何影響萬物的命運。
 
 舒夢蘭的分享提醒我：人類並非地球的主人，而是與萬物同屬一個生命共同體。
 
