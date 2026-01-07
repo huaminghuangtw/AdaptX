@@ -3,7 +3,7 @@ title: 和過去的自己說再見
 description:
 ogImage: ../_attachments/3e8b940b9c3dc98bf25e8ac533251449.png
 created: 2025-12-11T18:03:22
-modified: 2026-01-05T14:01:48
+modified: 2026-01-07T12:25:18
 canonicalUrl: https://adaptx.tw/2025/12/11/goodbye-past-me
 canonicalPath: 2025/12/11/goodbye-past-me
 draft: false
@@ -50,6 +50,14 @@ tags:
 然而，**生活中最難的，不是向認識的人道別，而是和過去的自己說再見。**
 
 人都無法游向新的地平線，直到有勇氣告別海岸。
+
+<div align="center">
+
+![](../_attachments/ab6d048cb84db54e34571bf7f18b3213.jpeg)
+
+<sub><em>圖片來源：<a href="https://waitbutwhy.com/">Wait But Why</a></em></sub>
+
+</div>
 
 ---
 
