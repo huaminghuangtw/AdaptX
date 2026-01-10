@@ -3,7 +3,7 @@ title: 什麼是更好的活著？我在 TED×Taipei 2025 年會得到的五個�
 description:
 ogImage: ../_attachments/db8ac301faf2da7c717ecc5cfc04a8b8.jpeg
 created: 2025-11-12T07:34:52
-modified: 2026-01-05T14:03:31
+modified: 2026-01-09T20:45:55
 canonicalUrl: https://adaptx.tw/2025/11/12/ted-taipei-2025
 canonicalPath: 2025/11/12/ted-taipei-2025
 draft: false
@@ -88,7 +88,7 @@ _原來，給未來最溫柔的禮物，是允許自己和他人單純地「存�
 
 # 3. 我們都需要對自己更好一點
 
-周慕姿在演講中的另一席話也讓我印象深刻：
+周慕姿在 [演講](https://youtu.be/4OEG33NfEK0) 中的另一席話也讓我印象深刻：
 
 > 心是一個容器，裝滿了別人，就裝不下自己。
 
