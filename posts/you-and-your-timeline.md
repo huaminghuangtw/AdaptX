@@ -3,7 +3,7 @@ title: 你與你的時區
 description:
 ogImage: ../_attachments/41f5d232b263a3b8ba3cae2a81b2e364.png
 created: 2025-08-30T07:34:40
-modified: 2025-12-28T17:54:05
+modified: 2026-01-10T16:03:17
 canonicalUrl: https://adaptx.tw/2025/8/30/you-and-your-timeline
 canonicalPath: 2025/8/30/you-and-your-timeline
 draft: false
@@ -76,7 +76,7 @@ tags:
 
 在只有自己的時區裡，難免感到孤單，也需要勇氣。
 
-有時候會自我懷疑，這很正常，我懂。
+有時候會自我懷疑，這很正常，我懂，我完全懂。
 
 這時候請記得：再做一個好的決定就好。
 
@@ -171,6 +171,8 @@ tags:
 這個世界上並不存在所謂的命運，我們必須創造屬於自己的命運。
 
 拋棄社會框架的束縛和世俗眼光的期待，放下無謂的比較，不追逐他人的影子。
+
+請記得：所有努力都不會被叛逆。
 
 勇敢相信自己的選擇和直覺，給自己多一點耐心和信心。
 
