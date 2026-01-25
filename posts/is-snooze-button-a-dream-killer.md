@@ -3,7 +3,7 @@ title: 貪睡鍵真的是夢想殺手嗎？也許你誤解「自律」了
 description:
 ogImage: ../_attachments/
 created: 2025-10-21T04:40:56
-modified: 2025-12-21T07:40:22
+modified: 2026-01-25T16:14:20
 canonicalUrl: https://adaptx.tw/2025/10/21/
 canonicalPath: 2025/10/21/is-snooze-button-a-dream-killer
 draft: true
@@ -70,7 +70,7 @@ Remember why you are doing this: You get only one life, **one that is not reward
 
 # 兩段文字
 
-* “The Breeze At Dawn” by Rumi
+* “The Breeze At Dawn” by Rumi
 
 > The breeze at dawn has secrets to tell you.
 > Don’t go back to sleep.
@@ -117,5 +117,5 @@ Remember why you are doing this: You get only one life, **one that is not reward
 後來，我改變想法了：我決定好好聆聽內心和身體的聲音。然後繼續按下貪睡鍵。
 
 [^1]: 他在 [Instagram](https://www.instagram.com/jockowillink) 上經常分享自己每天凌晨 04:30 左右起床的手錶截圖 🫡
-[^2]: _“When the alarm goes off, do you get up out of bed, or do you lie there in comfort and fall back to sleep? If you have the discipline to get out of bed, you win—you pass the test. If you are mentally weak for that moment and you let that weakness keep you in bed, you fail.” — Jocko Willink,  [Extreme Ownership: How U.S. Navy SEALs Lead and Win](https://www.goodreads.com/work/quotes/43458164)_
+[^2]: _“When the alarm goes off, do you get up out of bed, or do you lie there in comfort and fall back to sleep? If you have the discipline to get out of bed, you win—you pass the test. If you are mentally weak for that moment and you let that weakness keep you in bed, you fail.” — Jocko Willink,  [Extreme Ownership: How U.S. Navy SEALs Lead and Win](https://www.goodreads.com/work/quotes/43458164)_
 [^3]: _“Only the disciplined ones in life are free. If you are undisciplined, you are a slave to your moods and your passions.” — Eliud Kipchoge_
