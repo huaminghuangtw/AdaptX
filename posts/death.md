@@ -3,7 +3,7 @@ title: 學會死亡，就學會活著
 description:
 ogImage: ../_attachments/
 created: 2025-10-03T09:50:26
-modified: 2025-12-21T07:40:22
+modified: 2026-01-25T16:14:20
 canonicalUrl: https://adaptx.tw/2025/10/3/
 canonicalPath: 2025/10/3/death
 draft: true
@@ -31,7 +31,7 @@ Every morning, my Lock Screen greets me with these numbers, thanks to a [Persona
 
 I used to put off small joys in _this moment, [this pixel](https://waitbutwhy.com/2013/11/life-is-picture-but-you-live-in-pixel.html), this now_—[calling a loved one](https://shortcutomation.com/call-people-i-love/), taking a walk, savoring a meal—thinking there would always be more time later. But _later_ often means _never_. [It’s later than you think.](https://www.youtube.com/watch?v=nFxjnUPRwx4)
 
-The [Death Clock](https://shortcutomation.com/death-clock/) reminds me that every single second I’m dying. It internalizes the certainty of death, rewiring my brain to prioritize what I might [regret on my deathbed](https://bronnieware.com/regrets-of-the-dying/). **It’s not the number that is the most important, but seeing the number changing day after day that makes the difference.**
+The [Death Clock](https://shortcutomation.com/death-clock/) reminds me that every single second I’m dying. It internalizes the certainty of death, rewiring my brain to prioritize what I might [regret on my deathbed](https://bronnieware.com/regrets-of-the-dying/). **It’s not the number that is the most important, but seeing the number changing day after day that makes the difference.**
 
 > _“Almost everything…just fall[s] away in the face of death, leaving only what is truly important…Remembering that you are going to die is the best way I know to avoid the trap of thinking: you have something to lose. You are already naked. There is no reason not to follow your heart.” — Steve Jobs_ [^1]
 
@@ -79,7 +79,7 @@ On the death bed at my 80s, I want to be able to utter these words: “yeah I wa
 
 # [Bronnie Ware’s “Top Five Regrets of the Dying”](https://bronnieware.com/regrets-of-the-dying/)
 
-**What people most often regret before they die (Deathbed Regret):** [^2]
+**What people most often regret before they die (Deathbed Regret):** [^2]
 
 1. I wish I had the courage to live a life true to myself, not trying to a people pleaser and lived the life others expected of me.
 2. I wish I didn’t work so hard. [^3]
