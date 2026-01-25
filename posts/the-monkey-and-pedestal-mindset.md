@@ -3,7 +3,7 @@ title: 我從 Google X 實驗室學到的放棄哲學：猴子與基座
 description:
 ogImage: ../_attachments/a9cc51f8952c0244c30a9477749a5140.png
 created: 2025-09-30T06:58:41
-modified: 2025-12-21T07:40:22
+modified: 2026-01-25T16:14:20
 canonicalUrl: https://adaptx.tw/2025/9/30/the-monkey-and-pedestal-mindset
 canonicalPath: 2025/9/30/the-monkey-and-pedestal-mindset
 draft: false
@@ -152,4 +152,4 @@ Annie Duke 在書中也提到，**我們應該在還沒陷入困境前，就先�
 [^2]: 例如 [太空電梯、漂浮滑板、噴射背包、瞬間移動](https://zh.wikipedia.org/zh-tw/X_(2010%E5%B9%B4%E5%85%AC%E5%8F%B8)) 等。
 [^3]: _“Making a plan for when to quit should be done long before you are facing the quitting decision. It recognizes, as Daniel Kahneman has pointed out, that the worst time to make a decision is when you’re ‘in it.’” — Annie Duke, [Quit: The Power of Knowing When to Walk Away](https://www.goodreads.com/work/quotes/94759454)_
 [^4]: _“When people quit on time, it will usually feel like they are quitting too early, because it will be long before they experience the choice as a close call.” — Annie Duke, [Quit: The Power of Knowing When to Walk Away](https://www.goodreads.com/work/quotes/94759454)_
-[^5]: _“Rule of thumb: The more important a call or action is to our soul’s evolution, the more Resistance we will feel.” — Steven Pressfield, [Do the Work](https://www.goodreads.com/work/quotes/15554094)_
+[^5]: _“Rule of thumb: The more important a call or action is to our soul’s evolution, the more Resistance we will feel.” — Steven Pressfield, [Do the Work](https://www.goodreads.com/work/quotes/15554094)_
