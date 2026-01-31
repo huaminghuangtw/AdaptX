@@ -3,7 +3,7 @@ title: 鞋帶一直掉？專業跑者都在用的打結術
 description:
 ogImage: ../_attachments/030905b2eba08473ea1034f327737172.png
 created: 2025-12-17T12:32:03
-modified: 2025-12-21T15:00:35
+modified: 2026-01-31T14:06:37
 canonicalUrl: https://adaptx.tw/2025/12/17/how-to-tie-shoelaces
 canonicalPath: 2025/12/17/how-to-tie-shoelaces
 draft: false
@@ -46,11 +46,7 @@ tags:
 
 這招學起來，保證你告別腳後跟磨破皮、起水泡的惡夢，也不用再擔心腳趾黑青啦！
 
-<div align="center">
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OBbc6TackDQ?si=pyEni-6W9fP4Egic&amp;controls=0&amp;start=68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-</div>
 
 # 伊恩安全結（Ian’s Secure Shoelace Knot）
 
@@ -66,11 +62,7 @@ tags:
 
 這多繞的一圈能產生額外的摩擦力，讓鞋帶即便在劇烈運動中，也能穩如泰山。
 
-<div align="center">
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4zJqvN4kc50?si=DsIS3DGRSCL6f5RN&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-</div>
 
 # 魔鬼藏在細節裡
 
