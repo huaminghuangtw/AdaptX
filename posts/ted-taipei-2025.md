@@ -3,7 +3,7 @@ title: 什麼是更好的活著？我在 TED×Taipei 2025 年會得到的五個�
 description:
 ogImage: ../_attachments/db8ac301faf2da7c717ecc5cfc04a8b8.jpeg
 created: 2025-11-12T07:34:52
-modified: 2026-01-30T13:52:21
+modified: 2026-01-31T14:07:27
 canonicalUrl: https://adaptx.tw/2025/11/12/ted-taipei-2025
 canonicalPath: 2025/11/12/ted-taipei-2025
 draft: false
@@ -180,18 +180,7 @@ TED 就像是一間人生學校（School of Life），在這裡，我們從別�
 
 ![](../_attachments/6669c751024d3169e87ec66aef578953.png)
 
-<div align="center">
+![](../_attachments/428241c73a210c06c5441e59cf860d55.jpeg "引導冥想工作坊 — 沈浸式的氛圍，身心靈的盛宴。")
 
-![](../_attachments/428241c73a210c06c5441e59cf860d55.jpeg)
+![](../_attachments/31565468c17cf0d10f66dace566aee67.jpeg "午餐來自「紅土森林小宇宙」用心耕耘的自然農法餐盒。這些有機天然食材，在音樂與森林的陪伴下成長，沒有任何人工添加物，只保留食物最純粹的味道。在開動前，我們先停下來片刻，向上天的賜予致謝，也感謝所有有形與無形生命的滋養 — 從土地、陽光、雨水，到照顧這片土地的每一雙手。這份心意，讓每一口食物都更顯珍貴。")
 
-<sub>引導冥想工作坊 — 沈浸式的氛圍，身心靈的盛宴。</sub>
-
-</div>
-
-<div align="center">
-
-![](../_attachments/31565468c17cf0d10f66dace566aee67.jpeg)
-
-<sub>午餐來自 [紅土森林小宇宙](https://www.google.com/search?q=%E7%B4%85%E5%9C%9F%E6%A3%AE%E6%9E%97%E5%B0%8F%E5%AE%87%E5%AE%99) 用心耕耘的自然農法餐盒。這些有機天然食材，在音樂與森林的陪伴下成長，沒有任何人工添加物，只保留食物最純粹的味道。在開動前，我們先停下來片刻，向上天的賜予致謝，也感謝所有有形與無形生命的滋養 — 從土地、陽光、雨水，到照顧這片土地的每一雙手。這份心意，讓每一口食物都更顯珍貴。</sub>
-
-</div>
