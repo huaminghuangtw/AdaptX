@@ -3,7 +3,7 @@ title: 30 件我希望 20 歲時就懂的事
 description:
 ogImage: ../_attachments/000e30aa1958044e4daeb981190cdbe4.png
 created: 2025-10-15T15:40:33
-modified: 2025-12-31T08:42:45
+modified: 2026-01-31T14:12:08
 canonicalUrl: https://adaptx.tw/2025/10/15/30-things-i-wish-i-knew-in-20s
 canonicalPath: 2025/10/15/30-things-i-wish-i-knew-in-20s
 draft: false
@@ -49,12 +49,7 @@ tags:
 
 為什麼呢？因為那裡埋藏著所有未曾實現的希望與夢想：還沒寫完的書、從未發表的歌曲、無人知曉的發明。全都因為有人害怕踏出第一步，害怕被嘲笑，害怕失敗，或沒有堅持到底，最終帶著一身才華、潛力與點子，靜靜地躺在那裡。
 
-<figure>
-	<img src="https://images.unsplash.com/photo-1733605921100-53afbb69d1d8?q=80&w=1742&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
-	<figcaption>
-		<sub><em>圖片來源：<a href="https://unsplash.com/photos/a-headstone-in-a-grassy-field-with-trees-in-the-background-0Of-Kx1jNqU">Unsplash</a></em></sub>
-	</figcaption>
-</figure>
+![](https://images.unsplash.com/photo-1733605921100-53afbb69d1d8?q=80&w=1742&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D "圖片來源：Unsplash")
 
 ---
 
