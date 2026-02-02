@@ -3,7 +3,7 @@ title: 時間是終極貨幣：你如何投資你的人際關係？
 description:
 ogImage: ../_attachments/9367cb3d910baa4e43f8a7e3cb3aef4c.png
 created: 2025-10-14T06:49:03
-modified: 2025-12-21T07:40:22
+modified: 2026-02-02T09:20:01
 canonicalUrl: https://adaptx.tw/2025/10/14/who-do-we-spend-time-with-across-our-lifetime
 canonicalPath: 2025/10/14/who-do-we-spend-time-with-across-our-lifetime
 draft: false
@@ -16,7 +16,7 @@ tags:
 
 美國作家 [Annie Dillard](https://www.google.com/search?q=Annie+Dillard) 在著作《[The Writing Life](https://www.amazon.com/Writing-Life-Annie-Dillard/dp/0060919884)》中寫道：
 
-> _“How we spend our days is, of course, how we spend our lives.” _
+> _“How we spend our days is, of course, how we spend our lives.”_
 >
 > 如何過一天，就是如何過一生。
 
@@ -26,11 +26,8 @@ tags:
 
 <iframe
 	src="https://ourworldindata.org/grapher/time-spent-with-relationships-by-age-us?tab=chart"
-	loading="lazy"
 	width="100%"
 	height="600px"
-	allow="web-share; clipboard-write"
-	allowfullscreen="true"
 </iframe>
 
 這份資料提供一面鏡子，幫助我們理解自己與周遭人群的關係變化，也提醒我們更有意識地決定要將時間投注在哪裡。
@@ -179,7 +176,7 @@ tags:
 
 美國勵志演說家 [Jim Rohn](https://www.google.com/search?q=Jim+Rohn) 曾說：
 
-> _“You are the average of the five people you spend the most time with.” _
+> _“You are the average of the five people you spend the most time with.”_
 >
 > 我們都是最常相處的五個人的平均。
 
