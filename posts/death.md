@@ -3,7 +3,7 @@ title: 學會死亡，就學會活著
 description:
 ogImage: ../_attachments/
 created: 2025-10-03T09:50:26
-modified: 2026-01-25T16:14:20
+modified: 2026-02-05T07:53:31
 canonicalUrl: https://adaptx.tw/2025/10/3/
 canonicalPath: 2025/10/3/death
 draft: true
@@ -12,7 +12,7 @@ tags:
   - AdaptX/
 ---
 
-> _“Every man has two lives, and the second starts when he realizes he has just one.” — Confucius_
+> “Every man has two lives, and the second starts when he realizes he has just one.” — Confucius
 
 What if you could visualize, every day, how much of your life has already passed?
 
@@ -39,7 +39,7 @@ Paradoxically, it’s only when death waits at the end of the road that the uniq
 
 Mitch Albom once said in _Tuesdays With Morrie_:
 
-> _The truth is, once you learn how to die, you learn how to live._
+> The truth is, once you learn how to die, you learn how to live.
 
 I believe that _learning how to die_ means being prepared for it—knowing that it’s inevitably coming. Once you accept that death is not the opposite of life, but rather an essential part of it, you begin to notice and appreciate the little small things in your day, welcoming whatever comes your way.
 

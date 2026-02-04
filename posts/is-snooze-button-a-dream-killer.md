@@ -3,7 +3,7 @@ title: 貪睡鍵真的是夢想殺手嗎？也許你誤解「自律」了
 description:
 ogImage: ../_attachments/
 created: 2025-10-21T04:40:56
-modified: 2026-02-01T17:44:38
+modified: 2026-02-05T07:53:31
 canonicalUrl: https://adaptx.tw/2025/10/21/
 canonicalPath: 2025/10/21/is-snooze-button-a-dream-killer
 draft: true
@@ -12,11 +12,11 @@ tags:
   - AdaptX/如何做最好的自己
 ---
 
-> _[Unsere Träume können wir erst dann verwirklichen, wenn wir uns entschließen, einmal daraus zu erwachen. (當我們決定從夢中醒來時，我們才有可能實現自己的夢想。)](http://www.godic.net/home/dailysentence/c66d4c09-48ca-4fea-8665-779d2476f62c)_
+> [Unsere Träume können wir erst dann verwirklichen, wenn wir uns entschließen, einmal daraus zu erwachen. (當我們決定從夢中醒來時，我們才有可能實現自己的夢想。)](http://www.godic.net/home/dailysentence/c66d4c09-48ca-4fea-8665-779d2476f62c)
 
 當我第一次聽到我的「自律」導師之一，也是美國前海軍海豹部隊（Navy SEAL）指揮官 [Jocko Willink](https://www.google.com/search?q=Jocko+Willink) 在 [某次訪談](https://www.youtube.com/shorts/dMxPmuXriEs) 中說：[^1]
 
-> _Snooze button is a dream killer. When you press the snooze button, you’re killing your dreams._
+> Snooze button is a dream killer. When you press the snooze button, you’re killing your dreams.
 
 我心想：「怎麼辦，我很常按下貪睡鍵耶！難道我是個不配擁有夢想的人嗎？ＱＱ」
 

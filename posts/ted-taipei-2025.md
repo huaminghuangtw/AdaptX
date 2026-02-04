@@ -3,7 +3,7 @@ title: 什麼是更好的活著？我在 TED×Taipei 2025 年會得到的五個�
 description:
 ogImage: ../_attachments/db8ac301faf2da7c717ecc5cfc04a8b8.jpeg
 created: 2025-11-12T07:34:52
-modified: 2026-02-01T17:44:38
+modified: 2026-02-05T07:53:31
 canonicalUrl: https://adaptx.tw/2025/11/12/ted-taipei-2025
 canonicalPath: 2025/11/12/ted-taipei-2025
 draft: false
@@ -42,7 +42,7 @@ NI 的理念在於「先觀察、支持身體的自清與修復，而非急於�
 
 曾遠赴美國 [巴斯帝爾醫學大學](https://bastyr.edu) 攻讀自然醫學博士學位（Doctor of Naturopathic Medicine, N.D.）、[全球唯一台美雙執照醫學專家](https://spectrummedicine.com/about) 的 [林子平](https://www.google.com/search?q=林子平) 醫師，也 [引用](https://www.youtube.com/watch?v=Ke_UeE35s8w) 西方醫學之父 [Hippocrates](https://zh.wikipedia.org/zh-tw/%E5%B8%8C%E6%B3%A2%E5%85%8B%E6%8B%89%E5%BA%95) 的智慧 [Vis medicatrix naturae](https://en.wikipedia.org/wiki/Vis_medicatrix_naturae)（拉丁文，意思是「自然治癒之力」），強調醫師的職責並非直接治癒病人，而是協助身體的自然修復過程。
 
-> _“It’s supposed to be a professional secret, but I’ll tell you anyway. We doctors do nothing. We only help and encourage the doctor within.” — Albert Schweitzer_
+> “It’s supposed to be a professional secret, but I’ll tell you anyway. We doctors do nothing. We only help and encourage the doctor within.” — Albert Schweitzer
 >
 > 「這本該是個職業秘密，但我還是要告訴你：我們醫生其實什麼也沒做，只是協助並鼓勵你的內在醫生罷了。」— 史懷哲
 
@@ -64,7 +64,7 @@ NI 的理念在於「先觀察、支持身體的自清與修復，而非急於�
 
 英文有一句諺語：
 
-> _An ounce of prevention is worth a pound of cure._
+> An ounce of prevention is worth a pound of cure.
 >
 > 預防勝於治療。
 
@@ -126,7 +126,7 @@ _原來，給未來最溫暖的禮物，是學會為自己的心騰出空間，�
 
 美國社會心理學家 [Jonathan Haidt](https://www.google.com/search?q=Jonathan+Haidt) 在 2024 年春天發表的著作《[失控的焦慮世代](https://www.goodreads.com/work/quotes/180330965-the-anxious-generation-how-the-great-rewiring-of-childhood-caused-an-ep)》（The Anxious Generation）寫道：
 
-> _Overprotection in the real world and underprotection in the virtual world are the major reasons why children born after 1995 became the anxious generation._
+> Overprotection in the real world and underprotection in the virtual world are the major reasons why children born after 1995 became the anxious generation.
 >
 > 現實世界中過度保護，虛擬世界中疏於保護，是 1995 年後出生的孩子們，成為焦慮世代的主要原因。
 
