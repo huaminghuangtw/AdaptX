@@ -3,7 +3,7 @@ title: 鞋帶一直掉？專業跑者都在用的打結術
 description:
 ogImage: ../_attachments/030905b2eba08473ea1034f327737172.png
 created: 2025-12-17T12:32:03
-modified: 2026-01-31T14:06:37
+modified: 2026-02-06T10:44:17
 canonicalUrl: https://adaptx.tw/2025/12/17/how-to-tie-shoelaces
 canonicalPath: 2025/12/17/how-to-tie-shoelaces
 draft: false
@@ -72,13 +72,13 @@ tags:
 
 只要記住**第二次的方向要與第一次相反**，蝴蝶結就會乖乖地躺好；既平整漂亮，又不容易鬆脫。
 
-![](../_attachments/7903d0e05eda3fff513fe7ce4daa83c1.png)
+![](_attachments/7903d0e05eda3fff513fe7ce4daa83c1.png)
 
 再跟你分享一個秘訣：**把綁好的蝴蝶結，直接塞進前面左右交叉的鞋帶下方**。
 
 這樣一來，鞋帶就會被牢牢壓住，想甩都甩不掉！
 
-![](../_attachments/71f1761c91467de06d2dca100a5238f6.jpg)
+![](_attachments/71f1761c91467de06d2dca100a5238f6.jpg)
 
 如果以上技巧都救不了你，不是你手殘，而是鞋帶本身的問題。
 
@@ -86,7 +86,7 @@ tags:
 
 因為扁鞋帶的接觸面積大、摩擦力強，比起圓繩更不容易滑開。
 
-![](../_attachments/b9299ea25139562fbc330e7c32d79875.jpg)
+![](_attachments/b9299ea25139562fbc330e7c32d79875.jpg)
 
 # 別再讓鞋帶毀了你的好心情
 
