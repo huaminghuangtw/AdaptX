@@ -3,7 +3,7 @@ title: 什麼是更好的活著？我在 TED×Taipei 2025 年會得到的五個�
 description:
 ogImage: ../_attachments/db8ac301faf2da7c717ecc5cfc04a8b8.jpeg
 created: 2025-11-12T07:34:52
-modified: 2026-02-05T07:53:31
+modified: 2026-02-06T10:44:17
 canonicalUrl: https://adaptx.tw/2025/11/12/ted-taipei-2025
 canonicalPath: 2025/11/12/ted-taipei-2025
 draft: false
@@ -26,7 +26,7 @@ tags:
 
 於是，在 11/1 這天，我抱著開放、好奇的心態，走進松山文創園區四號倉庫，向大師們學習：如何用 18 分鐘，把一個故事說好。
 
-![](../_attachments/6ed42148b09e112dfb5986397df77813.png)
+![](_attachments/6ed42148b09e112dfb5986397df77813.png)
 
 ---
 
@@ -178,8 +178,8 @@ TED 就像是一間人生學校（School of Life），在這裡，我們從別�
 
 謝謝 TED×Taipei 2025，讓我對「什麼是更好的活著？」這個人生大哉問，有了更清晰的答案 ❤️
 
-![](../_attachments/6669c751024d3169e87ec66aef578953.png)
+![](_attachments/6669c751024d3169e87ec66aef578953.png)
 
-![](../_attachments/428241c73a210c06c5441e59cf860d55.jpeg)
+![](_attachments/428241c73a210c06c5441e59cf860d55.jpeg)
 
-![](../_attachments/31565468c17cf0d10f66dace566aee67.jpeg)
+![](_attachments/31565468c17cf0d10f66dace566aee67.jpeg)
