@@ -1,9 +1,9 @@
 ---
 title: 你與你的時區
 description:
-ogImage: ../_attachments/41f5d232b263a3b8ba3cae2a81b2e364.png
+ogImage: _attachments/41f5d232b263a3b8ba3cae2a81b2e364.png
 created: 2025-08-30T07:34:40
-modified: 2026-02-06T10:44:17
+modified: 2026-02-06T14:24:37
 canonicalUrl: https://adaptx.tw/2025/8/30/you-and-your-timeline
 canonicalPath: 2025/8/30/you-and-your-timeline
 draft: false

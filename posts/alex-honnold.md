@@ -7,9 +7,9 @@ title: Alex Honnold
 description:
 tags:
   - AdaptX/
-ogImage: ../_attachments/
+ogImage: _attachments/
 created: 2026-02-06T11:22:50
-modified: 2026-02-06T11:22:57
+modified: 2026-02-06T14:24:37
 ---
 
 2026 年 1 月 25 日，台北信義區舉辦了一場史無前例的全民肩頸治療活動。
