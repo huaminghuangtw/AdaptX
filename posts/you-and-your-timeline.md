@@ -3,7 +3,7 @@ title: 你與你的時區
 description:
 ogImage: ../_attachments/41f5d232b263a3b8ba3cae2a81b2e364.png
 created: 2025-08-30T07:34:40
-modified: 2026-02-05T07:53:31
+modified: 2026-02-06T10:44:17
 canonicalUrl: https://adaptx.tw/2025/8/30/you-and-your-timeline
 canonicalPath: 2025/8/30/you-and-your-timeline
 draft: false
@@ -152,7 +152,7 @@ tags:
 
 愛上追尋的感覺，因為旅程本身就是最棒的獎勵。
 
-![](../_attachments/b949794eaae9cc559197a7bb489a7dd5.png)
+![](_attachments/b949794eaae9cc559197a7bb489a7dd5.png)
 
 ---
 
