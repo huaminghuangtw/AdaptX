@@ -9,7 +9,7 @@ tags:
   - AdaptX/
 ogImage: _attachments/
 created: 2026-02-06T11:22:50
-modified: 2026-02-06T14:24:37
+modified: 2026-02-07T16:27:06
 ---
 
 2026 年 1 月 25 日，台北信義區舉辦了一場史無前例的全民肩頸治療活動。
@@ -20,7 +20,11 @@ modified: 2026-02-06T14:24:37
 
 40 歲的美國極限攀岩家 [Alex Honnold](https://www.google.com/search?q=Alex+Honnold)，在毫無防護下，僅靠雙手雙腳，徒手攀上（[Free Solo](https://www.google.com/search?q=Free+Solo)）高達 508 公尺的台北 101，[歷時 1 小時 31 分 30 秒](https://www.reddit.com/r/nextfuckinglevel/comments/1qmdfmk/timelapse_of_alex_honnold_climbing_taipei_101/)。
 
+https://www.youtube.com/watch?v=m3Vy1E1UoD4
+
 Netflix 甚至 [全球同步直播](https://www.youtube.com/watch?v=KkVZm5UuXIs) 這場前所未有的史詩級挑戰，現場湧入上千名民眾見證歷史。
+
+《Skyscraper Live》
 
 為了預防意外發生時，畫面會被直接傳遞到全世界，Netflix 還特別設定了 10 秒延遲。
 
@@ -66,6 +70,14 @@ All or nothing
 
 在許多人眼中是自殺行為。
 
+首先，霍諾德在攀爬前進行了約三個月的特訓，針對台北101的建築結構（如外牆的節理、窗框的深度）進行模擬，並不是到了現場才隨機應變。
+
+其次，原定於1月24日的挑戰，因為當天台北下雨、濕度過高，霍諾德團隊決定延後一天。霍諾德本人也曾在媒體受訪時說過：「如果我覺得今天狀態有 0.1% 的不確定，我就不爬。」如果是「豪賭」心態，可能會為了節目效果強行攀登；但延期證明了他嚴格遵守安全參數，只有在環境條件符合計畫時才執行，這就是所謂「精確的風險控管」。
+
+---
+
+[Alex Honnold just broke his physical limits - YouTube](https://www.youtube.com/watch?v=d3iVZNjwX7c)
+
 ---
 
 「你必須非常努力，才能看起來毫不費力。」
@@ -78,8 +90,12 @@ All or nothing
 
 [How I Climbed a 3,000-Foot Vertical Cliff — Without Ropes | Alex Honnold | TED](https://youtu.be/6iM6M_7wBMc)
 
-5:49 Do better, Half Dome (半圓丘), I didn’t want to be a lucky climber. I wanted to be a great climber.
+> ”Doubt is the precursor to fear.“
+> 
+> 懷疑是恐懼的前兆
 
+5:49 Do better, Half Dome (半圓丘), I didn’t want to be a lucky climber. I wanted to be a great climber.
+我不當幸運者，我想成為偉大的攀岩者。
 10:15 Everything must be perfect before I climb without ropes
 
 Free Solo，
@@ -129,13 +145,15 @@ CNN: 他認為心態才是關鍵，「你得盡全力專注，確保自己不掉
 
 ---
 
+**我一直以為他是生理上的不會害怕(腦部異於常人)，但看了這集才知道，他不怕是因為練習跟經驗，累積出來了自信，實在是太猛了。**
+
 第一個是他的情緒控制，而且這是生理層面的。
 
 相較於一般人，他不容易有情緒波動，也不容易感到恐懼。
 
 極限運動與杏仁核的關係主要體現在：運動員（如攀岩家亞歷克斯·霍諾德）的杏仁核功能可能異常地低，導致恐懼反應減弱，使他們在極度危險的環境中能保持鎮定，這與一般人恐懼時杏仁核會過度活躍並發出「戰或逃」警報的反應不同，揭示了大腦結構和功能差異與極限運動表現的連結，也讓杏仁核在研究極限運動員的生理特質中成為關鍵點。
 
-科學家用核磁共振（MRI）掃描過他的大腦，發現他的杏仁核（就是掌管情緒、處理恐懼的那個區域）對一般人會害怕的影像幾乎沒反應。
+科學家用核磁共振（MRI）掃描過他的大腦，發現他的杏仁核（負責恐懼反應的區域）對一般人會害怕的影像幾乎沒反應。
 
 我看之前的紀錄片，霍諾德的「杏仁核」跟一般人不同。2016 年，神經科學家曾幫他照過 fMRI（功能性磁振造影）。
 
@@ -485,6 +503,23 @@ Sanni 曾在受訪時說，她學會了「支持他做他自己」，即使那�
 
 艾力克斯霍諾德分享，「我希望大家看到今天的攀登以後，能得到追求自己挑戰的勇氣。我並不是要大家去學徒手攀登，而是提醒大家：生命有限，應該用最有意義的方式去利用時間。如果你努力嘗試，你就能完成困難的事。」
 
+---
+
+「人生有不同的目標、不同的挑戰，就能找到動機，繼續訓練自己。」
+記者會上有人問霍諾德，他攀登的動機為何？他的回答是，動機不是等來的，是找來的。當你覺得倦怠、失去方向，或許不是缺乏熱情，而是缺乏一座值得攀登的山。
+
+而他攀登台北 101 的動機，也非常純粹，他說：「這座高塔非常漂亮、非常高聳，對我而言就是最棒的挑戰。」
+
+給自己設定一個「剛好夠難」的目標，動力自然會回來。
+
+---
+
+「關鍵不在於如何無懼地攀登，而在於恐懼滲入神經時，你該如何應對。透過充分準備，你能將恐懼轉化為動力。」
+勇者不是沒有恐懼，而是帶著恐懼往前走。霍諾德在攀登酋長岩前，花了整整一年反覆練習每個動作。準備，是面對恐懼最踏實的方式。
+
+
+---
+
 第一段
 
 主持人：「大家很好奇，到了你現在這個職涯階段，到底是什麼還在驅動著你？你其實已經沒有什麼需要再證明的了，卻還是不斷去挑戰那些把你推離舒適圈的大目標。」
@@ -537,6 +572,8 @@ Alex Honnold：
 
 以 Ｘ 為家。
 
+車上永遠放著一塊指力板，隨時訓練手指的抓握力；他隨身帶著攀岩日記，記錄每一次攀爬的細節與待改進之處，把模糊的「變強」拆解成可追蹤的日常功課。
+
 生活非常簡單，每天就是訓練、吃飯、睡覺，然後重複。
 
 一鍋到底的食物
@@ -582,6 +619,7 @@ Alex Honnold：
 
 利用自己的影響力，在 2012 年就成立「霍諾德基金會」（Honnold Foundation）。
 
+征服死神的男人
 連手指手上都有肌肉的男人
 
 曾住在露營車裡的男人，早在 2012 年就成立了基金會。他不買豪宅名車，而是長年捐出自己「年收入的三分之一」，拿去推動全球偏鄉的太陽能計畫。
@@ -598,9 +636,17 @@ Alex Honnold：
 
 ---
 
+[Alex Honnold – The Daily Routine of a Free Solo Climber](https://finty.com/us/daily-routines/alex-honnold/)
+
+[Alex Honnold Workout Routine, Diet Plan and Supplements](https://totalshape.com/fitness/alex-honnold-workout-diet/)
+
+---
+
 [Famed climber Alex Honnold reveals what’s inside his refrigerator - YouTube](https://www.youtube.com/watch?v=Ak8wFu4dJ-M)
 
 [霍諾德吃素！臺灣320萬吃素人口驚喜　他一句話讚爆：溫柔有力的力量 | 娛樂星聞 | 三立新聞網  SETN.COM](https://www.setn.com/News.aspx?NewsID=1786901)
+
+滴酒不沾，長年吃素
 
 長期維持著 99% 的植物性飲食
 
@@ -706,7 +752,7 @@ Alex Honnold 就不可能完成那些沒有安全繩、一步失誤就致命的�
 
 mv 中可以看到有關親情、愛情的種種「人生的難」。
 
-把名利看淡、專注熱愛的精神，真的讓人不得不比個大拇指![👍](https://static.xx.fbcdn.net/images/emoji.php/v9/t9b/2/16/1f44d.png)
+把名利看淡、專注熱愛的精神，真的讓人不得不比個大拇指
 
 一個願意用生命去追求熱愛的人，又怎會在意世俗名利
 
