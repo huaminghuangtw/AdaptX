@@ -9,7 +9,7 @@ tags:
   - AdaptX/
 ogImage: _attachments/
 created: 2026-02-06T11:22:50
-modified: 2026-02-07T16:27:06
+modified: 2026-02-07T22:19:17
 ---
 
 2026 年 1 月 25 日，台北信義區舉辦了一場史無前例的全民肩頸治療活動。
@@ -34,7 +34,7 @@ Netflix 甚至 [全球同步直播](https://www.youtube.com/watch?v=KkVZm5UuXIs)
 
 這面近 900 公尺、幾乎是台北 101 兩倍高的巨大單體垂直花崗岩，被譽為攀岩界的終極殿堂。Alex 沒有任何繩索或保護裝備，僅靠一個人、一雙鞋、一袋止滑粉，用最自然的方式挑戰大自然。他沿著 Freerider 路線，最後僅用 3 小時 56 分鐘就成功登頂。
 
-![](_attachments/341810e9088ea7cea3ad4843f9a1674f.png)
+![](_attachments/341810e9088ea7cea3ad4843f9a1674f.png "圖片來源：Everest Today")
 
 這段過程被國家地理頻道拍成紀錄片《[赤手登峰](https://films.nationalgeographic.com/free-solo)》（[Free Solo](https://www.youtube.com/watch?v=3-wjmIFlnNo)），不僅震撼全世界，更榮獲 [2019 年奧斯卡最佳紀錄片獎](https://www.youtube.com/watch?v=oy1KPxRWL1g)。
 
