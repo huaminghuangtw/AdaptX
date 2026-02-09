@@ -9,7 +9,7 @@ tags:
   - AdaptX/
 ogImage: _attachments/
 created: 2026-02-06T11:22:50
-modified: 2026-02-07T22:19:17
+modified: 2026-02-09T08:03:22
 ---
 
 2026 年 1 月 25 日，台北信義區舉辦了一場史無前例的全民肩頸治療活動。
@@ -104,6 +104,8 @@ Free Solo，
 
 就跟當你考試準備到一個程度的時候，你進考場前就知道你會上了
 
+https://huami.ng/amateurs-vs-professionals
+  
 Practice until you can’t do it wrong, not until you can do it right.
 
 ---
