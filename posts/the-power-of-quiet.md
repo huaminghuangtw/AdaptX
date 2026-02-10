@@ -3,7 +3,7 @@ title: 安靜的力量：為什麼你的好意，總是被誤解？
 description:
 ogImage: _attachments/657b3960557c19ebb0a001c932a1e6ee.png
 created: 2025-10-10T14:35:33
-modified: 2026-02-07T21:50:04
+modified: 2026-02-10T16:28:31
 canonicalUrl: https://adaptx.tw/2025/10/10/the-power-of-quiet
 canonicalPath: 2025/10/10/the-power-of-quiet
 draft: false
@@ -56,7 +56,7 @@ _**有時，身邊的人需要的，僅僅是你的靜心陪伴與專注傾聽�
 
 這就是所謂的「共享掙扎（Shared Struggle）」。
 
-[科學也證實了這一點](https://www.youtube.com/watch?v=UQiXXw42AdE&t=410s)：當我們與他人共同面對困境時，大腦會釋放「[催產素](https://www.google.com/search?q=催產素)（Oxytocin）」，一種創造人跟人之間愛與連結感的賀爾蒙，幫助加深彼此關係。
+[科學也證實了這一點](https://youtu.be/UQiXXw42AdE&t=410s)：當我們與他人共同面對困境時，大腦會釋放「[催產素](https://www.google.com/search?q=催產素)（Oxytocin）」，一種創造人跟人之間愛與連結感的賀爾蒙，幫助加深彼此關係。
 
 **我們的目標，不是清除路上的所有石頭，而是願意陪對方一起感受路上的顛簸、途中的刺激。**
 
@@ -72,7 +72,7 @@ _**有時，身邊的人需要的，僅僅是你的靜心陪伴與專注傾聽�
 
 我的經驗是，十次有九次，對方需要的都只是「被傾聽（Heard）」。
 
-暢銷書《[超級溝通者](https://www.books.com.tw/products/0011017131)》作者 [Charles Duhigg](https://www.google.com/search?q=Charles+Duhigg) 在 [TED Talk 演講](https://www.youtube.com/watch?v=lg48Bi9DA54) 中，進一步延伸了 HHH 提問法。
+暢銷書《[超級溝通者](https://www.books.com.tw/products/0011017131)》作者 [Charles Duhigg](https://www.google.com/search?q=Charles+Duhigg) 在 [TED Talk 演講](https://youtu.be/lg48Bi9DA54) 中，進一步延伸了 HHH 提問法。
 
 他認為，當我們與他人交流時，可以從三個層面來思考：
 
@@ -90,7 +90,7 @@ _**有時，身邊的人需要的，僅僅是你的靜心陪伴與專注傾聽�
 
 # 2. 區分「同理心」與「解決方案」
 
-你也可以使用另一個問題，這是神經科學家 [Lisa Feldman Barrett](https://www.google.com/search?q=Lisa+Feldman+Barrett) 在《The Knowledge Project Podcast》[訪談](https://www.youtube.com/watch?v=jORaNMIGiok&t=48m1s) 中提到的：
+你也可以使用另一個問題，這是神經科學家 [Lisa Feldman Barrett](https://www.google.com/search?q=Lisa+Feldman+Barrett) 在《The Knowledge Project Podcast》[訪談](https://youtu.be/jORaNMIGiok&t=48m1s) 中提到的：
 
 > **你需要的是同理心，還是一個解決方案？**
 
