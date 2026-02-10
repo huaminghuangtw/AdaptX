@@ -3,7 +3,7 @@ title: 時間是終極貨幣：你如何投資你的人際關係？
 description:
 ogImage: _attachments/9367cb3d910baa4e43f8a7e3cb3aef4c.png
 created: 2025-10-14T06:49:03
-modified: 2026-02-06T14:24:37
+modified: 2026-02-10T16:36:34
 canonicalUrl: https://adaptx.tw/2025/10/14/who-do-we-spend-time-with-across-our-lifetime
 canonicalPath: 2025/10/14/who-do-we-spend-time-with-across-our-lifetime
 draft: false
@@ -27,7 +27,6 @@ tags:
 <iframe
 	src="https://ourworldindata.org/grapher/time-spent-with-relationships-by-age-us?tab=chart"
 	width="100%"
-	height="600px"
 </iframe>
 
 這份資料提供一面鏡子，幫助我們理解自己與周遭人群的關係變化，也提醒我們更有意識地決定要將時間投注在哪裡。
@@ -166,7 +165,7 @@ tags:
 
 你跟自己熟嗎？
 
-[自己一個人時，你都怎麼看待自己呢？](https://www.youtube.com/watch?v=k7X7sZzSXYs)
+[自己一個人時，你都怎麼看待自己呢？](https://youtu.be/k7X7sZzSXYs)
 
 ![](_attachments/dfde931f7914b88f7d309950f572cebc.jpeg)
 
