@@ -3,7 +3,7 @@ title: 什麼是更好的活著？我在 TED×Taipei 2025 年會得到的五個�
 description:
 ogImage: _attachments/db8ac301faf2da7c717ecc5cfc04a8b8.jpeg
 created: 2025-11-12T07:34:52
-modified: 2026-02-07T21:45:19
+modified: 2026-02-10T16:29:25
 canonicalUrl: https://adaptx.tw/2025/11/12/ted-taipei-2025
 canonicalPath: 2025/11/12/ted-taipei-2025
 draft: false
@@ -14,7 +14,7 @@ tags:
 
 兩週前，我到台北參加了 TED×Taipei 2025 年會《[THE Present 此刻 x 未來](https://tedxtaipei.oen.tw/)》。
 
-這份機緣來自某天跑步時，一段 [策展人夫婦邱孟漢 Dio 與楊于葶 Prem](https://onepercent.storm.mg/article/5353272) 在 [張修修的不正常人類研究所 Podcast 上的訪談](https://www.youtube.com/watch?v=RfxMXZWPcOM)。
+這份機緣來自某天跑步時，一段 [策展人夫婦邱孟漢 Dio 與楊于葶 Prem](https://onepercent.storm.mg/article/5353272) 在 [張修修的不正常人類研究所 Podcast 上的訪談](https://youtu.be/RfxMXZWPcOM)。
 
 加上蔣勳老師在 TED×Taipei 上一支廣為流傳的 YouTube 影片《[留十八分鐘給自己](https://youtu.be/6i7RcP39NB0)》，讓我一直嚮往能親身坐在台下，聆聽啟發人心的 TED Talk。
 
@@ -34,13 +34,13 @@ tags:
 
 這場年會和癌症紀錄片《[交換禮物](https://giloo.ist/zh-TW/episodes/2589)》團隊的林明謙、曾寶儀共同策劃，其中幾位講者是曾在片中出現過的醫療專家。
 
-《[人體使用手冊](https://www.meri-tech.com)》作者 [吳清忠](https://www.google.com/search?q=吳清忠)，用科學化中醫的視角 [指出](https://www.youtube.com/watch?v=VCTwNf0FMg0)，許多看似不適的症狀，例如疲倦、食慾下降、甚至是輕微發燒，都是「[自癒（self-healing）機制](https://zh.wikipedia.org/zh-tw/%E8%87%AA%E7%99%92%E5%8A%9B)」啟動的表徵，表示身體正在進行自我修復的過程。
+《[人體使用手冊](https://www.meri-tech.com)》作者 [吳清忠](https://www.google.com/search?q=吳清忠)，用科學化中醫的視角 [指出](https://youtu.be/VCTwNf0FMg0)，許多看似不適的症狀，例如疲倦、食慾下降、甚至是輕微發燒，都是「[自癒（self-healing）機制](https://zh.wikipedia.org/zh-tw/%E8%87%AA%E7%99%92%E5%8A%9B)」啟動的表徵，表示身體正在進行自我修復的過程。
 
 這套「自然智能（Natural Intelligence, NI）」無時無刻都在運作：它會在睡眠不足時自動加深睡眠；在二氧化碳過多時加速呼吸；在運動後默默修復肌肉。
 
 NI 的理念在於「先觀察、支持身體的自清與修復，而非急於壓制、修理每個症狀」。
 
-曾遠赴美國 [巴斯帝爾醫學大學](https://bastyr.edu) 攻讀自然醫學博士學位（Doctor of Naturopathic Medicine, N.D.）、[全球唯一台美雙執照醫學專家](https://spectrummedicine.com/about) 的 [林子平](https://www.google.com/search?q=林子平) 醫師，也 [引用](https://www.youtube.com/watch?v=Ke_UeE35s8w) 西方醫學之父 [Hippocrates](https://zh.wikipedia.org/zh-tw/%E5%B8%8C%E6%B3%A2%E5%85%8B%E6%8B%89%E5%BA%95) 的智慧 [Vis medicatrix naturae](https://en.wikipedia.org/wiki/Vis_medicatrix_naturae)（拉丁文，意思是「自然治癒之力」），強調醫師的職責並非直接治癒病人，而是協助身體的自然修復過程。
+曾遠赴美國 [巴斯帝爾醫學大學](https://bastyr.edu) 攻讀自然醫學博士學位（Doctor of Naturopathic Medicine, N.D.）、[全球唯一台美雙執照醫學專家](https://spectrummedicine.com/about) 的 [林子平](https://www.google.com/search?q=林子平) 醫師，也 [引用](https://youtu.be/Ke_UeE35s8w) 西方醫學之父 [Hippocrates](https://zh.wikipedia.org/zh-tw/%E5%B8%8C%E6%B3%A2%E5%85%8B%E6%8B%89%E5%BA%95) 的智慧 [Vis medicatrix naturae](https://en.wikipedia.org/wiki/Vis_medicatrix_naturae)（拉丁文，意思是「自然治癒之力」），強調醫師的職責並非直接治癒病人，而是協助身體的自然修復過程。
 
 > “It’s supposed to be a professional secret, but I’ll tell you anyway. We doctors do nothing. We only help and encourage the doctor within.” — Albert Schweitzer
 >
@@ -106,7 +106,7 @@ _原來，給未來最溫柔的禮物，是允許自己和他人單純地「存�
 
 做自己的太陽，就能當別人的光；讓自己發光，就能照亮別人。
 
-[如果你心中有願望，請看著天上的星星，對自己許願。](https://www.youtube.com/watch?v=_ziTd2w06xk&t=18m39s)
+[如果你心中有願望，請看著天上的星星，對自己許願。](https://youtu.be/_ziTd2w06xk&t=18m39s)
 
 _原來，給未來最溫暖的禮物，是學會為自己的心騰出空間，並成為那個無條件善待自己的人。_
 
@@ -148,7 +148,7 @@ _原來，給未來最珍貴的禮物，是創造一個沒有數位科技干擾�
 
 她的作品傳達在「[人類世](https://www.google.com/search?q=人類世)」（Anthropocene）下，我們如何影響萬物的命運。
 
-舒夢蘭的 [分享](https://www.youtube.com/watch?v=vvd7f7cuDMU) 提醒我：人類並非地球的主人，而是與萬物同屬一個生命共同體。
+舒夢蘭的 [分享](https://youtu.be/vvd7f7cuDMU) 提醒我：人類並非地球的主人，而是與萬物同屬一個生命共同體。
 
 也讓我思考：**我們要為這片土地留下什麼樣的未來？我們要如何造福尚未到來的下一代？**
 
