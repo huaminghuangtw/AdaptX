@@ -3,7 +3,7 @@ title: 鞋帶一直掉？專業跑者都在用的打結術
 description:
 ogImage: _attachments/030905b2eba08473ea1034f327737172.png
 created: 2025-12-17T12:32:03
-modified: 2026-02-06T14:24:37
+modified: 2026-02-10T16:19:54
 canonicalUrl: https://adaptx.tw/2025/12/17/how-to-tie-shoelaces
 canonicalPath: 2025/12/17/how-to-tie-shoelaces
 draft: false
@@ -20,7 +20,7 @@ tags:
 
 為了不再重蹈覆徹，我決定補修這門小時候沒學好的功課，好好研究清楚：**到底要怎麼綁，鞋帶才不會半路離家出走？**
 
-# 那個「多出來」的洞真的不是裝飾品
+---
 
 我以前常在想，布鞋最上面、靠近踝關節那個「多出來」的洞，到底是幹嘛用的？是為了通風？還是用來掛平安符的？
 
@@ -28,7 +28,7 @@ tags:
 
 他們在《運動科學期刊》（Journal of Sports Sciences）有 [一篇論文](https://doi.org/10.1080/02640410802482425) 提到：**把鞋帶孔「穿好穿滿」，並適度拉緊，可顯著增加整體包覆感、減少腳跟滑動的情況。**
 
-# 跑者結（The Runner’s Knot）
+# 跑者結
 
 但問題來了，如果你只是穿過最後一個洞直接綁，通常會覺得腳踝被勒得很不舒服。
 
@@ -46,9 +46,9 @@ tags:
 
 這招學起來，保證你告別腳後跟磨破皮、起水泡的惡夢，也不用再擔心腳趾黑青啦！
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OBbc6TackDQ?si=pyEni-6W9fP4Egic&amp;controls=0&amp;start=68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<https://youtu.be/obbc6tackdq&t=68s>
 
-# 伊恩安全結（Ian’s Secure Shoelace Knot）
+# 伊恩安全結
 
 搞定了鞋子跟腳的親密關係，接下來就是「蝴蝶結」本人了。
 
@@ -62,7 +62,7 @@ tags:
 
 這多繞的一圈能產生額外的摩擦力，讓鞋帶即便在劇烈運動中，也能穩如泰山。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4zJqvN4kc50?si=DsIS3DGRSCL6f5RN&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<https://youtu.be/4zJqvN4kc50>
 
 # 魔鬼藏在細節裡
 
