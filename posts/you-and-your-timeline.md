@@ -3,7 +3,7 @@ title: 你與你的時區
 description:
 ogImage: _attachments/41f5d232b263a3b8ba3cae2a81b2e364.png
 created: 2025-08-30T07:34:40
-modified: 2026-02-06T14:24:37
+modified: 2026-02-10T16:27:17
 canonicalUrl: https://adaptx.tw/2025/8/30/you-and-your-timeline
 canonicalPath: 2025/8/30/you-and-your-timeline
 draft: false
@@ -92,13 +92,13 @@ tags:
 
 這樣就夠了。
 
-電影 [《絕地救援》（The Martian）](https://www.imdb.com/title/tt3659388/) 的 [結尾片段](https://www.youtube.com/watch?v=mDYCLFE86Po) 中，主角 [Mark Watney](https://www.google.com/search?q=Mark+Watney) 在一間教室裡，對著一群學生描述自己在火星上孤獨求生、面臨絕境時的心境：
+電影 [《絕地救援》（The Martian）](https://www.imdb.com/title/tt3659388/) 的 [結尾片段](https://youtu.be/mDYCLFE86Po) 中，主角 [Mark Watney](https://www.google.com/search?q=Mark+Watney) 在一間教室裡，對著一群學生描述自己在火星上孤獨求生、面臨絕境時的心境：
 
 > At some point, everything’s gonna go south on you and you’re going to say, this is it. This is how I end. Now you can either accept that, or you can get to work. That’s all it is. You just begin. You do the math. You solve one problem and you solve the next one, and then the next. And If you solve enough problems, you get to come home.
 >
 > 在某個時刻，一切都會走下坡，你開始告訴自己：「到此為止了，這就是我的結局。」這時，我們可以選擇接受它，或者立刻動手去做。就是這麼簡單。你只需要開始，解決第一個問題，再解決第二個，然後第三個。當你解決了足夠多的問題，就能回家。
 
-我很喜歡奧斯卡影帝 [Will Smith](https://www.google.com/search?q=Will+Smith) 的「[堆磚塊](https://www.youtube.com/watch?v=wIsgyIq_kFs&t=128s)」心態：
+我很喜歡奧斯卡影帝 [Will Smith](https://www.google.com/search?q=Will+Smith) 的「[堆磚塊](https://youtu.be/wIsgyIq_kFs&t=128s)」心態：
 
 > You don’t try to build a wall. You don’t start by saying, I’m going to build the biggest, baddest wall that’s ever been built. You say, I’m going to lay this brick as perfectly as a brick can be laid. You do that every single day, and soon you have a wall.
 >
@@ -234,5 +234,5 @@ tags:
 | [Colonel Harland Sanders](https://www.google.com/search?q=Colonel+Harland+Sanders)（哈蘭·桑德斯） | 61  | 創辦肯德基 KFC                                                            |
 | [J.R.R. Tolkien](https://www.google.com/search?q=J.R.R.+Tolkien)（J.R.R. 托爾金）               | 62  | 出版《魔戒》三部曲                                                            |
 | [Ronald Reagan](https://www.google.com/search?q=Ronald+Reagan)（雷根）                         | 69  | 成為美國總統                                                               |
-| [Jack LaLanne](https://www.google.com/search?q=Jack+LaLanne)（傑克·拉倫）                        | 70  | [戴上手銬、鎖鏈拖曳 70 艘划艇](https://www.youtube.com/watch?v=skRb-oND3qA)      |
+| [Jack LaLanne](https://www.google.com/search?q=Jack+LaLanne)（傑克·拉倫）                        | 70  | [戴上手銬、鎖鏈拖曳 70 艘划艇](https://youtu.be/skRb-oND3qA)      |
 | [Nelson Mandela](https://www.google.com/search?q=Nelson+Mandela)（曼德拉）                      | 76  | 就任南非總統                                                               |
