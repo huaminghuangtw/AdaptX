@@ -3,7 +3,7 @@ title: 我從 Google X 實驗室學到的放棄哲學：猴子與基座
 description:
 ogImage: _attachments/a9cc51f8952c0244c30a9477749a5140.png
 created: 2025-09-30T06:58:41
-modified: 2026-02-06T14:24:37
+modified: 2026-02-10T16:28:43
 canonicalUrl: https://adaptx.tw/2025/9/30/the-monkey-and-pedestal-mindset
 canonicalPath: 2025/9/30/the-monkey-and-pedestal-mindset
 draft: false
@@ -142,7 +142,7 @@ Annie Duke 在書中也提到，**我們應該在還沒陷入困境前，就先�
 
 厲害的人，其實比我們想像中更常放棄，而且他們可以在很短的時間內就決定放棄，毫不猶豫。這就是成功人士之所以卓越的精髓。
 
-最後，我想引用 NVIDIA 執行長黃仁勳（[Jensen Huang](https://www.google.com/search?q=Jensen+Huang)）在 [2023 年臺灣大學畢業典禮](https://www.youtube.com/watch?v=oi89u6q0_AY&t=19m57s) 上説過的一句話：
+最後，我想引用 NVIDIA 執行長黃仁勳（[Jensen Huang](https://www.google.com/search?q=Jensen+Huang)）在 [2023 年臺灣大學畢業典禮](https://youtu.be/oi89u6q0_AY&t=19m57s) 上説過的一句話：
 
 > Strategic retreat, sacrifice, deciding what to give up is at the core, the very core of success.
 >
