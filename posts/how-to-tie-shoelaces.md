@@ -3,7 +3,7 @@ title: 鞋帶一直掉？專業跑者都在用的打結術
 description:
 ogImage: _attachments/030905b2eba08473ea1034f327737172.png
 created: 2025-12-17T12:32:03
-modified: 2026-02-10T16:19:54
+modified: 2026-02-11T21:20:29
 canonicalUrl: https://adaptx.tw/2025/12/17/how-to-tie-shoelaces
 canonicalPath: 2025/12/17/how-to-tie-shoelaces
 draft: false
@@ -45,8 +45,6 @@ tags:
 完成後，你會立刻感受到一種「人鞋合一」的紮實包覆感。
 
 這招學起來，保證你告別腳後跟磨破皮、起水泡的惡夢，也不用再擔心腳趾黑青啦！
-
-<https://youtu.be/obbc6tackdq&t=68s>
 
 # 伊恩安全結
 
