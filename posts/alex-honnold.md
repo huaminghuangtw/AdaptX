@@ -1,15 +1,15 @@
 ---
+title: Alex Honnold
+description:
+ogImage: _attachments/
+created: 2026-02-06T11:22:50
+modified: 2026-02-13T00:23:00
 canonicalUrl: https://adaptx.tw/2026/2/6/alex-honnold
 canonicalPath: 2026/2/6/alex-honnold
 draft: true
 featured: false
-title: Alex Honnold
-description:
 tags:
   - AdaptX/
-ogImage: _attachments/
-created: 2026-02-06T11:22:50
-modified: 2026-02-09T08:03:22
 ---
 
 2026 年 1 月 25 日，台北信義區舉辦了一場史無前例的全民肩頸治療活動。
@@ -20,7 +20,7 @@ modified: 2026-02-09T08:03:22
 
 40 歲的美國極限攀岩家 [Alex Honnold](https://www.google.com/search?q=Alex+Honnold)，在毫無防護下，僅靠雙手雙腳，徒手攀上（[Free Solo](https://www.google.com/search?q=Free+Solo)）高達 508 公尺的台北 101，[歷時 1 小時 31 分 30 秒](https://www.reddit.com/r/nextfuckinglevel/comments/1qmdfmk/timelapse_of_alex_honnold_climbing_taipei_101/)。
 
-https://www.youtube.com/watch?v=m3Vy1E1UoD4
+<https://www.youtube.com/watch?v=m3Vy1E1UoD4>
 
 Netflix 甚至 [全球同步直播](https://www.youtube.com/watch?v=KkVZm5UuXIs) 這場前所未有的史詩級挑戰，現場湧入上千名民眾見證歷史。
 
@@ -70,9 +70,9 @@ All or nothing
 
 在許多人眼中是自殺行為。
 
-首先，霍諾德在攀爬前進行了約三個月的特訓，針對台北101的建築結構（如外牆的節理、窗框的深度）進行模擬，並不是到了現場才隨機應變。
+首先，霍諾德在攀爬前進行了約三個月的特訓，針對台北 101 的建築結構（如外牆的節理、窗框的深度）進行模擬，並不是到了現場才隨機應變。
 
-其次，原定於1月24日的挑戰，因為當天台北下雨、濕度過高，霍諾德團隊決定延後一天。霍諾德本人也曾在媒體受訪時說過：「如果我覺得今天狀態有 0.1% 的不確定，我就不爬。」如果是「豪賭」心態，可能會為了節目效果強行攀登；但延期證明了他嚴格遵守安全參數，只有在環境條件符合計畫時才執行，這就是所謂「精確的風險控管」。
+其次，原定於 1 月 24 日的挑戰，因為當天台北下雨、濕度過高，霍諾德團隊決定延後一天。霍諾德本人也曾在媒體受訪時說過：「如果我覺得今天狀態有 0.1% 的不確定，我就不爬。」如果是「豪賭」心態，可能會為了節目效果強行攀登；但延期證明了他嚴格遵守安全參數，只有在環境條件符合計畫時才執行，這就是所謂「精確的風險控管」。
 
 ---
 
@@ -91,11 +91,13 @@ All or nothing
 [How I Climbed a 3,000-Foot Vertical Cliff — Without Ropes | Alex Honnold | TED](https://youtu.be/6iM6M_7wBMc)
 
 > ”Doubt is the precursor to fear.“
-> 
+>
 > 懷疑是恐懼的前兆
 
 5:49 Do better, Half Dome (半圓丘), I didn’t want to be a lucky climber. I wanted to be a great climber.
+
 我不當幸運者，我想成為偉大的攀岩者。
+
 10:15 Everything must be perfect before I climb without ropes
 
 Free Solo，
@@ -104,8 +106,8 @@ Free Solo，
 
 就跟當你考試準備到一個程度的時候，你進考場前就知道你會上了
 
-https://huami.ng/amateurs-vs-professionals
-  
+<https://huami.ng/amateurs-vs-professionals>
+
 Practice until you can’t do it wrong, not until you can do it right.
 
 ---
@@ -147,7 +149,7 @@ CNN: 他認為心態才是關鍵，「你得盡全力專注，確保自己不掉
 
 ---
 
-**我一直以為他是生理上的不會害怕(腦部異於常人)，但看了這集才知道，他不怕是因為練習跟經驗，累積出來了自信，實在是太猛了。**
+**我一直以為他是生理上的不會害怕 (腦部異於常人)，但看了這集才知道，他不怕是因為練習跟經驗，累積出來了自信，實在是太猛了。**
 
 第一個是他的情緒控制，而且這是生理層面的。
 
@@ -508,6 +510,7 @@ Sanni 曾在受訪時說，她學會了「支持他做他自己」，即使那�
 ---
 
 「人生有不同的目標、不同的挑戰，就能找到動機，繼續訓練自己。」
+
 記者會上有人問霍諾德，他攀登的動機為何？他的回答是，動機不是等來的，是找來的。當你覺得倦怠、失去方向，或許不是缺乏熱情，而是缺乏一座值得攀登的山。
 
 而他攀登台北 101 的動機，也非常純粹，他說：「這座高塔非常漂亮、非常高聳，對我而言就是最棒的挑戰。」
@@ -517,8 +520,8 @@ Sanni 曾在受訪時說，她學會了「支持他做他自己」，即使那�
 ---
 
 「關鍵不在於如何無懼地攀登，而在於恐懼滲入神經時，你該如何應對。透過充分準備，你能將恐懼轉化為動力。」
-勇者不是沒有恐懼，而是帶著恐懼往前走。霍諾德在攀登酋長岩前，花了整整一年反覆練習每個動作。準備，是面對恐懼最踏實的方式。
 
+勇者不是沒有恐懼，而是帶著恐懼往前走。霍諾德在攀登酋長岩前，花了整整一年反覆練習每個動作。準備，是面對恐懼最踏實的方式。
 
 ---
 
@@ -622,6 +625,7 @@ Alex Honnold：
 利用自己的影響力，在 2012 年就成立「霍諾德基金會」（Honnold Foundation）。
 
 征服死神的男人
+
 連手指手上都有肌肉的男人
 
 曾住在露營車裡的男人，早在 2012 年就成立了基金會。他不買豪宅名車，而是長年捐出自己「年收入的三分之一」，拿去推動全球偏鄉的太陽能計畫。
@@ -638,7 +642,7 @@ Alex Honnold：
 
 ---
 
-[Alex Honnold – The Daily Routine of a Free Solo Climber](https://finty.com/us/daily-routines/alex-honnold/)
+[Alex Honnold — The Daily Routine of a Free Solo Climber](https://finty.com/us/daily-routines/alex-honnold/)
 
 [Alex Honnold Workout Routine, Diet Plan and Supplements](https://totalshape.com/fitness/alex-honnold-workout-diet/)
 
@@ -771,3 +775,9 @@ Alex：那是爬完以後要吃的嗎？
 [霍諾德爬101行前儀式曝光！跟賈永婕一起拜拜 看到鳳梨滿臉問號 | 娛樂 | NOWnews今日新聞](https://www.nownews.com/news/6779586)
 
 [https://www.facebook.com/100044064799667/posts/pfbid02PzWHWF4EFi43V6DzHR7Xo1UAFu8vsm1C8MH1xbRiqThMP5ygduop99kRR5PRjgmsl](https://www.facebook.com/100044064799667/posts/pfbid02PzWHWF4EFi43V6DzHR7Xo1UAFu8vsm1C8MH1xbRiqThMP5ygduop99kRR5PRjgmsl)
+
+---
+
+「風險存在於停滯之中。」（Risk exists in stagnation.）
+
+移動才會成長
