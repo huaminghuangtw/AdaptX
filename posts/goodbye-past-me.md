@@ -1,9 +1,9 @@
 ---
 title: 和過去的自己說再見
 description:
-ogImage: _attachments/3e8b940b9c3dc98bf25e8ac533251449.png
+ogImage: _ogImages/3e8b940b9c3dc98bf25e8ac533251449.png
 created: 2025-12-11T18:03:22
-modified: 2026-02-07T21:47:10
+modified: 2026-03-01T15:53:16
 canonicalUrl: https://adaptx.tw/2025/12/11/goodbye-past-me
 canonicalPath: 2025/12/11/goodbye-past-me
 draft: false

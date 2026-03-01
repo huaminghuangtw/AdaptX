@@ -1,9 +1,9 @@
 ---
 title: 再也不要因為事情微小而不為
 description:
-ogImage: _attachments/
+ogImage: _ogImages/
 created: 2025-08-14T07:29:22
-modified: 2026-02-06T14:24:37
+modified: 2026-03-01T15:54:08
 canonicalUrl: https://adaptx.tw/2025/8/14/sherlock-holmes-brain-attic
 canonicalPath: 2025/8/14/start-small
 draft: true

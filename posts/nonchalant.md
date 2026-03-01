@@ -1,9 +1,9 @@
 ---
 title: 專注且放鬆：你會不會太認真工作了？
 description:
-ogImage: _attachments/
+ogImage: _ogImages/
 created: 2025-10-25T15:40:29
-modified: 2026-02-06T14:24:37
+modified: 2026-03-01T15:53:52
 canonicalUrl: https://adaptx.tw/2025/10/25/nonchalant
 canonicalPath: 2025/10/25/nonchalant
 draft: true
