@@ -2,8 +2,8 @@
 title: 貪睡鍵真的是夢想殺手嗎？也許你誤解「自律」了
 description:
 ogImage: _ogImages/
-created: 2025-10-21T04:40:56
-modified: 2026-03-01T15:53:48
+created: 2025-10-21T00:00:00
+modified: 2026-03-14T02:03:59
 canonicalUrl: https://adaptx.tw/2025/10/21/
 canonicalPath: 2025/10/21/is-snooze-button-a-dream-killer
 draft: true

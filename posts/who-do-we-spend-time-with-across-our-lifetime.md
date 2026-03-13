@@ -2,8 +2,8 @@
 title: 時間是終極貨幣：你如何投資你的人際關係？
 description:
 ogImage: _ogImages/9367cb3d910baa4e43f8a7e3cb3aef4c.png
-created: 2025-10-14T06:49:03
-modified: 2026-03-01T15:54:53
+created: 2025-10-14T00:00:00
+modified: 2026-03-14T02:03:22
 canonicalUrl: https://adaptx.tw/2025/10/14/who-do-we-spend-time-with-across-our-lifetime
 canonicalPath: 2025/10/14/who-do-we-spend-time-with-across-our-lifetime
 draft: false

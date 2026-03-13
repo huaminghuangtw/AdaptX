@@ -2,8 +2,8 @@
 title: 你與你的時區
 description:
 ogImage: _ogImages/41f5d232b263a3b8ba3cae2a81b2e364.png
-created: 2025-08-30T07:34:40
-modified: 2026-03-01T15:55:03
+created: 2025-08-30T00:00:00
+modified: 2026-03-14T02:03:24
 canonicalUrl: https://adaptx.tw/2025/8/30/you-and-your-timeline
 canonicalPath: 2025/8/30/you-and-your-timeline
 draft: false
@@ -98,7 +98,7 @@ tags:
 >
 > 在某個時刻，一切都會走下坡，你開始告訴自己：「到此為止了，這就是我的結局。」這時，我們可以選擇接受它，或者立刻動手去做。就是這麼簡單。你只需要開始，解決第一個問題，再解決第二個，然後第三個。當你解決了足夠多的問題，就能回家。
 
-我很喜歡奧斯卡影帝 [Will Smith](https://www.google.com/search?q=Will+Smith) 的「[堆磚塊](https://youtu.be/wIsgyIq_kFs&t=128s)」心態：
+我很喜歡奧斯卡影帝 [Will Smith](https://www.google.com/search?q=Will+Smith) 的「[堆磚塊](https://youtu.be/wIsgyIq_kFs?t=128s)」心態：
 
 > You don’t try to build a wall. You don’t start by saying, I’m going to build the biggest, baddest wall that’s ever been built. You say, I’m going to lay this brick as perfectly as a brick can be laid. You do that every single day, and soon you have a wall.
 >

@@ -2,8 +2,8 @@
 title: 和過去的自己說再見
 description:
 ogImage: _ogImages/3e8b940b9c3dc98bf25e8ac533251449.png
-created: 2025-12-11T18:03:22
-modified: 2026-03-01T15:53:16
+created: 2025-12-11T00:00:00
+modified: 2026-03-14T02:03:92
 canonicalUrl: https://adaptx.tw/2025/12/11/goodbye-past-me
 canonicalPath: 2025/12/11/goodbye-past-me
 draft: false
@@ -29,7 +29,7 @@ tags:
 
 這不只是個哲學悖論，更是拿來思考人生的好題材。
 
-[人體細胞每 7–10 年就會完全更新一次](https://www.questdiagnostics.com/patients/blog/articles/do-my-cells-really-change-every-7-years)；換句話說，七年前的你與今天的你，早已不再共享任何一塊細胞。
+[人體細胞每 7—10 年就會完全更新一次](https://www.questdiagnostics.com/patients/blog/articles/do-my-cells-really-change-every-7-years)；換句話說，七年前的你與今天的你，早已不再共享任何一塊細胞。
 
 我們的身體就像那艘不斷更換木板的船，處於永恆的變動之中。
 
