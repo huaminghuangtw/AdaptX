@@ -2,8 +2,8 @@
 title: Alex Honnold
 description:
 ogImage: _ogImages/
-created: 2026-02-06T00:00:00
-modified: 2026-03-14T02:03:05
+created: 2026-02-06
+modified: 2026-03-14
 canonicalUrl: https://adaptx.tw/2026/2/6/alex-honnold
 canonicalPath: 2026/2/6/alex-honnold
 draft: true
