@@ -127,7 +127,7 @@ This video features professional rock climber Alex Honnold and psychology resear
 
 # **Key Takeaways**
 
-* **Calculated vs. Uncalculated Risk:** The real danger in life often comes from taking uncalculated risks out of habit (e.g., driving while incapacitated) rather than extreme activities that are meticulously prepared for [[07:04](https://youtu.be/nq9ZAGqvmfY?t=424)].
+* **Calculated vs Uncalculated Risk:** The real danger in life often comes from taking uncalculated risks out of habit (e.g., driving while incapacitated) rather than extreme activities that are meticulously prepared for [[07:04](https://youtu.be/nq9ZAGqvmfY?t=424)].
 * **Preparation Reduces Uncertainty:** Mastery and intense preparation allow an individual to expand their “comfort zone bubble,” turning a terrifying task into an automated, “autopilot” performance [[14:32](https://youtu.be/nq9ZAGqvmfY?t=872)], [[26:11](https://youtu.be/nq9ZAGqvmfY?t=1571)].
 * **The Power of Negative Visualization:** Thinking through worst-case scenarios ahead of time prevents those thoughts from occurring for the first time during a critical moment [[21:01](https://youtu.be/nq9ZAGqvmfY?t=1261)].
 * **Safety Experiences as Medicine:** Repeatedly experiencing a situation safely is the most potent way to overwrite the brain’s intuitive sense of threat [[24:11](https://youtu.be/nq9ZAGqvmfY?t=1451)].
