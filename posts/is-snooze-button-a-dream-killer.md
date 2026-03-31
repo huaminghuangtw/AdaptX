@@ -28,7 +28,7 @@ tags:
 
 # 一昧追求「自律」的黑暗面
 
-我一直相信「自律等於自由」，這也是 [我的核心價值](https://huami.ng/dear-today-me/) 之一。每當看到有人過著如苦行僧般的生活：規律的日常作息、簡樸的飲食習慣等，我就會瞬間變成小粉絲，充滿好奇心地向他們請益、學習。
+我一直相信「自律等於自由」，這也是 [我的核心價值](https://huam.ing/dear-today-me/) 之一。每當看到有人過著如苦行僧般的生活：規律的日常作息、簡樸的飲食習慣等，我就會瞬間變成小粉絲，充滿好奇心地向他們請益、學習。
 
 馬拉松之神 [Eliud Kipchoge](https://www.google.com/search?q=Eliud+Kipchoge) 在 [訪問](https://www.youtube.com/shorts/hywDs1dhTOI) 中提到：「只有在生活中紀律嚴明的人才是自由的。如果缺乏紀律，只會成為情緒和激情的奴隸。」[^3]
 
