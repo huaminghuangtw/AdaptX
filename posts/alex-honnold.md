@@ -106,7 +106,7 @@ Free Solo，
 
 就跟當你考試準備到一個程度的時候，你進考場前就知道你會上了
 
-<https://huami.ng/amateurs-vs-professionals>
+<https://huam.ing/amateurs-vs-professionals>
 
 Practice until you can’t do it wrong, not until you can do it right.
 
