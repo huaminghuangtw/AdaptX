@@ -175,7 +175,7 @@ tags:
 
 我需要做的，只是「擁抱改變」。
 
-我需要在乎的，只是 [當下、現在、今天的我](https://huami.ng/dear-today-me)，有沒有努力「採取行動」。
+我需要在乎的，只是 [當下、現在、今天的我](https://huam.ing/dear-today-me)，有沒有努力「採取行動」。
 
 關於這點，我想達爾文（[Charles Darwin](https://www.google.com/search?q=Charles+Darwin)）在《[物種起源](https://www.google.com/search?q=物種起源)》裡有最好的詮釋：
 
