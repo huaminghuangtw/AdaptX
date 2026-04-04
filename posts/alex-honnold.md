@@ -3,7 +3,7 @@ title: Alex Honnold
 description:
 ogImage: _ogImages/
 created: 2026-02-06
-modified: 2026-03-14
+modified: 2026-04-04
 canonicalUrl: https://adaptx.tw/2026/2/6/alex-honnold
 canonicalPath: 2026/2/6/alex-honnold
 draft: true
@@ -11,6 +11,8 @@ featured: false
 tags:
   - AdaptX/
 ---
+
+%% Avoid: 不是…而是… %%
 
 2026 年 1 月 25 日，台北信義區舉辦了一場史無前例的全民肩頸治療活動。
 
