@@ -3,7 +3,7 @@ title: Alex Honnold
 description:
 ogImage: _ogImages/
 created: 2026-02-06
-modified: 2026-04-04
+modified: 2026-04-09
 canonicalUrl: https://adaptx.tw/2026/2/6/alex-honnold
 canonicalPath: 2026/2/6/alex-honnold
 draft: true
@@ -223,9 +223,9 @@ Alex 曾坦言，成為兩個女兒的父親後，他「特別不想死」。與
 
 todo
 
-[How Alex Honnold Reaches Massive Goals \| Alex Honnold & Dr. Andrew Huberman - YouTube](https://www.youtube.com/shorts/aWQpZM5TTwU)
+[How Alex Honnold Reaches Massive Goals | Alex Honnold & Dr. Andrew Huberman - YouTube](https://www.youtube.com/shorts/aWQpZM5TTwU)
 
-[Free Soloing Isn’t What You Think \| Alex Honnold & Dr. Andrew Huberman - YouTube](https://www.youtube.com/shorts/xAIAh1MQUgk)
+[Free Soloing Isn’t What You Think | Alex Honnold & Dr. Andrew Huberman - YouTube](https://www.youtube.com/shorts/xAIAh1MQUgk)
 
 [Alex Honnold真的拿Netflix太少錢了？外國網友吵翻了！【邦妮區塊鏈】 - YouTube](https://youtu.be/jyXYAlWkcmo)
 
