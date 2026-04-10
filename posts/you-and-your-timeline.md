@@ -3,7 +3,7 @@ title: 你與你的時區
 description:
 ogImage: _ogImages/41f5d232b263a3b8ba3cae2a81b2e364.png
 created: 2025-08-30
-modified: 2026-03-14
+modified: 2026-04-10
 canonicalUrl: https://adaptx.tw/2025/8/30/you-and-your-timeline
 canonicalPath: 2025/8/30/you-and-your-timeline
 draft: false
@@ -63,6 +63,12 @@ tags:
 人比人，氣死人；蛋餅比蛋餅，起士蛋餅…
 
 若真的想要攀比，請和昨天的自己比，而不是和今天的某人比。
+
+美國腦神經科學家 [Dr. Daniel Amen](https://www.google.com/search?q=Daniel+Amen) 在著作《大腦生病救命手冊》（Change Your Brain, Change Your Life）[寫道](https://www.goodreads.com/quotes/7377859-18-40-60-rule-it-says-that-when-you-are-eighteen-you)：
+
+* 18 歲時，你在意別人怎麼看你。
+* 40 歲時，你不再在意別人怎麼看你。
+* 60 歲時，你發現其實從來沒有人在意你。
 
 最有意思的人設，就是展現最真誠、最真實的自己。
 
