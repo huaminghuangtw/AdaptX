@@ -6,7 +6,6 @@ created: 2025-10-14
 modified: 2026-04-06
 canonicalUrl: https://adaptx.tw/2025/10/14/who-do-we-spend-time-with-across-our-lifetime
 canonicalPath: 2025/10/14/who-do-we-spend-time-with-across-our-lifetime
-draft: false
 featured: false
 tags:
   - AdaptX/如何有意識地生活
