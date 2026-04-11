@@ -6,7 +6,6 @@ created: 2025-09-30
 modified: 2026-03-14
 canonicalUrl: https://adaptx.tw/2025/9/30/the-monkey-and-pedestal-mindset
 canonicalPath: 2025/9/30/the-monkey-and-pedestal-mindset
-draft: false
 featured: false
 tags:
   - AdaptX/如何做出正確的決定
