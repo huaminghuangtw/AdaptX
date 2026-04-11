@@ -6,7 +6,6 @@ created: 2025-10-15
 modified: 2026-03-14
 canonicalUrl: https://adaptx.tw/2025/10/15/30-things-i-wish-i-knew-in-20s
 canonicalPath: 2025/10/15/30-things-i-wish-i-knew-in-20s
-draft: false
 featured: false
 tags:
   - AdaptX/如何做最好的自己
