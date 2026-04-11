@@ -6,7 +6,6 @@ created: 2025-08-14
 modified: 2026-03-14
 canonicalUrl: https://adaptx.tw/2025/8/14/sherlock-holmes-brain-attic
 canonicalPath: 2025/8/14/sherlock-holmes-brain-attic
-draft: false
 featured: false
 tags:
   - AdaptX/如何變聰明
