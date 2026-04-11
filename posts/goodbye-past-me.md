@@ -6,7 +6,6 @@ created: 2025-12-11
 modified: 2026-03-14
 canonicalUrl: https://adaptx.tw/2025/12/11/goodbye-past-me
 canonicalPath: 2025/12/11/goodbye-past-me
-draft: false
 featured: true
 tags:
   - AdaptX/如何做最好的自己
