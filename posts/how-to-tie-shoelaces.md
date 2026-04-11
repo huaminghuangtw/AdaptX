@@ -6,7 +6,6 @@ created: 2025-12-17
 modified: 2026-04-10
 canonicalUrl: https://adaptx.tw/2025/12/17/how-to-tie-shoelaces
 canonicalPath: 2025/12/17/how-to-tie-shoelaces
-draft: false
 featured: false
 tags:
   - AdaptX/如何讓生活更簡單
