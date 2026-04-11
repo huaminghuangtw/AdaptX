@@ -6,7 +6,6 @@ created: 2025-10-10
 modified: 2026-03-14
 canonicalUrl: https://adaptx.tw/2025/10/10/the-power-of-quiet
 canonicalPath: 2025/10/10/the-power-of-quiet
-draft: false
 featured: false
 tags:
   - AdaptX/如何建立長期人際關係
