@@ -6,7 +6,6 @@ created: 2025-11-12
 modified: 2026-03-14
 canonicalUrl: https://adaptx.tw/2025/11/12/ted-taipei-2025
 canonicalPath: 2025/11/12/ted-taipei-2025
-draft: false
 featured: false
 tags:
   - AdaptX/如何有意識地生活
