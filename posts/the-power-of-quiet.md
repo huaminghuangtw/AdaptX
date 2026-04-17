@@ -3,7 +3,7 @@ title: 安靜的力量：為什麼你的好意，總是被誤解？
 description:
 ogImage: _ogImages/657b3960557c19ebb0a001c932a1e6ee.png
 created: 2025-10-10
-modified: 2026-03-14
+modified: 2026-04-17
 canonicalUrl: https://adaptx.tw/2025/10/10/the-power-of-quiet
 canonicalPath: 2025/10/10/the-power-of-quiet
 featured: false
