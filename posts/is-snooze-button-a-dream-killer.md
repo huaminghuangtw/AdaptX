@@ -1,7 +1,7 @@
 ---
 title: 貪睡鍵真的是夢想殺手嗎？也許你誤解「自律」了
 description:
-ogImage: _ogImages/
+coverImage: _coverImages/
 created: 2025-10-21
 modified: 2026-03-14
 canonicalUrl: https://adaptx.tw/2025/10/21/
