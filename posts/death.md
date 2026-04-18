@@ -1,7 +1,7 @@
 ---
 title: 學會死亡，就學會活著
 description:
-ogImage: _ogImages/
+coverImage: _coverImages/
 created: 2025-10-03
 modified: 2026-03-14
 canonicalUrl: https://adaptx.tw/2025/10/3/
