@@ -1,7 +1,7 @@
 ---
 title: Productivity
 description:
-ogImage: _ogImages/
+coverImage: _coverImages/
 created: 2026-04-13
 modified: 2026-04-14
 canonicalUrl: https://adaptx.tw/2026/4/13/productivity
