@@ -1,9 +1,9 @@
 ---
 title: 鞋帶一直掉？專業跑者都在用的打結術
 description:
-coverImage: _coverImages/030905b2eba08473ea1034f327737172.png
 created: 2025-12-17
-modified: 2026-04-10
+modified: 2026-04-19
+coverImage: _coverImages/030905b2eba08473ea1034f327737172.png
 canonicalUrl: https://adaptx.tw/2025/12/17/how-to-tie-shoelaces
 canonicalPath: 2025/12/17/how-to-tie-shoelaces
 featured: false
@@ -89,7 +89,7 @@ tags:
 
 讀到這邊，你可能會想：「不過就是綁個鞋帶，有必要這麼講究嗎？」
 
-俗話說：「千里之行，始於足下」。
+俗話說：「千里之行，始於足下。」（誒，不是這樣用的吧）
 
 把鞋帶綁好，雖然只是個不起眼的小動作，投資報酬率卻極高！
 
