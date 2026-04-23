@@ -1,9 +1,9 @@
 ---
 title: 時間是終極貨幣：你如何投資你的人際關係？
 description:
-coverImage: _coverImages/9367cb3d910baa4e43f8a7e3cb3aef4c.png
 created: 2025-10-14
-modified: 2026-04-06
+modified: 2026-04-23
+coverImage: _coverImages/9367cb3d910baa4e43f8a7e3cb3aef4c.png
 canonicalUrl: https://adaptx.tw/2025/10/14/who-do-we-spend-time-with-across-our-lifetime
 canonicalPath: 2025/10/14/who-do-we-spend-time-with-across-our-lifetime
 featured: false
@@ -19,7 +19,7 @@ tags:
 >
 > 如何過一天，就是如何過一生。
 
-我們的時間流向，隨著年齡不斷改寫，也悄悄勾勒出一張「人生關係地圖」。
+人的一輩子，就是由無數個「今天」所組成的。
 
 [美國時間使用調查（American Time Use Survey, ATUS](https://ourworldindata.org/time-use)）的研究人員 [^1] 分析了人們在人生不同階段的人際關係時間分配。
 
