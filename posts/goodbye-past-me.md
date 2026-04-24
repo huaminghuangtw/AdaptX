@@ -1,9 +1,9 @@
 ---
 title: 和過去的自己說再見
 description:
-coverImage: _coverImages/3e8b940b9c3dc98bf25e8ac533251449.png
 created: 2025-12-11
-modified: 2026-03-14
+modified: 2026-04-24
+coverImage: _coverImages/3e8b940b9c3dc98bf25e8ac533251449.png
 canonicalUrl: https://adaptx.tw/2025/12/11/goodbye-past-me
 canonicalPath: 2025/12/11/goodbye-past-me
 featured: true
@@ -62,13 +62,7 @@ tags:
 >
 > 首要原則是你不能欺騙自己 — 而你是最容易被騙的人。
 
-法國啟蒙思想家盧梭（[Jean-Jacques Rousseau](https://www.google.com/search?q=Jean-Jacques+Rousseau)）也說：
-
-> Nature never deceives us; it is we who deceive ourselves.
->
-> 大自然不會欺騙我們，欺騙我們的是自己。
-
-美國哲學家 [Eric Hoffer](https://www.google.com/search?q=Eric+Hoffer) 更是直言：
+美國哲學家 [Eric Hoffer](https://www.google.com/search?q=Eric+Hoffer) 也說：
 
 > We lie the loudest when we lie to ourselves.
 >
