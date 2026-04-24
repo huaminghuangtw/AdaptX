@@ -1,9 +1,9 @@
 ---
 title: 30 件我希望 20 歲時就懂的事
 description:
-coverImage: _coverImages/000e30aa1958044e4daeb981190cdbe4.png
 created: 2025-10-15
-modified: 2026-03-14
+modified: 2026-04-24
+coverImage: _coverImages/000e30aa1958044e4daeb981190cdbe4.png
 canonicalUrl: https://adaptx.tw/2025/10/15/30-things-i-wish-i-knew-in-20s
 canonicalPath: 2025/10/15/30-things-i-wish-i-knew-in-20s
 featured: false
@@ -54,4 +54,4 @@ tags:
 
 隨者年紀增長，什麼事情在你眼中變得更清晰？你對哪些價值或真理更加確定？又有哪些道理，是你突然看懂的？
 
-歡迎 [回信](mailto:huaming.huang.tw@gmail.com) 讓我知道 😊
+歡迎讓我知道 😊
