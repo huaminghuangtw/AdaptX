@@ -28,7 +28,7 @@ tags:
 
 這不只是個哲學悖論，更是拿來思考人生的好題材。
 
-[人體細胞每 7—10 年就會完全更新一次](https://www.questdiagnostics.com/patients/blog/articles/do-my-cells-really-change-every-7-years)；換句話說，七年前的你與今天的你，早已不再共享任何一塊細胞。
+[人體細胞每 7–10 年就會完全更新一次](https://www.questdiagnostics.com/patients/blog/articles/do-my-cells-really-change-every-7-years)；換句話說，七年前的你與今天的你，早已不再共享任何一塊細胞。
 
 我們的身體就像那艘不斷更換木板的船，處於永恆的變動之中。
 
