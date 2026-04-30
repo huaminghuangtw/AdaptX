@@ -1,11 +1,11 @@
 ---
 title: Productivity
 description:
-coverImage: _coverImages/
 created: 2026-04-13
-modified: 2026-04-14
-canonicalUrl: https://adaptx.tw/2026/4/13/productivity
+modified: 2026-04-30
 canonicalPath: 2026/4/13/productivity
+canonicalUrl: https://adaptx.tw/2026/4/13/productivity
+coverImage: _coverImages/
 draft: true
 featured: false
 tags:
