@@ -1,11 +1,11 @@
 ---
 title: 學會死亡，就學會活著
 description:
-coverImage: _coverImages/
 created: 2025-10-03
-modified: 2026-03-14
-canonicalUrl: https://adaptx.tw/2025/10/3/
+modified: 2026-04-30
 canonicalPath: 2025/10/3/death
+canonicalUrl: https://adaptx.tw/2025/10/3/
+coverImage: _coverImages/
 draft: true
 featured: false
 tags:
@@ -71,6 +71,7 @@ In the end, it’s not the years in your life that count. It’s the life in you
 On the death bed at my 80s, I want to be able to utter these words: “yeah I was working in this field I didn’t really like and my life was kind of miserable and my output sucked and then I realized I should actually be doing this other thing in this weird niche that no one has ever quite done before but I find myself to be perfectly suited for. Now, I’m great at what I do and am very happy and the world gets to experience one more unique instantiation of greatness than it did yesterday.”
 
 **I want to die…**
+
 * with zero
 * in sleep peacefully
 * with no regrets
