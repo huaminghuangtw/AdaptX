@@ -2,10 +2,10 @@
 title: 30 件我希望 20 歲時就懂的事
 description:
 created: 2025-10-15
-modified: 2026-04-24
-coverImage: _coverImages/000e30aa1958044e4daeb981190cdbe4.png
-canonicalUrl: https://adaptx.tw/2025/10/15/30-things-i-wish-i-knew-in-20s
+modified: 2026-04-30
 canonicalPath: 2025/10/15/30-things-i-wish-i-knew-in-20s
+canonicalUrl: https://adaptx.tw/2025/10/15/30-things-i-wish-i-knew-in-20s
+coverImage: _coverImages/000e30aa1958044e4daeb981190cdbe4.png
 featured: false
 tags:
   - AdaptX/如何做最好的自己
