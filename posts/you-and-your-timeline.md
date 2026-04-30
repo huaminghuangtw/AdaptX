@@ -1,11 +1,11 @@
 ---
 title: 你與你的時區
 description:
-coverImage: _coverImages/41f5d232b263a3b8ba3cae2a81b2e364.png
 created: 2025-08-30
-modified: 2026-04-11
-canonicalUrl: https://adaptx.tw/2025/8/30/you-and-your-timeline
+modified: 2026-04-30
 canonicalPath: 2025/8/30/you-and-your-timeline
+canonicalUrl: https://adaptx.tw/2025/8/30/you-and-your-timeline
+coverImage: _coverImages/41f5d232b263a3b8ba3cae2a81b2e364.png
 featured: true
 tags:
   - AdaptX/如何做最好的自己
