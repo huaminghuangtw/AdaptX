@@ -1,11 +1,11 @@
 ---
 title: 我從 Google X 實驗室學到的放棄哲學：猴子與基座
 description:
-coverImage: _coverImages/a9cc51f8952c0244c30a9477749a5140.png
 created: 2025-09-30
-modified: 2026-03-14
-canonicalUrl: https://adaptx.tw/2025/9/30/the-monkey-and-pedestal-mindset
+modified: 2026-04-30
 canonicalPath: 2025/9/30/the-monkey-and-pedestal-mindset
+canonicalUrl: https://adaptx.tw/2025/9/30/the-monkey-and-pedestal-mindset
+coverImage: _coverImages/a9cc51f8952c0244c30a9477749a5140.png
 featured: false
 tags:
   - AdaptX/如何做出正確的決定
