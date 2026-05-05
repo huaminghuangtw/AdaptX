@@ -1,6 +1,5 @@
 ---
 title: 學會死亡，就學會活著
-description:
 created: 2025-10-03
 modified: 2026-04-30
 canonicalPath: 2025/10/3/death

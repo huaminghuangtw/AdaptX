@@ -1,6 +1,5 @@
 ---
 title: 你與你的時區
-description:
 created: 2025-08-30
 modified: 2026-04-30
 canonicalPath: 2025/8/30/you-and-your-timeline

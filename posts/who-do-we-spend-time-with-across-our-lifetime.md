@@ -1,6 +1,5 @@
 ---
 title: 時間是終極貨幣：你如何投資你的人際關係？
-description:
 created: 2025-10-14
 modified: 2026-04-30
 canonicalPath: 2025/10/14/who-do-we-spend-time-with-across-our-lifetime

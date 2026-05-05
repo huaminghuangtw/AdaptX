@@ -1,6 +1,5 @@
 ---
 title: 再也不要因為事情微小而不為
-description:
 created: 2025-08-14
 modified: 2026-04-30
 canonicalPath: 2025/8/14/start-small

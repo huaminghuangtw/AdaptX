@@ -1,6 +1,5 @@
 ---
 title: 鞋帶一直掉？專業跑者都在用的打結術
-description:
 created: 2025-12-17
 modified: 2026-04-30
 canonicalPath: 2025/12/17/how-to-tie-shoelaces

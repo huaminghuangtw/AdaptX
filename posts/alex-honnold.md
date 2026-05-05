@@ -1,6 +1,5 @@
 ---
 title: Alex Honnold
-description:
 created: 2026-02-06
 modified: 2026-04-30
 canonicalPath: 2026/2/6/alex-honnold

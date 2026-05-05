@@ -1,6 +1,5 @@
 ---
 title: 我從 Google X 實驗室學到的放棄哲學：猴子與基座
-description:
 created: 2025-09-30
 modified: 2026-04-30
 canonicalPath: 2025/9/30/the-monkey-and-pedestal-mindset

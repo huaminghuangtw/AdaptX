@@ -1,6 +1,5 @@
 ---
 title: 什麼是更好的活著？我在 TED×Taipei 2025 年會得到的五個答案
-description:
 created: 2025-11-12
 modified: 2026-04-30
 canonicalPath: 2025/11/12/ted-taipei-2025

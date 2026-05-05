@@ -1,6 +1,5 @@
 ---
 title: 和過去的自己說再見
-description:
 created: 2025-12-11
 modified: 2026-04-29
 canonicalPath: 2025/12/11/goodbye-past-me
