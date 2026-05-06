@@ -3,7 +3,6 @@ title: 和過去的自己說再見
 created: 2025-12-11
 modified: 2026-04-29
 canonicalPath: 2025/12/11/goodbye-past-me
-canonicalUrl: https://adaptx.tw/2025/12/11/goodbye-past-me
 coverImage: _coverImages/3e8b940b9c3dc98bf25e8ac533251449.png
 featured: true
 tags:

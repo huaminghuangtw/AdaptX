@@ -3,7 +3,6 @@ title: 學會死亡，就學會活著
 created: 2025-10-03
 modified: 2026-04-30
 canonicalPath: 2025/10/3/death
-canonicalUrl: https://adaptx.tw/2025/10/3/
 coverImage: _coverImages/
 draft: true
 featured: false
