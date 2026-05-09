@@ -1,12 +1,10 @@
 ---
 title: 你與你的時區
 created: 2025-08-30
-modified: 2026-04-30
-canonicalPath: 2025/8/30/you-and-your-timeline
+modified: 2026-05-10
 coverImage: _coverImages/41f5d232b263a3b8ba3cae2a81b2e364.png
 featured: true
-tags:
-  - AdaptX/如何做最好的自己
+tags: []
 ---
 
 在這個社群媒體盛行的時代，我們很容易將自己的人生進度與他人比較，心裡開始擔憂：我是不是落後了？是不是該更努力一點？

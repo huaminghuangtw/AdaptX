@@ -1,13 +1,11 @@
 ---
 title: 學會死亡，就學會活著
 created: 2025-10-03
-modified: 2026-04-30
-canonicalPath: 2025/10/3/death
+modified: 2026-05-10
 coverImage: _coverImages/
 draft: true
 featured: false
-tags:
-  - AdaptX/
+tags: []
 ---
 
 > “Every man has two lives, and the second starts when he realizes he has just one.” — Confucius

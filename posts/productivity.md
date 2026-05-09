@@ -1,13 +1,11 @@
 ---
 title: Productivity
 created: 2026-04-13
-modified: 2026-04-30
-canonicalPath: 2026/4/13/productivity
+modified: 2026-05-10
 coverImage: _coverImages/
 draft: true
 featured: false
-tags:
-  - AdaptX/
+tags: []
 ---
 
 The goal is _sustainable_ productivity.

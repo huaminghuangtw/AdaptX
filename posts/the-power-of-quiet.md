@@ -1,12 +1,10 @@
 ---
 title: 安靜的力量：為什麼你的好意，總是被誤解？
 created: 2025-10-10
-modified: 2026-05-01
-canonicalPath: 2025/10/10/the-power-of-quiet
+modified: 2026-05-10
 coverImage: _coverImages/657b3960557c19ebb0a001c932a1e6ee.png
 featured: false
-tags:
-  - AdaptX/如何建立長期人際關係
+tags: []
 ---
 
 也許你跟我一樣，曾掉入這個陷阱：給出「太多」的建議、「太多」的說教、「太多」的「我告訴你該怎麼做」。

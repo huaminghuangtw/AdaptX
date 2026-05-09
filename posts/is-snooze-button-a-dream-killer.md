@@ -1,13 +1,11 @@
 ---
 title: 貪睡鍵真的是夢想殺手嗎？也許你誤解「自律」了
 created: 2025-10-21
-modified: 2026-04-30
-canonicalPath: 2025/10/21/is-snooze-button-a-dream-killer
+modified: 2026-05-10
 coverImage: _coverImages/
 draft: true
 featured: false
-tags:
-  - AdaptX/如何做最好的自己
+tags: []
 ---
 
 > [Unsere Träume können wir erst dann verwirklichen, wenn wir uns entschließen, einmal daraus zu erwachen. (當我們決定從夢中醒來時，我們才有可能實現自己的夢想。)](http://www.godic.net/home/dailysentence/c66d4c09-48ca-4fea-8665-779d2476f62c)
