@@ -1,7 +1,7 @@
 ---
 title: 我從 Google X 實驗室學到的放棄哲學：猴子與基座
 created: 2025-09-30
-modified: 2026-04-30
+modified: 2026-05-08
 canonicalPath: 2025/9/30/the-monkey-and-pedestal-mindset
 coverImage: _coverImages/a9cc51f8952c0244c30a9477749a5140.png
 featured: false
@@ -15,7 +15,7 @@ tags:
 
 即使心裡那股「好像不太對勁」的聲音越來越清晰，卻經常對它按下靜音，用「再撐一下就好」、「再觀望一陣子」來說服（欺騙）自己。
 
-結果就是最珍貴的 [注意力](https://huam.ing/2025/8/14/sherlock-holmes-brain-attic) 被消耗在沒有太多未來性的地方。
+結果就是最珍貴的 [注意力](herlock-holmes-brain-attic.md) 被消耗在沒有太多未來性的地方。
 
 **會不會，我們其實誤解了放棄？**
 
