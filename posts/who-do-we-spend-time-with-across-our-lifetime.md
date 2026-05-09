@@ -1,7 +1,7 @@
 ---
 title: 時間是終極貨幣：你如何投資你的人際關係？
 created: 2025-10-14
-modified: 2026-04-30
+modified: 2026-05-08
 canonicalPath: 2025/10/14/who-do-we-spend-time-with-across-our-lifetime
 coverImage: _coverImages/9367cb3d910baa4e43f8a7e3cb3aef4c.png
 featured: false
@@ -114,7 +114,7 @@ tags:
 
 二十年後，還會記得你曾經為了養家糊口、替公司賣肝、熬夜加班的人，不是你的老闆，不是你的上司，不是你的同事，是你的孩子。
 
-每件事都有機會成本：奮力向前衝、如倉鼠般拼命賺錢的同時，你了解自己正在向後 [放棄](https://huam.ing/2025/9/30/the-monkey-and-pedestal-mindset) 什麼嗎？
+每件事都有機會成本：奮力向前衝、如倉鼠般拼命賺錢的同時，你知道自己正在向後 [放棄](the-monkey-and-pedestal-mindset.md) 什麼嗎？
 
 ---
 
