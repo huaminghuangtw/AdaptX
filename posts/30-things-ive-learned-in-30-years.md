@@ -18,9 +18,9 @@ I’m not a big birthday celebration guy, but every year, I use the day as a spa
 6. Hard work: shortcut. Compounding: cheat code.
 7. 正金字塔, not 倒金字塔 (The Importance of Foundation/Foundamentals)
 8. 寫 > 做 > 說
-9. [After waking up (immediately or within 20 minutes of waking)](2025_05_14.md):
+9. [After waking up (immediately or within 20 minutes of waking)](../../Daily-Bullet-Journal/journals/2025/05-May/2025_05_14.md):
 10. [Saltwater Hydration](https://www.reddit.com/r/explainlikeimfive/comments/1bqffh5/eli5_why_is_a_little_bit_of_salt_in_water_good/) ➞ _To replenish lost electrolytes_ Morning Electrolytes ➞ 500ml water + 1/4 tsp salt + a squeeze of lemon
-11. Weigh the potential **benefits of [delayed action](procrastination.md) [^2]** against the **risks of inaction** to determine the best approach.
+11. Weigh the potential **benefits of [delayed action](../../Evergreen-Notes/Permanent-Notes/procrastination.md) [^2]** against the **risks of inaction** to determine the best approach.
 12. Calendar & Reminders
 13. 📵 Instead of keeping my phone nearby while working, I now place it in another room, completely out of sight. During focused deep work sessions, I put my phone in a drawer, box, or any spot where it’s out of reach and invisible. > [Ward et al. 2017](https://doi.org/10.1086/691462) found that simply having a smartphone on your desk—even face down and on silent—reduces your available cognitive capacity.
 14. Stop thinking about what your money can buy. Start thinking about what your money can earn.” — J.L. Collins, The Simple Path to Wealth → And more (stop start)
