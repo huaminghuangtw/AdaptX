@@ -1,7 +1,7 @@
 ---
 title: 30 年學到的 30 件事
 created: 2026-05-27
-modified: 2026-05-27
+modified: 2026-06-02
 coverImage: _coverImages/
 draft: true
 featured: false
@@ -34,6 +34,7 @@ I’m not a big birthday celebration guy, but every year, I use the day as a spa
 22. 凡事迭代、堆疊 <https://youtu.be/H0_yKBitO8M>
 23. 以終為始
 24. 寫日記
+25. 人生沒有最好的選擇，只有在選擇之後，做到最好。
 
 ---
 
