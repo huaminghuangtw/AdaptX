@@ -1,7 +1,7 @@
 ---
 title: 30 年學到的 30 件事
 created: 2026-05-27
-modified: 2026-06-02
+modified: 2026-06-04
 coverImage: _coverImages/
 draft: true
 featured: false
@@ -35,6 +35,7 @@ I’m not a big birthday celebration guy, but every year, I use the day as a spa
 23. 以終為始
 24. 寫日記
 25. 人生沒有最好的選擇，只有在選擇之後，做到最好。
+26. It's okay to live a life that looks confusing to others. It's okay to go to bed at 7 pm and wake up at 4 am.
 
 ---
 
