@@ -1,10 +1,11 @@
 ---
 title: 鞋帶一直掉？專業跑者都在用的打結術
 created: 2025-12-17
-modified: 2026-05-10
+modified: 2026-06-04
 coverImage: _coverImages/030905b2eba08473ea1034f327737172.png
 featured: false
-tags: []
+tags:
+  - 生活智慧王
 ---
 
 綁鞋帶這種事聽起來好像大家都會，但你有沒有過這種經驗：跑得正起勁，呼吸與步伐完美同步，低頭一看，鞋帶竟然鬆了！？
