@@ -1,7 +1,7 @@
 ---
 title: 30 年學到的 30 件事
 created: 2026-05-27
-modified: 2026-06-04
+modified: 2026-06-05
 coverImage: _coverImages/
 draft: true
 featured: false
@@ -30,12 +30,13 @@ I’m not a big birthday celebration guy, but every year, I use the day as a spa
 18. Approach the world as your **laboratory** and your work as an ongoing **experiment**. Cultivate an _experimental mindset_—every experience is a **data point**, and each day is part of your **data collection process**. 📊
 19. Walking more each day: 1. Take a 5–10 minute walk after lunch. 2. Step outside for a morning walk and get natural sunlight in your eyes as soon as possible after waking.
 20. Heat-Cold Contrast Therapy
-21. 凡事全力以赴/盡全力
+21. 凡事全力以赴/盡全力 [If you’re half in, you’re actually all out.](https://x.com/SahilBloom/status/1925950712980152475) Don’t half-ass two things. Whole-ass one thing.
 22. 凡事迭代、堆疊 <https://youtu.be/H0_yKBitO8M>
 23. 以終為始
 24. 寫日記
 25. 人生沒有最好的選擇，只有在選擇之後，做到最好。
-26. It's okay to live a life that looks confusing to others. It's okay to go to bed at 7 pm and wake up at 4 am.
+26. It’s okay to live a life that looks confusing to others. It’s okay to go to bed at 7 pm and wake up at 4 am.
+27. Everyone carries a story, a skill, or a perspective you’ve never encountered. When we meet others **with humility instead of judgment, curiosity instead of assumptions**, the world begins to unfold in surprising ways. Every interaction — no matter how brief — holds the potential to teach us something meaningful. Stay open. Listen deeply.
 
 ---
 
