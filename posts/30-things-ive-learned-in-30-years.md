@@ -1,7 +1,7 @@
 ---
 title: 30 年學到的 30 件事
 created: 2026-05-27
-modified: 2026-06-05
+modified: 2026-06-06
 coverImage: _coverImages/
 draft: true
 featured: false
@@ -35,8 +35,9 @@ I’m not a big birthday celebration guy, but every year, I use the day as a spa
 23. 以終為始
 24. 寫日記
 25. 人生沒有最好的選擇，只有在選擇之後，做到最好。
-26. It’s okay to live a life that looks confusing to others. It’s okay to go to bed at 7 pm and wake up at 4 am.
+26. It’s okay to live a life that looks confusing to others. It’s okay to go to bed at 7 pm and wake up at 4 am. Unapologetically
 27. Everyone carries a story, a skill, or a perspective you’ve never encountered. When we meet others **with humility instead of judgment, curiosity instead of assumptions**, the world begins to unfold in surprising ways. Every interaction — no matter how brief — holds the potential to teach us something meaningful. Stay open. Listen deeply.
+28. Slow down to speed up
 
 ---
 
