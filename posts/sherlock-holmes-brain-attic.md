@@ -1,7 +1,7 @@
 ---
 title: 像福爾摩斯一樣思考：打造你的大腦閣樓
 created: 2025-08-14
-modified: 2026-05-10
+modified: 2026-06-07
 coverImage: _coverImages/f218731ceb2ba5987b83a816c27baefe.png
 featured: false
 tags: []
@@ -100,7 +100,7 @@ tags: []
 
 如果不定期整理，即便存放傢俱的速度緩慢，終究還是會被塞滿。而這會阻礙我們在未來吸收有用的新資訊。
 
-[走路](https://huam.ing/walk)、[寫日記](https://huam.ing/journaling)、[打造第二大腦](https://huam.ing/garden) 都是很棒的方法。
+走路、寫日記、打造第二大腦都是很棒的方法。
 
 走路能讓我們的思路更清晰，寫日記幫助我們釐清內心的想法，打造第二大腦則是將資訊外部化，減少大腦的負擔。
 
