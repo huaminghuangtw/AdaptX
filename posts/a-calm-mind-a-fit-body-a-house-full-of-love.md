@@ -1,11 +1,11 @@
 ---
 title: 健康的身體、平靜的內心、充滿愛的家
 created: 2026-05-28
-modified: 2026-06-08
+modified: 2026-06-09
 coverImage: _coverImages/980fdc8f6e71098a347efc88dbbb2ed8.png
 featured: true
 tags:
-  - 這 94 人森
+  - 人蔘
 ---
 
 2023 年 1 月某天，我一個人坐在 [斯圖加特](https://www.google.com/maps?q=Stuttgart) 的 [Feuersee](https://www.google.com/maps?q=Feuersee) 湖畔，對著眼前幾隻天鵝發呆。
