@@ -1,7 +1,7 @@
 ---
 title: 30 年學到的 30 件事
 created: 2026-05-27
-modified: 2026-06-11
+modified: 2026-06-13
 coverImage: _coverImages/
 draft: true
 featured: false
@@ -26,7 +26,7 @@ I’m not a big birthday celebration guy, but every year, I use the day as a spa
 14. 📵 Instead of keeping my phone nearby while working, I now place it in another room, completely out of sight. During focused deep work sessions, I put my phone in a drawer, box, or any spot where it’s out of reach and invisible. > [Ward et al. 2017](https://doi.org/10.1086/691462) found that simply having a smartphone on your desk—even face down and on silent—reduces your available cognitive capacity.
 15. Stop thinking about what your money can buy. Start thinking about what your money can earn.” — J.L. Collins, The Simple Path to Wealth → And more (stop start)
 16. 匱乏 餘裕
-17. prioritize health 身體是唯一要住一輩子的家 法拉利 不會餵他吃垃圾
+17. prioritize health 身體是唯一要住一輩子的家 法拉利 不會餵他吃垃圾 Treat your body as the house you will live forever. > “Take care of your body; it’s the only place you have to live.” — Jim Rohn
 18. Approach the world as your **laboratory** and your work as an ongoing **experiment**. Cultivate an _experimental mindset_—every experience is a **data point**, and each day is part of your **data collection process**. 📊
 19. Walking more each day: 1. Take a 5–10 minute walk after lunch. 2. Step outside for a morning walk and get natural sunlight in your eyes as soon as possible after waking.
 20. Heat-Cold Contrast Therapy
