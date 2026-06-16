@@ -1,7 +1,7 @@
 ---
 title: 學會死亡，就學會活著
 created: 2025-10-03
-modified: 2026-05-10
+modified: 2026-06-16
 coverImage: _coverImages/
 draft: true
 featured: false
@@ -135,7 +135,7 @@ Remarks: Through history, people have gone back into their own pasts, sometime t
 
 作家米奇·艾爾邦在《最後 14 堂星期二的課》中寫道：
 
-> 「事實是，一旦你學會如何死亡，你就學會了如何活著。」
+> 事實是，一旦你學會如何死亡，你就學會了如何活著。
 
 學會死亡，意味著為其到來做好準備，接受它並非生命的對立面，而是生命不可或缺的一部分。於是，你開始留意並感激日常的微小事物，坦然迎接生命中的一切。
 
