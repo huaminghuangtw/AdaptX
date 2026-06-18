@@ -1,7 +1,7 @@
 ---
 title: 30 年學到的 30 件事
 created: 2026-05-27
-modified: 2026-06-17
+modified: 2026-06-18
 coverImage: _coverImages/
 draft: true
 featured: false
@@ -37,11 +37,7 @@ I’m not a big birthday celebration guy, but every year, I use the day as a spa
 20. Walking more each day: 1. Take a 5–10 minute walk after lunch. 2. Step outside for a morning walk and get natural sunlight in your eyes as soon as possible after waking.
 21. Heat-Cold Contrast Therapy
 22. 凡事全力以赴/盡全力。人生沒有最好的選擇，只有在選擇之後，做到最好。Make the best of whatever chances you’re given.
-23. 凡事迭代、堆疊 <https://youtu.be/H0_yKBitO8M> 某天大事 → 每天小事 # The “Consistently Good Rather Than Occasionally Great” Principle
-	* 「配速」很重要！
-	* Don’t aim to be consistently great; aim to be great at being _consistent_.
-	* Mastery follows consistent/constant work.
-	* **Consistency Intensity:** Intensity makes a good story. Consistency makes progress
+23. 凡事迭代、堆疊 <https://youtu.be/H0_yKBitO8M> 某天大事 → 每天小事 [The “Consistently Good Rather Than Occasionally Great” Principle](../../Evergreen-Notes/Permanent-Notes/the-consistently-good-rather-than-occasionally-great-principle.md) [No Unforced Errors](../../Evergreen-Notes/Permanent-Notes/no-unforced-errors.md) Conclusion: It’s very difficult to be smart, but it’s surprisingly easy to be “non-idiotic”. 不要犯蠢
 24. 以終為始
 25. 寫日記、記錄生活
 26. It’s okay to live a life that looks confusing to others. It’s okay to go to bed at 7 pm and wake up at 4 am. Unapologetically
@@ -50,7 +46,8 @@ I’m not a big birthday celebration guy, but every year, I use the day as a spa
 29. 建立事情的優先順序，每天保留至少 1 小時不受干擾。在這完整的 60 分鐘裡，沒有神、沒有國家、沒有家人，只有你自己。你要相信自己終將成為自己的英雄。
 30. 成功是不能衡量的，也不能戴在手上，更不能掛在牆上。成功不是同仁的尊敬，也不是社區的讚美。成功，是知道自己已成為真正的自己，成為你一直該做的自己。
 31. 不是長大成人，而是保持赤子之心。任何時候，你都必須保護自己維持那個天真的好奇心。如果可以的話，最好能培養無憂無慮的能力：不要在意外表、不要在意他人的眼光，並且來真的！
-32. 100% 堅守原則，要比 98% 來得容易。([2025_06_11](../../Daily-Bullet-Journal/journals/2025/06-June/2025_06_11.md))
+32. self-compassion positive self-talk [Your relationship with yourself sets the tone for every other relationships you have](../../Evergreen-Notes/Permanent-Notes/your-relationship-with-yourself-sets-the-tone-for-every-other-relationships-you-have.md) [Solitude](../../Evergreen-Notes/Permanent-Notes/solitude.md)
+33. 100% 堅守原則，要比 98% 來得容易。([2025_06_11](../../Daily-Bullet-Journal/journals/2025/06-June/2025_06_11.md))
 
 我沒想過我變老以後，感受到更多的是經歷過時間的僥倖——清楚自己是誰或是想成為誰，清楚自己要的與不要的是什麼，於是選擇變得比較容易，自己願意與不願追求或忍受的是什麼，也知道怎麼從內在驅動，從這裡的Ａ點去到那個Ｂ點。
 
