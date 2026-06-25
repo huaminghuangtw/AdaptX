@@ -1,7 +1,7 @@
 ---
 title: 30 年學到的 30 件事
 created: 2026-05-27
-modified: 2026-06-23
+modified: 2026-06-25
 coverImage: _coverImages/
 draft: true
 featured: false
@@ -13,7 +13,7 @@ I’m not a big birthday celebration guy, but every year, I use the day as a spa
 1. 鍵盤快捷鍵
 2. Write down everything. Brain generate not store idea. Get Things Done.
 3. Read A LOT. Write A LOT. Always take notes as you read.
-4. 佛系：一切隨緣、順其自然、跟著能量流動（journey over destination）
+4. 佛系：一切隨緣、順其自然、跟著能量流動（journey over destination）Wu Wei
 5. Let things unfold naturally. 水到渠成 放下執念
 6. 無限遊戲 > 有限遊戲：Do I know the game I am playing? Do I want the prize for winning this game? Is the game worth winning?
 7. Life is hard. Choose your hard. Use the difficulty. Duke women’s head basketball coach, Kara Lawson, said it better than I ever could in a recent speech to her team about how important it is to “[handle hard well](https://youtu.be/oDzfZOfNki4).”
