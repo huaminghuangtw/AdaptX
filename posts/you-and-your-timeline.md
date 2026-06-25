@@ -1,7 +1,7 @@
 ---
 title: 你與你的時區
 created: 2025-08-30
-modified: 2026-06-13
+modified: 2026-06-25
 coverImage: _coverImages/41f5d232b263a3b8ba3cae2a81b2e364.png
 featured: true
 tags: []
@@ -29,9 +29,9 @@ tags: []
 
 愛因斯坦（[Albert Einstein](https://www.google.com/search?q=Albert+Einstein)）曾說：
 
-> Not everything that can be counted counts. Not everything that counts can be counted.
->
 > 並非所有能計算的東西都重要，並非所有重要的東西都能被計算。
+>
+> Not everything that can be counted counts. Not everything that counts can be counted.
 
 很多事情，往往不如想像中糟糕，也不如想像中美好。
 
@@ -41,13 +41,15 @@ tags: []
 
 賈伯斯（[Steve Jobs](https://www.google.com/search?q=Steve+Jobs)）在 [2005 年的史丹佛大學畢業典禮](https://youtu.be/UF8uR6Z6KLc?t=308) 說過：
 
-> You can’t connect the dots looking forward; you can only connect them looking backwards.
->
 > 你不能預先把生命中的點連接起來，只有在回頭時，才能看出它們是如何相互串連的。
+>
+> You can’t connect the dots looking forward; you can only connect them looking backwards.
 
 沒錯，人生只有在多年後回顧時才能被理解，但在現在這個當下，必須不斷向前、不斷嘗試、不斷探索、不斷試錯、不斷迭代，最後就會找到屬於自己的信仰 — 那件只有你才能做得好的事情。
 
 **當你找到的時候，請梭哈：將所有時間、精神、注意力都奉獻投入。**
+
+---
 
 日文「桜梅桃李（おうばいとうり）」— 櫻、梅、桃、李，代表各自綻放，各自承載天地的安排。
 
@@ -69,7 +71,9 @@ tags: []
 
 別被不屬於你的生活囚禁，也別在不屬於你的人生裡逗留。
 
-如果想要剝奪過程中的樂趣，比較是最好的方式。
+比較是快樂的小偷。如果想要剝奪過程中的樂趣，比較是最好的方式。
+
+---
 
 在只有自己的時區裡，難免感到孤單，也需要勇氣。
 
@@ -91,21 +95,23 @@ _這樣就夠了。_
 
 電影 [《絕地救援》（The Martian）](https://www.imdb.com/title/tt3659388/) 的 [結尾片段](https://youtu.be/mDYCLFE86Po) 中，主角 [Mark Watney](https://www.google.com/search?q=Mark+Watney) 在一間教室裡，對著一群學生描述自己在火星上孤獨求生、面臨絕境時的心境：
 
-> At some point, everything’s gonna go south on you and you’re going to say, this is it. This is how I end. Now you can either accept that, or you can get to work. That’s all it is. You just begin. You do the math. You solve one problem and you solve the next one, and then the next. And If you solve enough problems, you get to come home.
->
 > 在某個時刻，一切都會走下坡，你開始告訴自己：「到此為止了，這就是我的結局。」這時，我們可以選擇接受它，或者立刻動手去做。就是這麼簡單。你只需要開始，解決第一個問題，再解決第二個，然後第三個。當你解決了足夠多的問題，就能回家。
+>
+> At some point, everything’s gonna go south on you and you’re going to say, this is it. This is how I end. Now you can either accept that, or you can get to work. That’s all it is. You just begin. You do the math. You solve one problem and you solve the next one, and then the next. And If you solve enough problems, you get to come home.
 
 我很喜歡奧斯卡影帝 [Will Smith](https://www.google.com/search?q=Will+Smith) 的「[堆磚塊](https://youtu.be/wIsgyIq_kFs?t=128s)」心態：
 
-> You don’t try to build a wall. You don’t start by saying, I’m going to build the biggest, baddest wall that’s ever been built. You say, I’m going to lay this brick as perfectly as a brick can be laid. You do that every single day, and soon you have a wall.
->
 > 你不說：「我要蓋出一道完美的牆。」你說：「我要完美地擺放每塊磚頭，有一天，我就會蓋出一道完美的牆。」
+>
+> You don’t try to build a wall. You don’t start by saying, I’m going to build the biggest, baddest wall that’s ever been built. You say, I’m going to lay this brick as perfectly as a brick can be laid. You do that every single day, and soon you have a wall.
 
 專注於一磚一瓦的堆砌，築起屬於你的城牆和羅馬帝國，只是時間早晚的問題。
 
 請記住：想移動高山，先搬走第一顆小石頭；想擁抱大海，先捧起手心裡的第一滴水。
 
 這就像開夜車從台北前往高雄：車燈只能照亮前方三公尺，周圍一片漆黑，遠方的路況無法看清；但只要持續向前，那三公尺的光就會不斷延伸，最終帶領我們抵達終點。
+
+---
 
 沉住氣，保持耐心。一個可以精通耐心的人可以精通任何事物。
 
