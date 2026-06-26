@@ -1,7 +1,7 @@
 ---
 title: 30 年學到的 30 件事
 created: 2026-05-27
-modified: 2026-06-25
+modified: 2026-06-26
 coverImage: _coverImages/
 draft: true
 featured: false
@@ -48,6 +48,7 @@ I’m not a big birthday celebration guy, but every year, I use the day as a spa
 31. 不是長大成人，而是保持赤子之心。任何時候，你都必須保護自己維持那個天真的好奇心。如果可以的話，最好能培養無憂無慮的能力：不要在意外表、不要在意他人的眼光，並且來真的！
 32. self-compassion positive self-talk [Your relationship with yourself sets the tone for every other relationships you have](../../Evergreen-Notes/Permanent-Notes/your-relationship-with-yourself-sets-the-tone-for-every-other-relationships-you-have.md) [Solitude](../../Evergreen-Notes/Permanent-Notes/solitude.md)
 33. 100% 堅守原則，要比 98% 來得容易。([2025_06_11](../../Daily-Bullet-Journal/journals/2025/06-June/2025_06_11.md))
+34. EVERYDAY is easier than SOMEDAY.
 
 我沒想過我變老以後，感受到更多的是經歷過時間的僥倖——清楚自己是誰或是想成為誰，清楚自己要的與不要的是什麼，於是選擇變得比較容易，自己願意與不願追求或忍受的是什麼，也知道怎麼從內在驅動，從這裡的Ａ點去到那個Ｂ點。
 
@@ -58,3 +59,5 @@ I’m not a big birthday celebration guy, but every year, I use the day as a spa
 ---
 
 [35 Life Lessons From 35 Years | The Curiosity Chronicle](https://www.sahilbloom.com/newsletter/35-life-lessons-from-35-years)
+
+[29% Loaded - Young Money by Jack Raines](https://www.youngmoney.co/p/29-loaded)
