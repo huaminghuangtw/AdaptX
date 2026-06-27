@@ -1,7 +1,7 @@
 ---
 title: 你與你的時區
 created: 2025-08-30
-modified: 2026-06-25
+modified: 2026-06-27
 coverImage: _coverImages/41f5d232b263a3b8ba3cae2a81b2e364.png
 featured: true
 tags: []
@@ -181,7 +181,7 @@ _這樣就夠了。_
 
 每顆星球都有自己的軌道，每個人也都在自己的時區裡，照著自己的配速前進，遇到屬於自己的機會。
 
-《聖經》裡有一句話：
+《聖經》裡有句話：
 
 > 天下萬物皆有定時。
 
