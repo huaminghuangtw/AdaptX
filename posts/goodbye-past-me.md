@@ -1,7 +1,7 @@
 ---
 title: 和過去的自己說再見
 created: 2025-12-11
-modified: 2026-05-10
+modified: 2026-06-27
 coverImage: _coverImages/3e8b940b9c3dc98bf25e8ac533251449.png
 featured: true
 tags: []
@@ -178,7 +178,7 @@ tags: []
 
 或許七年後，你會蛻變成連現在的自己都意想不到的樣子。
 
-最後，我想引用 [小野](https://www.google.com/search?q=小野) 在《[有些事，這些年我才懂](https://www.books.com.tw/products/0010548551)》中的文字：
+最後，我想分享 [小野](https://www.google.com/search?q=小野) 在《[有些事，這些年我才懂](https://www.books.com.tw/products/0010548551)》中的文字：
 
 > 人生不是「是非題」，沒有絕對的對錯、是非和黑白。
 >
