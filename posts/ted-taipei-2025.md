@@ -1,23 +1,17 @@
 ---
 title: 什麼是更好的活著？我在 TED×Taipei 2025 年會得到的五個答案
 created: 2025-11-12
-modified: 2026-06-16
+modified: 2026-07-07
 coverImage: _coverImages/db8ac301faf2da7c717ecc5cfc04a8b8.jpeg
 featured: false
 tags: []
 ---
 
-兩週前，我到台北參加了 TED×Taipei 2025 年會《[THE Present 此刻 x 未來](https://tedxtaipei.oen.tw/)》。
+兩週前，我到台北參加 TED×Taipei 2025 年會《[THE Present 此刻 x 未來](https://tedxtaipei.oen.tw/)》。
 
-這份機緣來自某天跑步時，一段 [策展人夫婦邱孟漢 Dio 與楊于葶 Prem](https://onepercent.storm.mg/article/5353272) 在 [張修修的不正常人類研究所 Podcast 上的訪談](https://youtu.be/RfxMXZWPcOM)。
+這份機緣來自某天跑步時，一段 [策展人夫婦邱孟漢 Dio 與楊于葶 Prem](https://onepercent.storm.mg/article/5353272) 的 [訪談](https://youtu.be/RfxMXZWPcOM)。
 
-加上蔣勳老師在 TED×Taipei 上一支廣為流傳的 YouTube 影片《[留十八分鐘給自己](https://youtu.be/6i7RcP39NB0)》，讓我一直嚮往能親身坐在台下，聆聽啟發人心的 TED Talk。
-
-我始終相信：「不適」，是一種邀請，是蛻變的信號。
-
-刻意將自己置身於「像個初學者」的環境，那種不舒服的感覺，是成長的起點。
-
-每一次，我總能帶著新的學習與反思離開，以更宏觀、更多元的角度重新審視人生。
+加上蔣勳老師在 TED×Taipei 上的演講《[留十八分鐘給自己](https://youtu.be/6i7RcP39NB0)》，讓我一直嚮往能親身坐在台下，聆聽啟發人心的 TED Talk。
 
 於是，在 11/1 這天，我抱著開放、好奇的心態，走進松山文創園區四號倉庫，向大師們學習：如何用 18 分鐘，把一個故事說好。
 
@@ -27,20 +21,29 @@ tags: []
 
 # 1. 身體就是最高明的內在醫生
 
-這場年會和癌症紀錄片《[交換禮物](https://giloo.ist/zh-TW/episodes/2589)》團隊的林明謙、曾寶儀共同策劃，其中幾位講者是曾在片中出現過的醫療專家。
+這場年會和癌症紀錄片《[交換禮物](https://giloo.ist/zh-TW/episodes/2589)》團隊的林明謙、曾寶儀共同策劃，其中幾位講者是片中出現過的醫療專家。
 
-《[人體使用手冊](https://www.meri-tech.com)》作者 [吳清忠](https://www.google.com/search?q=吳清忠)，用科學化中醫的視角 [指出](https://youtu.be/VCTwNf0FMg0)，許多看似不適的症狀，例如疲倦、食慾下降、甚至是輕微發燒，都是「[自癒（self-healing）機制](https://zh.wikipedia.org/zh-tw/%E8%87%AA%E7%99%92%E5%8A%9B)」啟動的表徵，表示身體正在進行自我修復的過程。
+《[人體使用手冊](https://www.meri-tech.com)》作者 [吳清忠](https://www.google.com/search?q=吳清忠)，用科學化中醫的視角 [指出](https://youtu.be/VCTwNf0FMg0)，許多看似不適的症狀，例如疲倦、食慾下降、甚至是輕微發燒，都是「[自癒機制](https://zh.wikipedia.org/zh-tw/%E8%87%AA%E7%99%92%E5%8A%9B)」啟動的表徵，表示身體正在進行自我修復。
 
-這套「自然智能（Natural Intelligence, NI）」無時無刻都在運作：它會在睡眠不足時自動加深睡眠；在二氧化碳過多時加速呼吸；在運動後默默修復肌肉。
+這套「自然智能」（Natural Intelligence，NI）無時無刻都在運作：
 
-NI 的理念在於「先觀察、支持身體的自清與修復，而非急於壓制、修理每個症狀」。
+* 在缺乏氧氣時加速呼吸
+* 在睡眠不足時加深睡眠
+* 在運動後默默修復肌肉
 
-曾遠赴美國 [巴斯帝爾醫學大學](https://bastyr.edu) 攻讀自然醫學博士學位（Doctor of Naturopathic Medicine, N.D.）、[全球唯一台美雙執照醫學專家](https://spectrummedicine.com/about) 的 [林子平](https://www.google.com/search?q=林子平) 醫師，也 [引用](https://youtu.be/Ke_UeE35s8w) 西方醫學之父 [Hippocrates](https://zh.wikipedia.org/zh-tw/%E5%B8%8C%E6%B3%A2%E5%85%8B%E6%8B%89%E5%BA%95) 的智慧 [Vis medicatrix naturae](https://en.wikipedia.org/wiki/Vis_medicatrix_naturae)（拉丁文，意思是「自然治癒之力」），強調醫師的職責並非直接治癒病人，而是協助身體的自然修復過程。
+NI 的理念在於：**先觀察、支持身體的自清與修復，而非急於壓制、修理每個症狀**。
 
-> “It’s supposed to be a professional secret, but I’ll tell you anyway. We doctors do nothing. We only help and encourage the doctor within.” — Albert Schweitzer
->
+曾遠赴美國 [巴斯帝爾醫學大學](https://bastyr.edu) 攻讀自然醫學博士學位（Doctor of Naturopathic Medicine，N.D.）、[全球唯一台美雙執照醫學專家](https://spectrummedicine.com/about) 的 [林子平](https://www.google.com/search?q=林子平) 醫師，也 [引用](https://youtu.be/Ke_UeE35s8w) 西方醫學之父 [Hippocrates](https://zh.wikipedia.org/zh-tw/%E5%B8%8C%E6%B3%A2%E5%85%8B%E6%8B%89%E5%BA%95) 的智慧：
+
+> [Vis medicatrix naturae](https://en.wikipedia.org/wiki/Vis_medicatrix_naturae)
+
+拉丁文，意思是「自然治癒之力」，強調醫師的職責並非直接治癒病人，而是協助身體的自然修復過程。
+
+畢生在非洲從事人道醫療工作、被世人尊稱為「非洲之父」的 [史懷哲](https://www.google.com/search?q=史懷哲)（Albert Schweitzer）博士曾說：
+
 > 這本該是個職業秘密，但我還是要告訴你：我們醫生其實什麼也沒做，只是協助並鼓勵你的內在醫生罷了。
-> — 史懷哲
+>
+> It’s supposed to be a professional secret, but I’ll tell you anyway. We doctors do nothing. We only help and encourage the doctor within.
 
 身體是造物者的完美傑作，蘊藏著自我調節、從不出錯的智慧。
 
@@ -60,9 +63,9 @@ NI 的理念在於「先觀察、支持身體的自清與修復，而非急於�
 
 英文有一句諺語：
 
-> An ounce of prevention is worth a pound of cure.
->
 > 預防勝於治療。
+>
+> An ounce of prevention is worth a pound of cure.
 
 _原來，給未來最誠摯的禮物，是學會臣服於身體當下的反應，並認真傾聽身體內在的聲音。_
 
@@ -70,13 +73,13 @@ _原來，給未來最誠摯的禮物，是學會臣服於身體當下的反應�
 
 在歌頌外在成就的社會裡，我們常以「有沒有用」來衡量自己的價值，然後把「沒用」和「沒價值」畫上等號。
 
-心理諮商師、暢銷書《[情緒勒索](https://www.books.com.tw/products/0010742371)》作者 [周慕姿](https://www.google.com/search?q=周慕姿) 告訴我們：
+《[情緒勒索](https://www.books.com.tw/products/0010742371)》作者、心理諮商師 [周慕姿](https://www.google.com/search?q=周慕姿) 告訴我們：
 
 > 存在本身就是價值。
 
 想想家中那隻寵物貓，牠不工作、不賺錢、不生產，也不會幫你洗碗或倒垃圾，在「實際貢獻」上幾乎是零分。
 
-但我們依然愛牠，願意花時間和金錢照顧牠，只因為牠的存在本身就令人療癒。
+但我們依然愛牠，願意照顧牠，只因為牠的存在本身就令人療癒。
 
 陪伴，沒有所謂的成功或失敗；陪伴，就只是陪伴而已。
 
@@ -100,35 +103,35 @@ _原來，給未來最溫柔的禮物，是允許自己和他人單純地「存�
 
 自愛，並不是自私；愛自己，是把最好的自己奉獻給世界，而不是剩下的自己。
 
-做自己的太陽，就能當別人的光；讓自己發光，就能照亮別人。
-
-[如果你心中有願望，請看著天上的星星，對自己許願。](https://youtu.be/_ziTd2w06xk?t=18m39s)
-
 _原來，給未來最溫暖的禮物，是學會為自己的心騰出空間，並成為那個無條件善待自己的人。_
 
 # 4. 放下手機，拾起真實的連結
 
-座談中，主持人 Prem 問林子平醫師：「如果有一件事必須被放進現代孩童的教育課程，你會選什麼？」
+座談中，主持人 Prem 問林子平醫師：
 
-他想了想，帶著招牌笑容回答：「吃飯時，把手機放下兩個小時。」
+> 如果有一件事必須被放進現代孩童的教育課程，你會選什麼？
 
-接著說：「利用這段時間，問問孩子今天發生了什麼事，或者分享自己的生活。」
+他想了想，帶著招牌笑容回答：
+
+> 吃飯時，把手機放下兩個小時。
+
+接著說：
+
+> 利用這段時間，問問孩子今天發生了什麼事，或者分享自己的生活。
 
 幾年前，受到 Netflix 紀錄片 《[智能社會：進退兩難](https://www.imdb.com/title/tt11464826/)》（The Social Dilemma）的醍醐灌頂，我開始意識到手機和社群媒體潛藏的心理健康危機，並下定決心 [投入改善現代人手機成癮的議題](https://shortcutomation.com)。
 
-智慧型手機的出現，徹底改寫了人類閱讀、獲取資訊以及社交互動的方式。
+智慧型手機的出現，徹底改寫了人類獲取資訊以及社交互動的方式。
 
-手機成癮，或許正是這個時代正以倍速蔓延，卻沉默無聲的流行病（silent pandemic）。
+手機成癮，或許正是這個時代正以倍速蔓延，卻沉默無聲的流行病。
 
-美國社會心理學家 [Jonathan Haidt](https://www.google.com/search?q=Jonathan+Haidt) 在《[失控的焦慮世代](https://www.goodreads.com/work/quotes/180330965-the-anxious-generation-how-the-great-rewiring-of-childhood-caused-an-ep)》（The Anxious Generation）寫道：
+美國社會心理學家 [Jonathan Haidt](https://www.google.com/search?q=Jonathan+Haidt) 在《[失控的焦慮世代](https://www.books.com.tw/products/0011006606)》（[The Anxious Generation](https://www.goodreads.com/book/show/171681821-the-anxious-generation)）寫道：
 
-> Overprotection in the real world and underprotection in the virtual world are the major reasons why children born after 1995 became the anxious generation.
->
 > 現實世界中過度保護，虛擬世界中疏於保護，是 1995 年後出生的孩子們，成為焦慮世代的主要原因。
+>
+> Overprotection in the real world and underprotection in the virtual world are the major reasons why children born after 1995 became the anxious generation.
 
-[研究顯示](https://doi.org/10.1086/691462)，即使只是把手機放在桌上，也會降低我們的 [心智頻寬 (mental bandwidth)](https://doi.org/10.1086/691462)，使我們 [在對話中顯得不夠專注](https://doi.org/10.1016/j.jesp.2022.104344)。
-
-當我們將目光從螢幕移開，才能真正看見彼此。
+[研究顯示](https://doi.org/10.1086/691462)，即使只是把手機放在桌上，也會降低我們的 [心智頻寬](https://doi.org/10.1086/691462)，使我們 [在對話中顯得不夠專注](https://doi.org/10.1016/j.jesp.2022.104344)。
 
 餐桌，不只是吃飯的地方，更是與人交流情感、學習主動傾聽的教育場域。
 
@@ -144,7 +147,7 @@ _原來，給未來最珍貴的禮物，是創造一個沒有數位科技干擾�
 
 她的作品傳達在「[人類世](https://www.google.com/search?q=人類世)」（Anthropocene）下，我們如何影響萬物的命運。
 
-舒夢蘭的 [分享](https://youtu.be/vvd7f7cuDMU) 提醒我：人類並非地球的主人，而是與萬物同屬一個生命共同體。
+舒夢蘭的 [分享](https://youtu.be/vvd7f7cuDMU) 提醒我：**人類並非地球的主人，而是與萬物同屬一個生命共同體**。
 
 也讓我思考：**我們要為這片土地留下什麼樣的未來？我們要如何造福尚未到來的下一代？**
 
@@ -154,13 +157,15 @@ _原來，給未來最永續的禮物，是選擇與萬物共榮，守護我們�
 
 # 當下的行動，如何成為明日的禮物？
 
-年會尾聲，策展人 Prem 在台上感性地說：「這裡不只是講追求成功的講堂，我們更在乎在 AI 的時代下，人與人之間內心的連結，我們每個人，能否把心安好？」
+年會尾聲，策展人 Prem 在台上感性地說：
 
-這不只是一場知識的饗宴，更是一場生命教育的集體實踐。
+> 這裡不只是講追求成功的講堂，我們更在乎在 AI 的時代下，人與人之間內心的連結，我們每個人，能否把心安好？
+
+這不只是一場知識饗宴，更是一場生命教育的集體實踐。
 
 我好像來到一間真人圖書館，聽完十位講者的故事，像是讀了十本厚重的書。
 
-TED 就像是一間人生學校（School of Life），在這裡，我們從別人的生命故事學習。
+TED 就像是一間人生學校，在這裡，我們從別人的生命故事學習。
 
 生命會感動生命，故事會召喚故事。
 
@@ -168,7 +173,7 @@ TED 就像是一間人生學校（School of Life），在這裡，我們從別�
 
 **我要如何將此刻活成給未來的禮物？我要如何將當下的行動，變成明日的禮物？**
 
-「Present」，不只是把握每一個「現在」，更是我們願意無私付出、給予的生命「禮物」。
+Present，不只是把握每一個「現在」，更是我們願意無私付出、給予的生命「禮物」。
 
 踏入 TED 實體現場，是我今年做過最棒的決定之一。
 
