@@ -1,10 +1,9 @@
 ---
 title: 30 件我希望 20 歲時就懂的事
 created: 2025-10-15
-modified: 2026-07-08
+modified: 2026-07-19
 coverImage: _coverImages/000e30aa1958044e4daeb981190cdbe4.png
 featured: false
-tags: []
 ---
 
 1. 最有用的生物駭客技法，是睡覺。

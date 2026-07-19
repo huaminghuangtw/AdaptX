@@ -1,11 +1,10 @@
 ---
 title: Productivity
 created: 2026-04-13
-modified: 2026-05-10
+modified: 2026-07-19
 coverImage: _coverImages/
 draft: true
 featured: false
-tags: []
 ---
 
 The goal is _sustainable_ productivity.

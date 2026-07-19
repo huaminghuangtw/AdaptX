@@ -1,11 +1,10 @@
 ---
 title: 再也不要因為事情微小而不為
 created: 2025-08-14
-modified: 2026-05-10
+modified: 2026-07-19
 coverImage: _coverImages/
 draft: true
 featured: false
-tags: []
 ---
 
 > “We ourselves feel that what we are doing is just a drop in the ocean. But the ocean would be less because of that missing drop.” — Mother Teresa

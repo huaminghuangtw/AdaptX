@@ -1,11 +1,9 @@
 ---
 title: 健康的身體、平靜的內心、充滿愛的家
 created: 2026-05-28
-modified: 2026-07-07
+modified: 2026-07-19
 coverImage: _coverImages/980fdc8f6e71098a347efc88dbbb2ed8.png
 featured: true
-tags:
-  - 人蔘
 ---
 
 > [!NOTE] 這是我在「[BlogBlog 同樂會 - 2026 年 5 月](https://blogblog.club/party/)」的投稿文章。本月主題是「[改變人生觀的一句話](https://eddielv.com/articles/a-sentence-changing-you/)」，由 [Eddie Lv](https://eddielv.com) 主持。如果你有自己的部落格，歡迎一起來參加！

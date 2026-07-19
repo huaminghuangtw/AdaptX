@@ -1,10 +1,9 @@
 ---
 title: 和過去的自己說再見
 created: 2025-12-11
-modified: 2026-06-27
+modified: 2026-07-19
 coverImage: _coverImages/3e8b940b9c3dc98bf25e8ac533251449.png
 featured: true
-tags: []
 ---
 
 古希臘作家普魯塔克（[Plutarch](https://www.google.com/search?q=Plutarch)）曾記錄過一個 [思想實驗](https://zh.wikipedia.org/zh-tw/%E5%BF%92%E4%BF%AE%E6%96%AF%E4%B9%8B%E8%88%B9)：

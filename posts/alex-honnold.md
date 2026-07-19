@@ -1,11 +1,10 @@
 ---
 title: Alex Honnold
 created: 2026-02-06
-modified: 2026-05-10
+modified: 2026-07-19
 coverImage: _coverImages/
 draft: true
 featured: false
-tags: []
 ---
 
 %% Avoid: 不是…而是… %%
