@@ -4,7 +4,6 @@ created: 2025-10-21
 modified: 2026-07-19
 coverImage: _coverImages/
 draft: true
-featured: false
 ---
 
 > [Unsere Träume können wir erst dann verwirklichen, wenn wir uns entschließen, einmal daraus zu erwachen. (當我們決定從夢中醒來時，我們才有可能實現自己的夢想。)](http://www.godic.net/home/dailysentence/c66d4c09-48ca-4fea-8665-779d2476f62c)
