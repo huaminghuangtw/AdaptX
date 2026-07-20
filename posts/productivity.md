@@ -4,7 +4,6 @@ created: 2026-04-13
 modified: 2026-07-19
 coverImage: _coverImages/
 draft: true
-featured: false
 ---
 
 The goal is _sustainable_ productivity.
