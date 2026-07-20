@@ -4,7 +4,6 @@ created: 2026-05-27
 modified: 2026-07-19
 coverImage: _coverImages/
 draft: true
-featured: false
 ---
 
 I’m not a big birthday celebration guy, but every year, I use the day as a spark for reflection—to zoom out and consider what I’ve learned along the way. It creates a clear alignment between short-term actions and long-term direction.
