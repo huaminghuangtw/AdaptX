@@ -4,5 +4,4 @@ created: 2025-10-25
 modified: 2026-07-19
 coverImage: _coverImages/
 draft: true
-featured: false
 ---
