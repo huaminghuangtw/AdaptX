@@ -3,7 +3,6 @@ title: 什麼是更好的活著？我在 TED×Taipei 2025 年會得到的五個�
 created: 2025-11-12
 modified: 2026-07-19
 coverImage: _coverImages/db8ac301faf2da7c717ecc5cfc04a8b8.jpeg
-featured: false
 ---
 
 兩週前，我到台北參加 TED×Taipei 2025 年會《[THE Present 此刻 x 未來](https://tedxtaipei.oen.tw/)》。
