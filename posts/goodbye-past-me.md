@@ -1,7 +1,7 @@
 ---
 title: 和過去的自己說再見
 created: 2025-12-11
-modified: 2026-07-19
+modified: 2026-07-21
 coverImage: _coverImages/3e8b940b9c3dc98bf25e8ac533251449.png
 featured: true
 ---
@@ -89,9 +89,9 @@ featured: true
 
 美國小說家 [F. Scott Fitzgerald](https://www.google.com/search?q=F.+Scott+Fitzgerald) 曾說：
 
-> The test of a first-rate intelligence is the ability to hold two opposed ideas in mind at the same time and still retain the ability to function.
->
 > 一流智力的考驗，在於能否同時保有兩種對立觀點，並且還能正常行事。
+>
+> The test of a first-rate intelligence is the ability to hold two opposed ideas in mind at the same time and still retain the ability to function.
 
 質疑，是一種求知的態度。
 
