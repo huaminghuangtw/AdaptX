@@ -1,7 +1,7 @@
 ---
 title: 時間是終極貨幣：你如何投資你的人際關係？
 created: 2025-10-14
-modified: 2026-07-19
+modified: 2026-07-22
 coverImage: _coverImages/9367cb3d910baa4e43f8a7e3cb3aef4c.png
 ---
 
@@ -17,12 +17,7 @@ coverImage: _coverImages/9367cb3d910baa4e43f8a7e3cb3aef4c.png
 
 [美國時間使用調查（American Time Use Survey, ATUS](https://ourworldindata.org/time-use)）的研究人員 [^1] 分析了人們在人生不同階段的人際關係時間分配。
 
-<iframe
-	src="https://ourworldindata.org/grapher/time-spent-with-relationships-by-age-us?tab=chart"
-	width="100%"
-</iframe>
-
-這份資料提供一面鏡子，幫助我們理解自己與周遭人群的關係變化，也提醒我們更有意識地決定要將時間投注在哪裡。
+<iframe src="https://ourworldindata.org/grapher/time-spent-with-relationships-by-age-us?tab=chart" loading="lazy" style="width: 100%; height: 600px; border: 0px none;" allow="web-share; clipboard-write"></iframe>
 
 為了更清楚呈現這些趨勢，我將資料依關係類別拆分成六張圖表 [^2]，接下來讓我們逐一探討。
 
