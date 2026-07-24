@@ -1,7 +1,7 @@
 ---
 title: 再也不要因為事情微小而不為
 created: 2025-08-14
-modified: 2026-07-19
+modified: 2026-07-24
 coverImage: _coverImages/
 draft: true
 ---
