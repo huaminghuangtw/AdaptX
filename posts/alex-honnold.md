@@ -30,7 +30,7 @@ Netflix 甚至 [全球同步直播](https://youtu.be/KkVZm5UuXIs) 這場前所�
 
 這面近 900 公尺、幾乎是台北 101 兩倍高的巨大單體垂直花崗岩，被譽為攀岩界的終極殿堂。Alex 沒有任何繩索或保護裝備，僅靠一個人、一雙鞋、一袋止滑粉，用最自然的方式挑戰大自然。他沿著 Freerider 路線，最後僅用 3 小時 56 分鐘就成功登頂。
 
-![](_attachments/341810e9088ea7cea3ad4843f9a1674f.png "圖片來源：Everest Today")
+![](https://media.huam.ing/image/341810e9088ea7cea3ad4843f9a1674f.webp "圖片來源：Everest Today")
 
 這段過程被國家地理頻道拍成紀錄片《[赤手登峰](https://films.nationalgeographic.com/free-solo)》（[Free Solo](https://youtu.be/3-wjmIFlnNo)），不僅震撼全世界，更榮獲 [2019 年奧斯卡最佳紀錄片獎](https://youtu.be/oy1KPxRWL1g)。
 
