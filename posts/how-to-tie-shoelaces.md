@@ -63,19 +63,19 @@ coverImage: _coverImages/030905b2eba08473ea1034f327737172.png
 
 只要**第二次方向與第一次相反**，蝴蝶結就會既平整又漂亮。
 
-![](_attachments/7903d0e05eda3fff513fe7ce4daa83c1.png)
+![](https://media.huam.ing/image/7903d0e05eda3fff513fe7ce4daa83c1.webp)
 
 ## 塞進鞋帶下方
 
 把綁好的蝴蝶結，塞進左右交叉的鞋帶下方。這樣一來，鞋帶就會被牢牢壓住，想甩都甩不掉！
 
-![](_attachments/71f1761c91467de06d2dca100a5238f6.jpg)
+![](https://media.huam.ing/image/71f1761c91467de06d2dca100a5238f6.webp)
 
 ## 扁鞋帶 > 圓鞋帶
 
 選扁的鞋帶，盡量別選圓的。因為扁鞋帶的接觸面積大、摩擦力強，比起圓繩更不容易滑開。
 
-![](_attachments/b9299ea25139562fbc330e7c32d79875.jpg)
+![](https://media.huam.ing/image/b9299ea25139562fbc330e7c32d79875.webp)
 
 # 別再讓鞋帶毀了你的好心情
 
