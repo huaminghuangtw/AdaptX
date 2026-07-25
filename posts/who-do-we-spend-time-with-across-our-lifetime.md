@@ -1,7 +1,7 @@
 ---
 title: 時間是終極貨幣：你如何投資你的人際關係？
 created: 2025-10-14
-modified: 2026-07-22
+modified: 2026-07-25
 coverImage: _coverImages/9367cb3d910baa4e43f8a7e3cb3aef4c.png
 ---
 
@@ -155,7 +155,7 @@ coverImage: _coverImages/9367cb3d910baa4e43f8a7e3cb3aef4c.png
 
 [自己一個人時，你都怎麼看待自己呢？](https://youtu.be/k7X7sZzSXYs)
 
-![](_attachments/dfde931f7914b88f7d309950f572cebc.jpeg)
+![](https://media.huam.ing/image/dfde931f7914b88f7d309950f572cebc.webp)
 
 ---
 
