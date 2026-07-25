@@ -33,7 +33,7 @@ _**有時，身邊的人需要的，僅僅是你的靜心陪伴與專注傾聽�
 
 **我學到，最好的安慰，不是一句說出口的「你應該」，而是那句沒有說的「我在這裡」。**
 
-![](_attachments/904ca555e4b4781eac14ba61fbe2f433.png "圖片來源：PJ Milani")
+![](https://media.huam.ing/image/904ca555e4b4781eac14ba61fbe2f433.webp "圖片來源：PJ Milani")
 
 「該做些什麼來改變現狀」，其實只是我們自己的需求；對方真正的需求，是有人願意接納他們的狀態，並與其同在。
 
@@ -79,7 +79,7 @@ _**有時，身邊的人需要的，僅僅是你的靜心陪伴與專注傾聽�
 
 成功的溝通，始於釐清「我們正在進行哪一種類型的對話」。唯有雙方對焦於同一頻道，連結與共鳴才有可能發生。若缺乏這份覺察，再多言語也難以觸及彼此。
 
-![](_attachments/93bae1325ed7953f4e2ec6ef1318c910.png "圖片來源：YouTube 影片【The science behind dramatically better conversations | TED×Manchester】")
+![](https://media.huam.ing/image/93bae1325ed7953f4e2ec6ef1318c910.webp "圖片來源：YouTube 影片【The science behind dramatically better conversations | TED×Manchester】")
 
 # 2. 區分「同理心」與「解決方案」
 
