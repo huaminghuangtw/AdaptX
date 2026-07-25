@@ -152,7 +152,7 @@ _這樣就夠了。_
 
 愛上追尋的感覺，因為**旅程本身就是最棒的獎勵**。
 
-![](_attachments/b949794eaae9cc559197a7bb489a7dd5.png)
+![](https://media.huam.ing/image/b949794eaae9cc559197a7bb489a7dd5.webp)
 
 人生不是和別人競爭的短跑衝刺，而是和自己對話的長程馬拉松。
 
