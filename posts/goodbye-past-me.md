@@ -19,7 +19,7 @@ featured: true
 1. 這艘船還是原來那艘特修斯之船嗎？
 2. 如果有人將拆下來的舊木板重新組裝成另一艘船，那麼，哪艘才是真正的「原船」？
 
-![](_attachments/01202bc6186b04e6689f997e2894f347.png)
+![](https://media.huam.ing/image/01202bc6186b04e6689f997e2894f347.webp)
 
 這不只是個哲學悖論，更是拿來思考人生的好題材。
 
@@ -45,7 +45,7 @@ featured: true
 
 人都無法游向新的地平線，直到有勇氣告別海岸。
 
-![](_attachments/ab6d048cb84db54e34571bf7f18b3213.jpeg "圖片來源：Wait But Why")
+![](https://media.huam.ing/image/ab6d048cb84db54e34571bf7f18b3213.webp "圖片來源：Wait But Why")
 
 ---
 
@@ -69,7 +69,7 @@ featured: true
 
 ---
 
-![](_attachments/46c91a134331aaea44f4b7ad6be191c4.png)
+![](https://media.huam.ing/image/46c91a134331aaea44f4b7ad6be191c4.webp)
 
 身體每七年就默默完成一次重生；但心智的重生，需要我們親手啟動。
 
@@ -153,7 +153,7 @@ featured: true
 
 只有我 — 那個不完美，卻仍持續迭代、更新、進步、成長、變強的我。
 
-![](_attachments/67cb0dae01bfddcf6882795599773d01.png)
+![](https://media.huam.ing/image/67cb0dae01bfddcf6882795599773d01.webp)
 
 ---
 
@@ -191,4 +191,4 @@ featured: true
 >
 > 你越早去面對和思考這些問題，越不會讓自己像一球被弄亂的毛線球，理不出頭緒來，也不會繞了許多冤枉的路，最後被亂了的毛線球綑綁住自己，無法繼續前進。
 
-![](_attachments/8b85b57c1e4c993fca169958832f8038.png)
+![](https://media.huam.ing/image/8b85b57c1e4c993fca169958832f8038.webp)
