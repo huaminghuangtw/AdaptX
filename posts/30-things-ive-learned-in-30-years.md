@@ -1,7 +1,7 @@
 ---
 title: 30 年學到的 30 件事
 created: 2026-05-27
-modified: 2026-07-19
+modified: 2026-07-26
 coverImage: _coverImages/
 draft: true
 ---
@@ -60,12 +60,13 @@ I’m not a big birthday celebration guy, but every year, I use the day as a spa
 29. It’s okay to live a life that looks confusing to others. It’s okay to go to bed at 7 pm and wake up at 4 am. Unapologetically
 30. Everyone carries a story, a skill, or a perspective you’ve never encountered. When we meet others **with humility instead of judgment, curiosity instead of assumptions**, the world begins to unfold in surprising ways. Every interaction — no matter how brief — holds the potential to teach us something meaningful. Stay open. Listen deeply.
 31. Slow down to speed up
-32. 建立事情的優先順序，每天保留至少 1 小時不受干擾。在這完整的 60 分鐘裡，沒有神、沒有國家、沒有家人，只有你自己。你要相信自己終將成為自己的英雄。
-33. 成功是不能衡量的，也不能戴在手上，更不能掛在牆上。成功不是同仁的尊敬，也不是社區的讚美。成功，是知道自己已成為真正的自己，成為你一直該做的自己。
-34. 不是長大成人，而是保持赤子之心。任何時候，你都必須保護自己維持那個天真的好奇心。如果可以的話，最好能培養無憂無慮的能力：不要在意外表、不要在意他人的眼光，並且來真的！
-35. self-compassion positive self-talk [Your relationship with yourself sets the tone for every other relationships you have](../../Evergreen-Notes/Permanent-Notes/your-relationship-with-yourself-sets-the-tone-for-every-other-relationships-you-have.md) [Solitude](../../Evergreen-Notes/Permanent-Notes/solitude.md)
-36. 100% 堅守原則，要比 98% 來得容易。([2025_06_11](../../Daily-Bullet-Journal/journals/2025/06-June/2025_06_11.md))
-37. EVERYDAY is easier than SOMEDAY.
+32. 你可以不懂快樂，但不能不懂孤獨
+33. 建立事情的優先順序，每天保留至少 1 小時不受干擾。在這完整的 60 分鐘裡，沒有神、沒有國家、沒有家人，只有你自己。你要相信自己終將成為自己的英雄。
+34. 成功是不能衡量的，也不能戴在手上，更不能掛在牆上。成功不是同仁的尊敬，也不是社區的讚美。成功，是知道自己已成為真正的自己，成為你一直該做的自己。
+35. 不是長大成人，而是保持赤子之心。任何時候，你都必須保護自己維持那個天真的好奇心。如果可以的話，最好能培養無憂無慮的能力：不要在意外表、不要在意他人的眼光，並且來真的！
+36. self-compassion positive self-talk [Your relationship with yourself sets the tone for every other relationships you have](../../Evergreen-Notes/Permanent-Notes/your-relationship-with-yourself-sets-the-tone-for-every-other-relationships-you-have.md) [Solitude](../../Evergreen-Notes/Permanent-Notes/solitude.md)
+37. 100% 堅守原則，要比 98% 來得容易。([2025_06_11](../../Daily-Bullet-Journal/journals/2025/06-June/2025_06_11.md))
+38. EVERYDAY is easier than SOMEDAY.
 
 我沒想過我變老以後，感受到更多的是經歷過時間的僥倖——清楚自己是誰或是想成為誰，清楚自己要的與不要的是什麼，於是選擇變得比較容易，自己願意與不願追求或忍受的是什麼，也知道怎麼從內在驅動，從這裡的Ａ點去到那個Ｂ點。
 
