@@ -1,7 +1,7 @@
 ---
 title: 30 年學到的 30 件事
 created: 2026-05-27
-modified: 2026-07-26
+modified: 2026-07-28
 coverImage: _coverImages/
 draft: true
 ---
@@ -49,24 +49,25 @@ I’m not a big birthday celebration guy, but every year, I use the day as a spa
 18. 📵 Instead of keeping my phone nearby while working, I now place it in another room, completely out of sight. During focused deep work sessions, I put my phone in a drawer, box, or any spot where it’s out of reach and invisible. > [Ward et al. 2017](https://doi.org/10.1086/691462) found that simply having a smartphone on your desk—even face down and on silent—reduces your available cognitive capacity.
 19. Stop thinking about what your money can buy. Start thinking about what your money can earn.” — J.L. Collins, The Simple Path to Wealth → And more (stop start)
 20. 匱乏 餘裕
-21. prioritize health 身體是唯一要住一輩子的家 法拉利 不會餵他吃垃圾 Treat your body as the house you will live forever. > “Take care of your body; it’s the only place you have to live.” — Jim Rohn
-22. Approach the world as your **laboratory** and your work as an ongoing **experiment**. Cultivate an _experimental mindset_—every experience is a **data point**, and each day is part of your **data collection process**. 📊
-23. Walking more each day: 1. Take a 5–10 minute walk after lunch. 2. Step outside for a morning walk and get natural sunlight in your eyes as soon as possible after waking.
-24. Heat-Cold Contrast Therapy
-25. 凡事全力以赴/盡全力。人生沒有最好的選擇，只有在選擇之後，做到最好。Make the best of whatever chances you’re given.
-26. 凡事迭代、堆疊 <https://youtu.be/H0_yKBitO8M> 某天大事 → 每天小事 [The “Consistently Good Rather Than Occasionally Great” Principle](../../Evergreen-Notes/Permanent-Notes/the-consistently-good-rather-than-occasionally-great-principle.md) [No Unforced Errors](../../Evergreen-Notes/Permanent-Notes/no-unforced-errors.md) Conclusion: It’s very difficult to be smart, but it’s surprisingly easy to be “non-idiotic”. 不要犯蠢
-27. 以終為始
-28. 寫日記、記錄生活
-29. It’s okay to live a life that looks confusing to others. It’s okay to go to bed at 7 pm and wake up at 4 am. Unapologetically
-30. Everyone carries a story, a skill, or a perspective you’ve never encountered. When we meet others **with humility instead of judgment, curiosity instead of assumptions**, the world begins to unfold in surprising ways. Every interaction — no matter how brief — holds the potential to teach us something meaningful. Stay open. Listen deeply.
-31. Slow down to speed up
-32. 你可以不懂快樂，但不能不懂孤獨
-33. 建立事情的優先順序，每天保留至少 1 小時不受干擾。在這完整的 60 分鐘裡，沒有神、沒有國家、沒有家人，只有你自己。你要相信自己終將成為自己的英雄。
-34. 成功是不能衡量的，也不能戴在手上，更不能掛在牆上。成功不是同仁的尊敬，也不是社區的讚美。成功，是知道自己已成為真正的自己，成為你一直該做的自己。
-35. 不是長大成人，而是保持赤子之心。任何時候，你都必須保護自己維持那個天真的好奇心。如果可以的話，最好能培養無憂無慮的能力：不要在意外表、不要在意他人的眼光，並且來真的！
-36. self-compassion positive self-talk [Your relationship with yourself sets the tone for every other relationships you have](../../Evergreen-Notes/Permanent-Notes/your-relationship-with-yourself-sets-the-tone-for-every-other-relationships-you-have.md) [Solitude](../../Evergreen-Notes/Permanent-Notes/solitude.md)
-37. 100% 堅守原則，要比 98% 來得容易。([2025_06_11](../../Daily-Bullet-Journal/journals/2025/06-June/2025_06_11.md))
-38. EVERYDAY is easier than SOMEDAY.
+21. 準備好之前就開始行動；精疲力盡之前就停止行動。
+22. prioritize health 身體是唯一要住一輩子的家 法拉利 不會餵他吃垃圾 Treat your body as the house you will live forever. > “Take care of your body; it’s the only place you have to live.” — Jim Rohn
+23. Approach the world as your **laboratory** and your work as an ongoing **experiment**. Cultivate an _experimental mindset_—every experience is a **data point**, and each day is part of your **data collection process**. 📊
+24. Walking more each day: 1. Take a 5–10 minute walk after lunch. 2. Step outside for a morning walk and get natural sunlight in your eyes as soon as possible after waking.
+25. Heat-Cold Contrast Therapy
+26. 凡事全力以赴/盡全力。人生沒有最好的選擇，只有在選擇之後，做到最好。Make the best of whatever chances you’re given.
+27. 凡事迭代、堆疊 <https://youtu.be/H0_yKBitO8M> 某天大事 → 每天小事 [The “Consistently Good Rather Than Occasionally Great” Principle](../../Evergreen-Notes/Permanent-Notes/the-consistently-good-rather-than-occasionally-great-principle.md) [No Unforced Errors](../../Evergreen-Notes/Permanent-Notes/no-unforced-errors.md) Conclusion: It’s very difficult to be smart, but it’s surprisingly easy to be “non-idiotic”. 不要犯蠢
+28. 以終為始
+29. 寫日記、記錄生活
+30. It’s okay to live a life that looks confusing to others. It’s okay to go to bed at 7 pm and wake up at 4 am. Unapologetically
+31. Everyone carries a story, a skill, or a perspective you’ve never encountered. When we meet others **with humility instead of judgment, curiosity instead of assumptions**, the world begins to unfold in surprising ways. Every interaction — no matter how brief — holds the potential to teach us something meaningful. Stay open. Listen deeply.
+32. Slow down to speed up
+33. 你可以不懂快樂，但不能不懂孤獨
+34. 建立事情的優先順序，每天保留至少 1 小時不受干擾。在這完整的 60 分鐘裡，沒有神、沒有國家、沒有家人，只有你自己。你要相信自己終將成為自己的英雄。
+35. 成功是不能衡量的，也不能戴在手上，更不能掛在牆上。成功不是同仁的尊敬，也不是社區的讚美。成功，是知道自己已成為真正的自己，成為你一直該做的自己。
+36. 不是長大成人，而是保持赤子之心。任何時候，你都必須保護自己維持那個天真的好奇心。如果可以的話，最好能培養無憂無慮的能力：不要在意外表、不要在意他人的眼光，並且來真的！
+37. self-compassion positive self-talk [Your relationship with yourself sets the tone for every other relationships you have](../../Evergreen-Notes/Permanent-Notes/your-relationship-with-yourself-sets-the-tone-for-every-other-relationships-you-have.md) [Solitude](../../Evergreen-Notes/Permanent-Notes/solitude.md)
+38. 100% 堅守原則，要比 98% 來得容易。([2025_06_11](../../Daily-Bullet-Journal/journals/2025/06-June/2025_06_11.md))
+39. EVERYDAY is easier than SOMEDAY.
 
 我沒想過我變老以後，感受到更多的是經歷過時間的僥倖——清楚自己是誰或是想成為誰，清楚自己要的與不要的是什麼，於是選擇變得比較容易，自己願意與不願追求或忍受的是什麼，也知道怎麼從內在驅動，從這裡的Ａ點去到那個Ｂ點。
 
